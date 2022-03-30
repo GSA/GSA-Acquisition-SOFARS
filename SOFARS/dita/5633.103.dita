@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_298">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5633.103</ph> Protests to the Agency.</title>
+   <conbody>
+      <p id="LPyyHR" outputclass="Normal">
+         <i>(Revised November 2018)</i>
+      </p>
+      <p id="RHPuVo">(d)</p>
+      <p id="EmikEB" outputclass="List2">(3) Agency protest decisions shall be made by the Contracting Officer.</p>
+      <p id="gpxmjQ" outputclass="List3">(A) When the contract requires contract clearance review by SOF AT&amp;L-KM, KX, or KB as appropriate, include the protest with the contract award documentation forwarded for review.</p>
+      <p id="DTvdLs" outputclass="List3">(B) When the contact requires contract clearance review by SOF AT&amp;L-KM, KX, or KB as appropriate, and a protest is received while the contract is being reviewed for clearance, immediately forward the protest to SOF AT&amp;L-KM, KX, or KB as appropriate for inclusion in the contract award documentation.</p>
+      <p id="SbxysO" outputclass="List3">(C) If the protest is received prior to award, contracting officers shall suspend award IAW <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/33.htm" scope="external">
+            <u>FAR 33.103(f)</u>
+         </xref> (see f(1) below regarding override decisions).</p>
+      <p id="p_BM103_4" outputclass="List2">(4)</p>
+      <p id="zkMHuU" outputclass="List3">(A) Within 10 calendar days of receipt of a request for independent review IAW <xref format="html" href="https://www.acquisition.gov/content/part-33-protests-disputes-and-appeals" scope="external">
+            <u>FAR 33.103(d)(4)</u>
+         </xref>, the Contracting Officer shall forward to their assigned SOF AT&amp;L-KM, KX, or KB LNO all the supporting documentation required using the D&amp;F format to issue a decision. All decisions and recommended actions issued as the result of an independent review shall be approved at two (2) levels above the KO.</p>
+      <p id="hgBPdh" outputclass="List3">(B) Changes in the status of the protest that are deemed significant by the contracting officer, such as the filing of a protest with GAO, the withdrawal of a protest with GAO, or denial of a protest, shall be promptly disseminated to the offices that received the initial protest alert. Electronic transmittal is acceptable.</p>
+      <p id="p_BM103_f">(f)(1) The Director of Procurement (DOP) shall make the determination to proceed with award prior to resolution of protest.</p>
+      <p id="aCmJIS" outputclass="Normal">
+         <i>(Added November 2007)</i>
+      </p>
+      <p id="orxBJx" outputclass="Normal">Follow the procedures in the DCG for Preparing Automatic Stay Override Determination and Findings.</p>
+   </conbody>
+</concept>

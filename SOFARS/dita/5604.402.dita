@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_50">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5604.402</ph> General.</title>
+   <conbody>
+      <p id="FLkLLT" outputclass="Normal">
+         <i>(Revised June 2021)</i>
+      </p>
+      <p id="kxfaAY" outputclass="Normal">All procedures involving safeguarding both classified and unclassified information must be made in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-4-administrative-and-information-matters" scope="external">
+            <u>FAR 4.4</u>
+         </xref>, <xref format="html" href="https://www.acquisition.gov/dfars/part-204-%E2%80%93-administrative-and-information-matters" scope="external">
+            <u>DFARS 204.4</u>
+         </xref>, and the local security requirements and procedures.</p>
+   </conbody>
+</concept>

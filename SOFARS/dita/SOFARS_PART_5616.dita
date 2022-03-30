@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="SOFARS_SOFARS_topic_205">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5616</ph> CONTRACT TYPES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5616.3.dita#SOFARS_SOFARS_topic_206">SUBPART 5616.3 – COST–REIMBURSEMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.307.dita#SOFARS_SOFARS_topic_207">5616.307 Contract Clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5616.4.dita#SOFARS_SOFARS_topic_208">SUBPART 5616.4 – INCENTIVE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.401.dita#SOFARS_SOFARS_topic_209">5616.401 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.406.dita#SOFARS_SOFARS_topic_210">5616.406 Contract Clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5616.5.dita#SOFARS_SOFARS_topic_211">SUBPART 5616.5 – INDEFINITE DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.503.dita#SOFARS_SOFARS_topic_212">5616.503 Requirements Contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.504.dita#SOFARS_SOFARS_topic_213">5616.504 Indefinite–quantity contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.505.dita#SOFARS_SOFARS_topic_214">5616.505 Ordering.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5616.50590.dita#SOFARS_SOFARS_topic_215">5616.505-90 Orders Under Multiple Award Contracts.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.506.dita#SOFARS_SOFARS_topic_216">5616.506 Solicitation Provisions and Contract Clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5616.6.dita#SOFARS_SOFARS_topic_217">SUBPART 5616.6 – TIME AND MATERIALS, LABOR–HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.601.dita#SOFARS_SOFARS_topic_218">5616.601 Time and Material Contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5616.60190.dita#SOFARS_SOFARS_topic_219">5616.601-90 Contract Clauses.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5616.603.dita#SOFARS_SOFARS_topic_220">5616.603 Letter Contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5616.6033.dita#SOFARS_SOFARS_topic_221">5616.603-3 Limitations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_20">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5601.602-3</ph> Ratification of Unauthorized Commitments. See DCG for required procedures.</title>
+   <conbody>
+      <p id="p_BM602_3_90" outputclass="Normal">Per the requirements of <xref format="html" href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system" scope="external">
+            <u>FAR 1.602-3(b)(2) and (3)</u>
+         </xref>, ratification authority for all actions shall be reviewed and approved per <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
+            <u>Attachment 5601-1</u>
+         </xref>.</p>
+   </conbody>
+</concept>

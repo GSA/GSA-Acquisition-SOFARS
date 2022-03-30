@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_318">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5637.590-90</ph> Contractor Manpower Reporting</title>
+   <conbody>
+      <p id="IcvsqH" outputclass="Normal">
+         <i>(Revised June 2021)</i>
+      </p>
+      <p id="p__Hlk66795300" outputclass="Normal">Title 10, U.S.C., Sections 235 and 2330a establish the requirement to report on manpower functions and costs under services contracts. Contractors were previously required to report on manpower to eCMRA; however, beginning with the FY20 reporting period (FY21 Q1) reporting will be done in <xref format="html" href="https://sam.gov/SAM/" scope="external">
+            <u>SAM</u>
+         </xref>. <xref format="html" href="https://www.acquisition.gov/far/part-4" scope="external">
+            <u>FAR 4.1705</u>
+         </xref> provides specifics on the data to be reported and applicable clauses.</p>
+      <p id="HsWMfy" outputclass="Normal"></p>
+      <p id="ihzktu9" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="KzZGfE" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="OuWelg" outputclass="Normal">SOFARS 5637</p>
+      <p id="MzybWG" outputclass="Normal">February 2007</p>
+   </conbody>
+</concept>

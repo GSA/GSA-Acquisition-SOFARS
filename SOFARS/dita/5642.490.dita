@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_327">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5642.490</ph> Contract Clauses.</title>
+   <conbody>
+      <p id="hSCXyH" outputclass="Normal">
+         <i>(Added February 2014)</i>
+      </p>
+      <p id="UqBRFR" outputclass="Normal">The contracting officer shall insert the clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+            <u>5652.242-9002</u>
+         </xref>, Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM, in solicitations and contracts and or task orders that require contractor personnel to meet one or both of the following criteria:</p>
+      <p id="fPkxpX">(a) Require logical access to Department of Defense computer networks and systems in either the unclassified environment or the classified environment where authorized by governing security directives; and/or</p>
+      <p id="hvjkFK">(b) Perform work which requires the use of a CAC for installation entry control or physical access to facilities and buildings.</p>
+   </conbody>
+</concept>

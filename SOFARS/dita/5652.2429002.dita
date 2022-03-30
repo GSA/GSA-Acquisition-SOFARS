@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_374">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5652.242-9002</ph> Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I</title>
+   <conbody>
+      <p id="qMySKS" outputclass="Normal">
+         <i>(Added February 2014)</i>
+      </p>
+      <p id="hrecIG" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5642.docx" scope="external">
+            <u>5642-490</u>
+         </xref> insert a clause substantially the same as the following in solicitations and contracts and or task orders:</p>
+      <p id="csbMnw">(a) In the event a contractor employee separates without advance notice (either quits or is terminated), the contractor shall immediately notify the Trusted Agent (TA) who will ensure CAC permissions are revoked the same day. In various instances a contractor employee may not be on task (working) due to furloughs, suspensions pending the outcome of an investigation, or the contract reaches the end of the period of performance (POP) and renewal is anticipated but not yet complete. During these occurrences, the TA or a representative from the contractor (TA’s choice) will collect and retain the CACs of the affected contractor personnel residing in the local area however; CAC permissions will not be revoked in the Trusted Associate Sponsorship System (TASS). Collecting CACs however, may not be feasible for contractor personnel located in remote locations. When contractor personnel return to work under the contract, they will retrieve their CAC from the responsible party who collected it.</p>
+      <p id="cxpvWL">(b) The contractor shall include a monthly report listing contractor employees who departed during the previous month and the date their CACs were turned in using the format listed below.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="9" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <colspec colname="6" colnum="6" />
+            <colspec colname="7" colnum="7" />
+            <colspec colname="8" colnum="8" />
+            <colspec colname="9" colnum="9" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EXSbsf">Employee Name</p>
+                  </entry>
+                  <entry>
+                     <p id="hNUmdL">Contract Number</p>
+                  </entry>
+                  <entry>
+                     <p id="mCwuEi">TO Number</p>
+                  </entry>
+                  <entry>
+                     <p id="YqPJcD">Company Name</p>
+                  </entry>
+                  <entry>
+                     <p id="czQwMC">HQ USSCOM Office Symbol</p>
+                  </entry>
+                  <entry>
+                     <p id="oRAsgf">TA Name</p>
+                  </entry>
+                  <entry>
+                     <p id="pkaZae">Termination Date</p>
+                  </entry>
+                  <entry>
+                     <p id="AVyGas">Date CAC returned to RAPIDS Site</p>
+                  </entry>
+                  <entry>
+                     <p id="VjWwLF">Remarks</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rxEcVC"></p>
+                  </entry>
+                  <entry>
+                     <p id="mYfHuB"></p>
+                  </entry>
+                  <entry>
+                     <p id="maguBQ"></p>
+                  </entry>
+                  <entry>
+                     <p id="vqPjvb"></p>
+                  </entry>
+                  <entry>
+                     <p id="lenDwC"></p>
+                  </entry>
+                  <entry>
+                     <p id="pYmTbX"></p>
+                  </entry>
+                  <entry>
+                     <p id="EIUGYN"></p>
+                  </entry>
+                  <entry>
+                     <p id="iewwid"></p>
+                  </entry>
+                  <entry>
+                     <p id="pCUPqb"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CqzUhF"></p>
+                  </entry>
+                  <entry>
+                     <p id="wAUWmz"></p>
+                  </entry>
+                  <entry>
+                     <p id="jWhwbf"></p>
+                  </entry>
+                  <entry>
+                     <p id="uleDJv"></p>
+                  </entry>
+                  <entry>
+                     <p id="FRWItb"></p>
+                  </entry>
+                  <entry>
+                     <p id="sspAKK"></p>
+                  </entry>
+                  <entry>
+                     <p id="Klctjv"></p>
+                  </entry>
+                  <entry>
+                     <p id="LfiwrP"></p>
+                  </entry>
+                  <entry>
+                     <p id="WtwpHg"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BMklsc"></p>
+                  </entry>
+                  <entry>
+                     <p id="LleUpM"></p>
+                  </entry>
+                  <entry>
+                     <p id="TDpTtf"></p>
+                  </entry>
+                  <entry>
+                     <p id="XelYjD"></p>
+                  </entry>
+                  <entry>
+                     <p id="VFiPns"></p>
+                  </entry>
+                  <entry>
+                     <p id="dNDLBd"></p>
+                  </entry>
+                  <entry>
+                     <p id="jQtlyp"></p>
+                  </entry>
+                  <entry>
+                     <p id="MfdVNM"></p>
+                  </entry>
+                  <entry>
+                     <p id="qIgdih"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="uvCoqV"></p>
+                  </entry>
+                  <entry>
+                     <p id="JHmebd"></p>
+                  </entry>
+                  <entry>
+                     <p id="HAYnFQ"></p>
+                  </entry>
+                  <entry>
+                     <p id="TTANCK"></p>
+                  </entry>
+                  <entry>
+                     <p id="keaDin"></p>
+                  </entry>
+                  <entry>
+                     <p id="zXoHEy"></p>
+                  </entry>
+                  <entry>
+                     <p id="nRDutl"></p>
+                  </entry>
+                  <entry>
+                     <p id="NTxcdq"></p>
+                  </entry>
+                  <entry>
+                     <p id="pxzHoe"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qJLlNp"></p>
+                  </entry>
+                  <entry>
+                     <p id="cCddYR"></p>
+                  </entry>
+                  <entry>
+                     <p id="cRaSxD"></p>
+                  </entry>
+                  <entry>
+                     <p id="dGxpDU"></p>
+                  </entry>
+                  <entry>
+                     <p id="NzeYYM"></p>
+                  </entry>
+                  <entry>
+                     <p id="uZLblc"></p>
+                  </entry>
+                  <entry>
+                     <p id="QuMfHf"></p>
+                  </entry>
+                  <entry>
+                     <p id="YenPnv"></p>
+                  </entry>
+                  <entry>
+                     <p id="WSlzWg"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qhkcHF"></p>
+                  </entry>
+                  <entry>
+                     <p id="dUcXie"></p>
+                  </entry>
+                  <entry>
+                     <p id="fDPHun"></p>
+                  </entry>
+                  <entry>
+                     <p id="UpMteK"></p>
+                  </entry>
+                  <entry>
+                     <p id="pwpYWd"></p>
+                  </entry>
+                  <entry>
+                     <p id="LVmlBb"></p>
+                  </entry>
+                  <entry>
+                     <p id="UyDPom"></p>
+                  </entry>
+                  <entry>
+                     <p id="mIOnOe"></p>
+                  </entry>
+                  <entry>
+                     <p id="ywVMDY"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GWbBTS"></p>
+                  </entry>
+                  <entry>
+                     <p id="uUxLJN"></p>
+                  </entry>
+                  <entry>
+                     <p id="ecGjdd"></p>
+                  </entry>
+                  <entry>
+                     <p id="YjVcfx"></p>
+                  </entry>
+                  <entry>
+                     <p id="qrXWIa"></p>
+                  </entry>
+                  <entry>
+                     <p id="zCHBFY"></p>
+                  </entry>
+                  <entry>
+                     <p id="lnLbas"></p>
+                  </entry>
+                  <entry>
+                     <p id="INShVy"></p>
+                  </entry>
+                  <entry>
+                     <p id="vRcOWj"></p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="p_BM252_9000" outputclass="Normal"></p>
+      <p id="iMAlme" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="YBNntz" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="VtLJFo" outputclass="Normal">SOFARS 5652</p>
+      <p id="veMAPc" outputclass="Normal">February 2007</p>
+   </conbody>
+</concept>

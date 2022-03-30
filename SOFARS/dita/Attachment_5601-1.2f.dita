@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_AT1_topic_10">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber">Attachment 5601-1.2</ph>f</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="VOhOIq" outputclass=" Ctr">
+                        <b>APPROVAL LEVELS OF AUTHORITY AND DOCUMENT REVIEW</b>
+                        <b>–</b>
+                        <b>January 2020</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="FiQQDT" outputclass=" Ctr">(unless further restricted by individual Contracting Officer warrant levels)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="aiPynt" outputclass=" Ctr">
+                        <b>MARSOC</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NSxGsG" outputclass=" Ctr">
+                        <b>ACTION</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="iWOlXt" outputclass=" Ctr">
+                        <b>REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="QSuYIf" outputclass=" Ctr">
+                        <b>APPROVAL</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="KQlhnS">
+                        <b>1. Acquisition Plan</b>
+                        <b>(See</b>
+                        <xref href="Attachment_5601-1.2k.dita#SOFARS_SOFARS_AT1_topic_15/T1QFfA" outputclass="fm:paraswithautonuminparens">Acquisition Strategy for Services</xref>
+                        <b>)</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NSQXsZ">
+                        <u>Development:</u>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="FtNoze"></p>
+                  </entry>
+                  <entry>
+                     <p id="YoNjzn"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ocvIDR">Equal to or greater than $10M</p>
+                  </entry>
+                  <entry>
+                     <p id="PsbRXO" outputclass=" Ctr">FCO*, Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="PwlsXG" outputclass=" Ctr">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FhRUDY">
+                        <u>Production:</u>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="qumXSK" outputclass=" Ctr"></p>
+                  </entry>
+                  <entry>
+                     <p id="mEcjxz" outputclass=" Ctr"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VrBwGM">Equal to or greater than $25M in any one year or equal to or greater than $50M for all years.</p>
+                  </entry>
+                  <entry>
+                     <p id="lsBnsI" outputclass=" Ctr">FCO*, Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="bTZfhy" outputclass=" Ctr">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="SyPFwb">
+                        <b>
+                           <i>NOTE:</i>
+                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.1b.dita#SOFARS_SOFARS_AT1_topic_4/VMJujv" outputclass="fm:paraswithautonuminparens">Note 1</xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_SOFARS_AT1_topic_4/qXRnPM" outputclass="fm:parawithautonuminparens">Note 12</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="iYFEQD">
+                        <b>2. Type of Contract D&amp;F</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yJGrqE">Single-Award Indefinite-Quantity Contracts greater than $112M</p>
+                  </entry>
+                  <entry>
+                     <p id="sbBZJU" outputclass=" Ctr">Legal, SOF AT&amp;L-KB, &amp; HCA</p>
+                  </entry>
+                  <entry>
+                     <p id="OgZxoi" outputclass=" Ctr">SPE</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jIEwKg">Award Fee Contracts</p>
+                  </entry>
+                  <entry>
+                     <p id="eAbjVA" outputclass=" Ctr">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="FVHsZO" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="uoQrXs">Incentive Fee Contracts</p>
+                  </entry>
+                  <entry>
+                     <p id="TUkoRP" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="ncZLja" outputclass=" Ctr">FCO<sub>1</sub>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GvzcAG">
+                        <b>Attachment</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="OgRitA" outputclass=" Ctr"></p>
+                  </entry>
+                  <entry>
+                     <p id="duPTWh" outputclass=" Ctr"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="TkansR">Personal Services Contract</p>
+                  </entry>
+                  <entry>
+                     <p id="VrqVVF" outputclass=" Ctr">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="zeXUbP" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jTaSWe">Undefinitized Contractual Action (UCA)</p>
+                  </entry>
+                  <entry>
+                     <p id="jMWblG" outputclass=" Ctr">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="YVpQWy" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="berjvL">Contracts or orders with T&amp;M or LH CLINs (greater than $1M OR greater than 3 yrs)</p>
+                  </entry>
+                  <entry>
+                     <p id="FocYAE" outputclass=" Ctr">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="fLjHpO" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ikRMax">Contracts or orders with T&amp;M or LH CLINs (less than or equal to $1M AND less than or equal to 3 yrs)</p>
+                  </entry>
+                  <entry>
+                     <p id="fXFYUF" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="lNIBsO" outputclass=" Ctr">FCO<sub>2</sub>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="uoDpcW">
+                        <b>3. Justification and Approvals (J&amp;As), Brand Name Justifications, and Exception to Fair Opportunity</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IFHPFC">
+                        <ph>
+                           <u>Equal to or less than</u>
+                           <u>SAT</u>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ySjDiB" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="ihzhWN" outputclass=" Ctr">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XDyGsr">
+                        <ph>
+                           <u>Greater than</u>
+                           <u>SAT</u>
+                           <u>but less than $700,000</u>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="JRBtGV" outputclass=" Ctr">Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="DllafG" outputclass=" Ctr">PAAC</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HcdlWb">Equal to or greater than $700,000 but less than $13.5M</p>
+                  </entry>
+                  <entry>
+                     <p id="VKahbw" outputclass=" Ctr">FCO, Legal, SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="wtIoof" outputclass=" Ctr">AAC</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GXYyBe">Equal to or greater than $13.5M, but less than $93M</p>
+                  </entry>
+                  <entry>
+                     <p id="cOSgSl" outputclass=" Ctr">FCO, Legal, SOF AT&amp;L-KB, &amp; AAC</p>
+                  </entry>
+                  <entry>
+                     <p id="qwMTBt" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="bFqalw">Equal to or greater than $93M</p>
+                  </entry>
+                  <entry>
+                     <p id="oxactG" outputclass=" Ctr">FCO, Legal, SOF AT&amp;L-KB, AAC, &amp; HCA</p>
+                  </entry>
+                  <entry>
+                     <p id="rppwkY" outputclass=" Ctr">SPE</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="wcXLBH">
+                        <b>4. Requests for Proposals, Invitations for Bids, and Requests for Quotes</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BUAEJj">Equal to or less than SAT</p>
+                  </entry>
+                  <entry>
+                     <p id="SGcFMg" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="gHtBCF" outputclass=" Ctr">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WxbTGP">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry>
+                     <p id="ZjfdgE" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="xXFJrU" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OSNNzV">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="cXpKud" outputclass=" Ctr">Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="waVdNN" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rGSKMS">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="gHNiXH" outputclass=" Ctr">Legal &amp; FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="encUeQ" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="LirWDb">
+                        <b>5. Business Clearance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Wrynuu">Equal to or less than SAT</p>
+                  </entry>
+                  <entry>
+                     <p id="XNEUTT" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="NiXHBa" outputclass=" Ctr">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OotnIp">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry>
+                     <p id="VcwpGY" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="bkUbHV" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mBACKr">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="ItzRCR" outputclass=" Ctr">Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="fjfswT" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nGEyuy">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="eZrKEZ" outputclass=" Ctr">Legal &amp; FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="Koatmd" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="eAZWSP">
+                        <b>6. Contract Clearance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VXVhAs">Equal to or less than SAT</p>
+                  </entry>
+                  <entry>
+                     <p id="RBGqHT" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="DxBUID" outputclass=" Ctr">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="gLrCZp">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry>
+                     <p id="hkwiUL" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="xryJxv" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="uBaJdH">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="rDurDh" outputclass=" Ctr">Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="cAuLEI" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ddfUhE">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="mkYXaf" outputclass=" Ctr">Legal &amp; FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="MjGlLQ" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="mxcnEp">
+                        <b>7. Source Selection or Evaluation Plans</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qfWVpE">Equal to or less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="juKtmZ" outputclass=" Ctr">FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="OKEiab" outputclass=" Ctr">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pMEsGh">Greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="rzzWcL" outputclass=" Ctr">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="aqaDYL" outputclass=" Ctr">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="LYQRBq">
+                        <b>8. Ratifications</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CZMsgM">Equal to or less than $25,000</p>
+                  </entry>
+                  <entry>
+                     <p id="xXCzqm" outputclass=" Ctr">KO &amp; Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="hyDAIT" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="TDWXLu">Greater than $25,000</p>
+                  </entry>
+                  <entry>
+                     <p id="MnXkiT" outputclass=" Ctr">Legal, FCO &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="FdVqmJ" outputclass=" Ctr">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="elzVyz">
+                        <b>9. Terminations</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="dnciZZ">Termination for Default</p>
+                  </entry>
+                  <entry>
+                     <p id="dZfxFM" outputclass=" Ctr">Legal &amp; FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="ndVBpr" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JGGLRw">Termination for Convenience (equal to or less than the SAT)</p>
+                  </entry>
+                  <entry>
+                     <p id="GttURY" outputclass=" Ctr">KO</p>
+                  </entry>
+                  <entry>
+                     <p id="UWcJuu" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BrlRxI">Termination for Convenience (greater than the SAT)</p>
+                  </entry>
+                  <entry>
+                     <p id="kjeZpY" outputclass=" Ctr">Legal &amp; FCO</p>
+                  </entry>
+                  <entry>
+                     <p id="bxvXxU" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="yQsLtm">
+                        <sub>1</sub> When the FCO is also the KO, approval authority is one level above the FCO.</p>
+                     <p id="OsovCf">
+                        <sub>2</sub> When the FCO is also the KO, the approval authority will be the HCA.</p>
+                     <p id="RoPTzI">NOTE: The USSOCOM Acquisition Executive/Senior Procurement Executive (AE/SPE) designates as, and delegates the duties of, the USSOCOM Agency Advocate for Competition (AAC) to the Deputy Director of Procurement, and the Procuring Activity Advocate for Competition (PAAC) to each Division Chief of SOF AT&amp;L-KF/KH/KP/KW/KI/KR/KS and Field Contracting Office Chiefs.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

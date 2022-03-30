@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_A2_topic_6">
+   <title outputclass="heading 2 Ctr">
+      <ph props="autonumber">Attachment 5601-2.2</ph>c</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="IYxLYp" outputclass=" Ctr">
+                        <b>APPROVAL LEVELS OF AUTHORITY AND DOCUMENT REVIEW – January 2020</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="oHaPJE" outputclass=" Ctr">(unless further restricted by individual Agreements Officer warrant levels)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="GzFepc" outputclass=" Ctr">
+                        <b>TAKO</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EwyXLJ" outputclass=" Ctr">
+                        <b>ACTION</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="hGFYRC" outputclass=" Ctr">
+                        <b>REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="FGyqYM" outputclass=" Ctr">
+                        <b>APPROVAL</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="UDGKeB">
+                        <b>1. Use of OT Authority D&amp;F</b>
+                        <sup>1</sup>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="HEuVSB">
+                        <b>
+                           <i>NOTE:</i>
+                        </b>See Note 1 for calculating the value of OTs that include multiple transactions, phases, or follow-on production.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Cfbnek">
+                        <b>
+                           <u>Competitive OT Procedures:</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="Buerrx"></p>
+                  </entry>
+                  <entry>
+                     <p id="fXgeue"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PGcqWs">Equal to or less than $2M</p>
+                  </entry>
+                  <entry>
+                     <p id="stkCfh" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="kIStli" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BueqBt">Greater than $2M, but less than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="trGvoq" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="DNNPgV" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mJokMo">Equal to or greater than $5M, but less than $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="pOrJcg" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="XaqiII" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="copukj">Equal to or greater than $100M, but less than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="FLCIln" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="TrrLgQ" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MaUGSL">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="OIsMKF" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="apXmjp" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tYgAHK">
+                        <b>
+                           <u>Sole</u>
+                        </b>
+                        <b>
+                           <u>source / Non-competitive OT</u>
+                        </b>
+                        <b>
+                           <u>:</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="SjAXFo"></p>
+                  </entry>
+                  <entry>
+                     <p id="tnINMr"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vkzcrA">Equal to or less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="tMPMxk" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="EXmuZU" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="aEHKmj">Greater than $1M, but less than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="keuYBG" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="uyXTDK" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NELRLt">Equal to or greater than $5M, but less than $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="Fxysob" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="TeBqPt" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PZccgz">Equal to or greater than $100M, but less than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="xRboyt" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="pPhfWo" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qJyQnq">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="VyAWtZ" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="yFIxRa" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jpeOLd">
+                        <b>
+                           <u>Using other than RDT&amp;E Funds:</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="bGwuNj"></p>
+                  </entry>
+                  <entry>
+                     <p id="IudVAz"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EyMpdZ">
+                       
+                           Equal to or less than $250,000
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="bTERGY" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="MfsVoE" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fJtIjp">
+                       
+                           Greater than $250,000, but less than $5M
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="VmjRIc" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="novFFr" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LmGlui">
+                      
+                           Equal to or greater than $5M, but less than $100M
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="vzHRuQ" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="fWsWNS" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vESITx">Equal to or greater than $100M, but less than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="WsRqEc" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="egusfe" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PnFkgf">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="FcQals" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="QQiawo" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="xrBjEw">
+                        <b>2.Requests for Proposals, Solicitations, and Requests for White Papers</b>
+                        <sup>1</sup>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hdXxmX">Equal to or less than $2M</p>
+                  </entry>
+                  <entry>
+                     <p id="bmOPuU" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="LphtrQ" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OpqsHF">Greater than $2M, but less than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="SIgpWO" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="ZAbCIy" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WyFWGd">Equal to or greater than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="LTlfpx" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="bqpQrg" outputclass=" Ctr">
+            
+                          SOF AT&amp;LKB
+                        
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="hglTfB">
+                        <b>4. Agreement Clearance</b>
+                        <sup>1</sup>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OLikNL">Equal to or less than $2M</p>
+                  </entry>
+                  <entry>
+                     <p id="iaiCeY" outputclass=" Ctr">
+                 
+                           Peer Review, Legal
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ubvyYy" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hVLCPU">Greater than $2M, but less than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="RcfIbo" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="BqBFPO" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MJVGkl">Equal to or greater than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="WnzwJF" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="NSvjKJ" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="bsSwSI">
+                        <b>
+                           <u>Using other than RDT&amp;E Funds:</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="VxxOyA"></p>
+                  </entry>
+                  <entry>
+                     <p id="kQAyrx"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZAmdqv">Equal to or less than $250,000</p>
+                  </entry>
+                  <entry>
+                     <p id="pYahOz" outputclass=" Ctr">
+                   
+                           Peer Review, Legal
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="SqvgIK" outputclass=" Ctr">
+                       
+                           AO
+                        
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MxXijf">Greater than $250,000, but less than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="JqcXBd" outputclass=" Ctr">
+                        
+                           Peer Review, Legal
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="COxlBV" outputclass=" Ctr">
+                        
+                          FCO
+                        
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QNbBhr">Equal to or greater than $5M</p>
+                  </entry>
+                  <entry>
+                     <p id="TvzDRB" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="lfaHGJ" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="AiMaco">
+                        <b>
+                           <i>NOTE:</i>
+                        </b>The Agreement Clearance is the approval of the negotiated business arrangement, to include all associated documentation. Agreement Clearance review shall be requested only after negotiations have concluded, the Agreement file is finalized, to include the Agreement Analysis Document, and prior to the Agreements Officer signing the Agreement.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="eKVkeo">
+                        <b>5. Agreement Terminations</b>
+                        <sup>2</sup>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cJVhwk">Equal to or less than $2M</p>
+                  </entry>
+                  <entry>
+                     <p id="LmXyFb">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="mHvmah">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="bCXndp">
+                        
+                          Greater than $2M
+                        
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="lMwCKy">Peer Review, FCO, Legal, &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry>
+                     <p id="wxETBT">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="NkOjSj">
+                        <sup>1</sup> When the FCO is also the AO, approval authority is one level above the Agreements officer.</p>
+                     <p id="yLhCCR">
+                        <sup>2</sup> When the FCO is also the AO, the approval authority will be the HCA.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

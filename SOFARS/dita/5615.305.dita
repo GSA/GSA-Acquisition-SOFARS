@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_5615.30">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.305</ph> Proposal Evaluation.</title>
+   <conbody>
+      <p id="YvffcQ" outputclass="Normal">
+         <i>(Revised April 2015)</i>
+      </p>
+      <p id="yiqlYf">(a)(2)(iii)</p>
+      <p id="vJQbrF" outputclass="Normal">Evaluations of past performance shall include reports obtained from the Past Performance Information Retrieval System (<xref format="html" href="http://www.ppirs.gov/" scope="external">
+            <u>PPIRS</u>
+         </xref>), if available.</p>
+      <p id="XjuWdq" outputclass="List2">(4) The Source Selection Authority (SSA) may allow access to cost information to all source selection evaluation team members. If access to cost data is to be limited or denied to the technical team or others, describe the limitations and rationale for it in the SSP.</p>
+   </conbody>
+</concept>

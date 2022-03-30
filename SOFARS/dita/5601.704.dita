@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_27">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5601.704</ph> Content.</title>
+   <conbody>
+      <p id="zlKIhy">
+         <i>(Revised November 2018</i>Unless otherwise noted in the SOFARS or DCG, there is no prescribed format or form for determinations and findings (D&amp;Fs); however, D&amp;Fs are required to contain the information specified in FAR 1.704 and any information that is required by the specific FAR or DFARS section under which the D&amp;F is issued. DPC provides examples which can be found at the following link <xref format="html" href="http://www.acq.osd.mil/dpap/ccap/cc/jcchb/HTML/Topical/df_listing.html" scope="external">
+            <u>DoD listing</u>
+         </xref>
+         <ph>
+            <u>.</u>
+         </ph>
+      </p>
+   </conbody>
+</concept>

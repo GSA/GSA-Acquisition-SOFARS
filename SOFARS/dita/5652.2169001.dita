@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_362">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5652.216-9001</ph> Oral Orders – Indefinite Delivery Contracts (2005) Section I</title>
+   <conbody>
+      <p id="dsctjm" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5616.docx" scope="external">
+            <u>5616.506</u>
+         </xref>
+         <ph>
+            <u>(a)</u>
+         </ph>, insert the following clause, <i>Editable and Fill-ins</i>
+      </p>
+      <p id="EXTiGU" outputclass="Normal">The Contracting Officer may issue oral orders subject to the following:</p>
+      <p id="EVRPsz">(a) No oral order will exceed ___________.</p>
+      <p id="URMOnW">(b) The contractor will furnish a delivery ticket with each shipment in triplicate, showing: contract number, order number under the contract, date order was placed, name and title of person placing the order, an itemized listing of supplies or services furnished, unit price, unit of issue, quantity and total price for each line item, and the delivery or performance date.</p>
+      <p id="ceCeHG">(c) Invoices for supplies or services furnished in response to oral orders shall be transmitted electronically along with an electronic copy of the delivery ticket to <i>(insert name or office and URL address).</i>
+      </p>
+      <p id="qffJkY">(d) Contracting/Ordering Officers shall electronically transmit to the contractor a list of individuals authorized to place oral orders on behalf of the ordering activity.</p>
+      <p id="uXNsnE">(e) The contractor will receive an electronic confirmation notice for each oral order within ten (10) working days of receipt.</p>
+      <p id="ZlJtXM" outputclass="Normal">
+         <u>Alternate I:</u>
+         <i>For use when the Government Purchase Card is an authorized method of payment</i>
+      </p>
+      <p id="gdVuYA">(a) The government will process payments for oral orders using the government purchase card (currently VISA). The contractor shall obtain the capacity to accept government the purchase card for the duration of the contract.</p>
+      <p id="Zzvajt">(b) The Contracting Officer shall provide the contractor a list of individuals authorized to place oral orders on behalf of the ordering activity using the government purchase card.</p>
+      <p id="EOvNnx">(c) The contractor shall submit one original and (number) copies of invoices for oral orders on a (insert appropriate time frame, e.g., monthly/bi-monthly basis) to (name &amp; address for submitting invoices). The government will confirm the supplies or services invoiced by the contractor and authorize payment through the government purchase card system.</p>
+   </conbody>
+</concept>

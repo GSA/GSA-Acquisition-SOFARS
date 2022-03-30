@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_83">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5606.302-1</ph> Only One Responsible Source</title>
+   <conbody>
+      <p id="RsNtrm" outputclass="Normal">
+         <i>(Added August 2015)</i>
+      </p>
+      <p id="p_BM306_303">The waiver authority identified in DFARS PGI 206.302-1(d) is the Director of Procurement. The request for information (RFI) or source sought notice should be accomplished during market research and documented in the J&amp;A. The RFI or sources sought is separate from the presolicitation notice required by FAR 5.2.</p>
+   </conbody>
+</concept>

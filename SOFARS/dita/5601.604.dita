@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_25">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5601.604</ph> Contracting Officer’s Representative.</title>
+   <conbody>
+      <p id="GgKFPc" outputclass="Normal">
+         <i>(Revised June 2021)</i>
+      </p>
+      <p id="BuwYvT">(a) The Contracting Officer (KO) shall request and the requiring activity (i.e. each Center, Component, and/or Theater Special Operations Command (TSOC)) shall nominate a Contracting Officer’s Representative (COR) in accordance with <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">
+            <u>DoD Instruction 5000.72,</u>
+            <i>
+               <u>DoD Standard for Contracting Officer’s Representative (COR) Certification</u>
+            </i>
+         </xref> for all service contracts, including construction unless the conditions at DFARS PGI 201.602-2(d)(v)(A) are met.</p>
+      <p id="mEqlVh">(b) The KO will determine if a single COR or multiple/alternate CORs (i.e. PCOR/TR) are required to assist in technical monitoring or administration of a contract.</p>
+      <p id="ECuMco" outputclass="List2">(1) Primary Contracting Officer’s Representative (PCOR) – PCORs may be assigned by the KO; PCOR responsibilities are non-delegable. The PCOR will serve as the senior technical advisor to the KO and will execute KO designated contract management responsibilities via a network of CORs. The PCOR may be responsible for functional oversight of KO-designated CORs but does not have any supervisory authority over the CORs.</p>
+      <p id="oKvzFI" outputclass="List2">(2) Technical Representative (TR) – The TR is designated by the COR via the TR letter of appointment and is accountable to the COR for performance of his or her designated duties and responsibilities.</p>
+      <p id="fOfCgh">(c) Minimum COR competencies, experience and training will be based on the contract’s dollar value, complexity, and performance risk. One of the following types of standards will be assigned.</p>
+      <p id="sHmUVl" outputclass="List2">(1) Type A: Fixed-price contracts without incentives and low performance risk.</p>
+      <p id="wAENDv" outputclass="List2">(2) Type B: Fixed-price contracts without incentives other than low performance risk; and other than fixed-price contracts. This includes everything other than Types A and C.</p>
+      <p id="RypJSD" outputclass="List2">(3) Type C: Unique contract requirements that necessitate the COR have a higher education or specialized training beyond the Type B requirements.</p>
+      <p id="OzBiDJ" outputclass="List2">(4) All COR training must be completed before undertaking COR responsibilities.</p>
+      <p id="ugEIsn">(d) Procedures.</p>
+      <p id="DlMuxN" outputclass="List2">(1) Contracting officers shall execute the COR appointment in the DoD Procurement Integrated Enterprise Environment (PIEE) Joint Appointment Module (JAM)</p>
+      <p id="XbpDoV" outputclass="List3">(i) IAW OUSD(AT&amp;L) memorandum, dated February 10, 2014, Update to the Department of Defense Contracting Officer Representative Tracking Tool, classified contracts are waived from this requirement. The KO will accomplish an annual administrative review of COR files.</p>
+      <p id="zvRkmf" outputclass="List3">(ii) IAW SORDAC-K memorandum, dated December 1, 2014, “The Contracting Officer Representative Tracking Tool and Wide Area Work Flow e-Business Suite V5.6.0 Deployment Plan,” contracts that are either reported in ECITS or are not for public release are waived from the CORT-T mandate.</p>
+      <p id="ICFRFk" outputclass="List2">(2) The COR must file and OGE 450 unless the KO determines that there is no conflict of interest between the contractor or and of its subsidiaries. If necessary, request legal review.</p>
+      <p id="rPQIPv">(e) <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">
+            <u>DoDI 5000.72 Enclosure 4</u>
+         </xref>
+         <ph> </ph>COR Performance and Appraisal:</p>
+      <p id="ZvsAyC" outputclass="List2">(1) The KO will provide an annual assessment on the COR’s performance to the COR supervisor. If performance is inadequate, the KO must provide a written assessment and discuss performance with the COR. If reports or performance continue to be inadequate, notify both the COR and requiring activity or COR management that the COR designation is (will be) terminated and request nominations for a replacement COR. Only the KO can terminate appointment.</p>
+      <p id="CurOSY" outputclass="List2">(2) The COR’s supervisor will ensure COR participation in the pre-award process and performance of COR duties/responsibilities are properly addressed in the COR’s annual performance appraisal.</p>
+      <p id="IsKOKZ">(f) Examples of COR Responsibilities and Certification Requirements: See <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">DoDI 5000.72 Enclosure 6</xref>.</p>
+      <p id="IxPmQB">(g) See DCG for templates to request COR support, COR designation, and COR termination.</p>
+   </conbody>
+</concept>

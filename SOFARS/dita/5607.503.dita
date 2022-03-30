@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_98">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5607.503</ph> Policies.</title>
+   <conbody>
+      <p id="SQUEQz" outputclass="Normal">
+         <i>(Revised January 2018)</i>
+      </p>
+      <p id="KzSUFx">(e) The requiring activity shall provide to the Contracting Officer a written determination that none of the functions contained in the requirement are inherently governmental. The determination shall be prepared in accordance with FAR <xref format="html" href="https://www.acquisition.gov/content/part-7-acquisition-planning" scope="external">
+            <u>FAR</u>
+            <u>7.503</u>
+         </xref> and <xref format="html" href="https://www.acquisition.gov/dfars/part-207-%E2%80%93-acquisition-planning" scope="external">
+            <u>DFARS 207.503.</u>
+         </xref> Disagreements over the determination shall be resolved by the Contracting Officer and reviewed at one level above the Contracting Officer. Should the Contracting Office and Requiring Activity fail to agree on the conclusion, forward the package to SOF AT&amp;L-KM for a final determination.</p>
+      <p id="JnLbSF" outputclass="Normal">
+         <i>(Moved January 2014 from 5637.590-90(a))</i>
+      </p>
+      <p id="XAJyuf">(g) In accordance with DPAP memo Reporting Inherently Government Functions Indicators to the Federal Procurement Data System dated 25 Feb 2013, contracting officers shall ensure that requiring organizations provide the function indicator with their requirements packages so it may be appropriately reported on new awards dated March 1, 2013 forward and modifications to those awards. The function indicators are Closely Associated Functions, Critical Functions, and Other Functions. Definitions for each function indicator, applicability, and the format for reporting to FPDS-NG can be found within the DPAP memo stated above. DCG</p>
+      <p id="MxXjqu" outputclass="Normal">
+         <i>(Added June 2009)</i>
+      </p>
+      <p id="FWxWZq">(h) See <xref format="docx" href="http://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5609.docx" scope="external">
+            <u>5609.901</u>
+         </xref> for Guidance on Contractors in the Federal Workplace.</p>
+      <p id="wOyedH" outputclass="Normal"></p>
+      <p id="NTImPj" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="RMIkIk" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="WzibLd" outputclass="Normal">SOFARS 5607</p>
+      <p id="AXAATx" outputclass="Normal">February 2007</p>
+   </conbody>
+</concept>

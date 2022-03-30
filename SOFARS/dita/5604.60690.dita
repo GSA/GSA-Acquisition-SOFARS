@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_57">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5604.606-90</ph> Reporting Rerepresentation Actions.</title>
+   <conbody>
+      <p id="VKMaHg" outputclass="Normal">
+         <i>(Revised January 2018)</i>
+      </p>
+      <p id="iHdlMZ" outputclass="List1">Follow the instructions at DCG chapter 4, item 2, Instructions for Reporting Rerepresentation Actions in FPDS-NG.</p>
+   </conbody>
+</concept>

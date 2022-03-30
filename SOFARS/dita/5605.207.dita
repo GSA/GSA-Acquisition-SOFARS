@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_75">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5605.207</ph> Preparation and Transmittal of Synopses.</title>
+   <conbody>
+      <p id="ZyrfqR">(a)</p>
+      <p id="lYtZok" outputclass="List3">(i) Contracting offices must use the Government Point of Entry (GPE) at <xref format="html" href="https://beta.sam.gov/" scope="external">
+            <u>beta.SAM</u>
+         </xref> to submit synopses to the maximum extent possible.</p>
+      <p id="OdkegY" outputclass="List3">(ii) When release of government controlled technical data is required in a solicitation, the synopsis will include a statement for potential offerors to identify whether or not they are foreign owned, controlled, or influenced companies.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_329">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5642.1503</ph> Procedures.</title>
+   <conbody>
+      <p id="RVeQWL" outputclass="Normal">
+         <i>(Revised June 2021)</i>
+      </p>
+      <p id="NudFeq">(d)</p>
+      <p id="RnVTvm" outputclass="List2">(1) USSOCOM HCDs and FCOs shall use the Contractor Performance Assessment Reporting System (<xref format="html" href="https://www.cpars.gov/" scope="external">
+            <u>CPARS</u>
+         </xref>) as the method to record evaluations of contractor performance.</p>
+      <p id="XYqguU" outputclass="List2">(2) Those contractor performance evaluations involving national security/classified contract actions shall not be entered into CPARS; however, they must follow CPARS reporting requirements in conjunction with the individual program security requirements.</p>
+      <p id="GAONcP" outputclass="Text Body"></p>
+      <p id="47a5x3w" outputclass="Text Body">HQ, United States Special Operations Command</p>
+      <p id="j0fgovyg" outputclass="Text Body">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="vOugwM" outputclass="Text Body">SOFARS 5642</p>
+      <p id="cDGtDo" outputclass="Text Body">February 2007</p>
+   </conbody>
+</concept>

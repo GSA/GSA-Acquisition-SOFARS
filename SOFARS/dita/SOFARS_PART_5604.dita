@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="SOFARS_SOFARS_topic_44">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5604</ph> ADMINISTRATIVE MATTERS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.1.dita#SOFARS_SOFARS_topic_45">SUBPART 5604.1 – CONTRACT EXECUTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.103.dita#SOFARS_SOFARS_topic_46">5604.103 Contract Clause. (Removed August 2017).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.2.dita#SOFARS_SOFARS_topic_47">SUBPART 5604.2 – CONTRACT DISTRIBUTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.202.dita#SOFARS_SOFARS_topic_48">5604.202 Agency Distribution Requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.4.dita#SOFARS_SOFARS_topic_49">SUBPART 5604.4 – SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.402.dita#SOFARS_SOFARS_topic_50">5604.402 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.403.dita#SOFARS_SOFARS_topic_51">5604.403 Responsibilities of contracting officers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.40480.dita#SOFARS_SOFARS_topic_52">5604.404-80 Foreign Persons.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.6.dita#SOFARS_SOFARS_topic_53">SUBPART 5604.6 – CONTRACT REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.603.dita#SOFARS_SOFARS_topic_54">5604.603 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.604.dita#SOFARS_SOFARS_topic_55">5604.604 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.606.dita#SOFARS_SOFARS_topic_56">5604.606 Reporting Data.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.60690.dita#SOFARS_SOFARS_topic_57">5604.606-90 Reporting Rerepresentation Actions.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.60691.dita#SOFARS_SOFARS_topic_58">5604.606-91 Reporting Inherently Governmental Functions Indicators.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.60692.dita#SOFARS_SOFARS_topic_59">5604.606-92 Reporting National Interest Actions (NIA) in FPDS–NG</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.6705.dita#SOFARS_SOFARS_topic_60">5604.670-5 Departmental data collection point responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.8.dita#SOFARS_SOFARS_topic_61">SUBPART 5604.8 – GOVERNMENT CONTRACT FILES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.803.dita#SOFARS_SOFARS_topic_62">5604.803 Contents of Contract Files.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.804.dita#SOFARS_SOFARS_topic_63">5604.804 Closeout of Contract Files.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.8041.dita#SOFARS_SOFARS_topic_64">5604.804-1 Closeout by the Office Administering the Contract.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5604.8042.dita#SOFARS_SOFARS_topic_65">5604.804-2 Closeout of the Contracting Office Files if another Office Administers the Contract.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.70.dita#SOFARS_SOFARS_topic_66">SUBPART 5604.70 – UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERING SYSTEM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.7003.dita#SOFARS_SOFARS_topic_67">5604.7003 Basic PII number.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.7004.dita#SOFARS_SOFARS_topic_68">5604.7004 Supplementary PII Numbers.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.71.dita#SOFARS_SOFARS_topic_69">SUBPART 5604.71 – UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5604.7107.dita#SOFARS_SOFARS_topic_70">5604.7107 Contract Accounting Classification Reference Number (ACRN).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

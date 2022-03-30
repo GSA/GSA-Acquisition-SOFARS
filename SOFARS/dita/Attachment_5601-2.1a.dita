@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_A2_topic_3">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber">Attachment 5601-2.1</ph>a</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="iZWgYs" outputclass=" Ctr">
+                        <b>NOTES – Applicable to ALL Offices</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DZbpKs">
+                        <b>1</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="NzsEqH">In determining the value of OTs for the purposes of assessing compliance with the authority levels set forth below, OTs will be measured based on the value of each transaction, rather than the total value of all OTs that might be executed in a prototype project or for follow-on production. That is, a prototype project may consist of multiple transactions to the same or different parties, each of which shall be considered separately when considering dollar thresholds. Transaction value shall include all options with prices established in the OT as awarded, as well as the amount associated with any cost-sharing borne by the contractor where the basis for the OT is subsection 2371b(d)(l)(C). Regardless of value, a separate OT approval will be required for each phase prototype or follow-on production-and separately within a phase for each transaction.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QSqoYA">
+                        <b>2</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="zezqSP">Anytime United States Code, regulation, or policy states a Determination is required, the determination is to be made in writing and placed in the Agreement file. USSOCOM templates are to be used when available.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QfzWcK">
+                        <b>3</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="FWgBZY">Peer reviews are formal and a signature block will be placed on a review routing sheet or on the actual documents being reviewed. Peer reviewers must be a warranted USSOCOM Agreements Officer and shall sign either the review routing sheet or the actual documents upon completion of their review. If a Field Office has only one warranted Agreements Officer, then an FCO review can be substituted in lieu of the peer review.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sJxQBi">
+                        <b>4</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="TLWiKy">Submit packages for SOF AT&amp;L-KM/KX/KB review or approval through the cognizant program LNO.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VZQTEA">
+                        <b>5</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="SjmfGu">All SIGREDUX Agreement Actions will be reviewed by AO, HCD/FCO, SOF AT&amp;L-KB, and Legal. Approval authority for SIGREDUX Ratifications and Terminations is done by the DoP.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yfSzoA">
+                        <b>6</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="uwfMBx">The HCD/FCO will coordinate all actions over $20M with the DoP/DDoP.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hkVSOQ">
+                        <b>7</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="pDSiPc">USD(R&amp;E) or USD(A&amp;S) must execute a written determination as prescribed at 10 U.S.C 2371b(a)(2)(B) for any transaction for a prototype project, and any follow-on production contract, that is expected to exceed $500M (including all options). The Office of the Under Secretary making the determination is responsible for Congressional notification.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

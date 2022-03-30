@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_37">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5603.104-4</ph> Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information.</title>
+   <conbody>
+      <p id="bHcRtO" outputclass="Normal">
+         <i>(Revised July 2014)</i>
+      </p>
+      <p id="DThXtB" outputclass="Normal">Contracting officers shall require individuals participating personally and substantially in a Federal agency procurement within the meaning of <xref format="html" href="https://www.acquisition.gov/content/part-3-improper-business-practices-and-personal-conflicts-interest" scope="external">
+            <u>FAR subsection 3.104-3</u>
+         </xref>, to sign the Non-Disclosure Agreement. SOAE, DDAE, MDAE, DOP, DDOP, PEO, HCD/FCOs, LNOs, Attorney Advisors, SSAC Pool Members, etc. may sign one annually (see Annual Non-Disclosure Agreement) and provide to KOs upon request for the contract file, rather than signing one on a procurement-by-procurement basis.</p>
+   </conbody>
+</concept>

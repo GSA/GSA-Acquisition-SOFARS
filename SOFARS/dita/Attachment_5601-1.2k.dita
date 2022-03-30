@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_AT1_topic_15">
+   <title id="yWqZWT" outputclass="Ctr 2 heading">
+      <ph id="vEMDA2" props="autonumber">Attachment 5601-1.2</ph>k</title>
+   <conbody id="jmR8qe">
+      <table colsep="1" id="oe1WMw" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="p_s01_22l" outputclass=" Ctr">
+                        <b id="T1QFfA">ACQUISITION STRATEGY FOR SERVICE</b>
+                        <ph id="0JCK4I">– September 2018</ph>
+                     </p>
+                     <p id="y8DHOj" outputclass=" Ctr">
+                        <b id="YdmRxP">All Offices</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="sRTiUb">1) IAW DoDI 5000.74 the decision authority or designee listed below will be responsible for the review and approval of the acquisition strategy. The Senior Service Manager (SSM) is PEO-SV. PEO or DPEO for service acquisitions assigned to a respective PEO, may approve acquisition strategies.</p>
+                     <p id="V7hw26">2) For TAKO, the approval authority is AMCOM Director, Special Programs (Aviation). For acquisitions exceeding $85.5M that are not performance-based, see SOFARS 5637.170-2.</p>
+                     <p id="lEP3Cy">3) For those acquisitions that require a formal written acquisition plan as delineated in DFARS 207.103, a separate acquisition plan is not required if the acquisition strategy includes the contents of written acquisition plans (FAR 7.105 and PGI 207.105), as applicable.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="a21E9C" outputclass=" Ctr">
+                        <b id="kYbvlx">S-CAT</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="Wrjl3j" outputclass=" Ctr">
+                        <b id="nHiPAc">REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="jqzOhp" outputclass=" Ctr">
+                        <b id="kdnmfZ">APPROVAL</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="zVgbHy">
+                        <b id="5xXo3e">
+                           <u>S-CAT V</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jHEsfz">Acquisitions of services with an estimated total value of the SAT or more, but less than $10M</p>
+                  </entry>
+                  <entry>
+                     <p id="TH7623" outputclass=" Ctr">
+                        <ph id="4gEw8t">KO</ph>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="7zR8FL">The SSM has delegated approval to the component level. See SOFARS 5637.102.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="MM6lk4">
+                        <b id="OzT00f">
+                           <u>S-CAT IV</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SeTNpj">Acquisitions of services with an estimated total value of $10M or more, but less than $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="OTUw5z" outputclass=" Ctr">HCD/FCO, Legal, &amp; SOF AT&amp;L-KM/KX/KB</p>
+                  </entry>
+                  <entry>
+                     <p id="OmOiim" outputclass=" Ctr">SSM</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="szZ9X2">
+                        <b id="tBiCyU">
+                           <u>S-CAT III</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VKmhwP">Acquisitions of services with an estimated total value of $100M or more, but less than $250M</p>
+                  </entry>
+                  <entry>
+                     <p id="T6itL0" outputclass=" Ctr">HCD/FCO, Legal, &amp; SOF AT&amp;L-KM/KX/KB</p>
+                  </entry>
+                  <entry>
+                     <p id="zopK95" outputclass=" Ctr">SSM</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="HzUfpx">
+                        <b id="Xdt448">
+                           <u>S-CAT II</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oiP4nU">Acquisitions of services with an estimated total value of $250M or more, but less than $1B</p>
+                  </entry>
+                  <entry>
+                     <p id="L30r8Z" outputclass=" Ctr">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry>
+                     <p id="erlufi" outputclass=" Ctr">Acquisition Executive</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="jLGZpk">
+                        <b id="HFW119">
+                           <u>Special Interest</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XDJeZY">As designated by the USD(AT&amp;L)</p>
+                  </entry>
+                  <entry>
+                     <p id="SRZLI8" outputclass=" Ctr">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry>
+                     <p id="OZhnFC" outputclass=" Ctr">USD(AT&amp;L)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="gzC5Kt">
+                        <b id="yYpvwk">
+                           <u>S-CAT I</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="9cv6BF">Any acquisition of services with an estimated total value of $1B or more than $300M in any one year</p>
+                  </entry>
+                  <entry>
+                     <p id="XH6R7V" outputclass=" Ctr">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry>
+                     <p id="ITd9Ta" outputclass=" Ctr">USD(AT&amp;L)</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

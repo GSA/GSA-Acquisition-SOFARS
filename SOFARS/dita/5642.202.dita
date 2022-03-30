@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="SOFARS_SOFARS_topic_325">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5642.202</ph> Assignment of Contract Administration.</title>
+   <conbody>
+      <p id="CXIASh">
+         <i>(Revised June 2021)</i>
+      </p>
+      <p id="OCggZw">(a) USSOCOM Directorate of Procurement policy is to transfer all contract administrative responsibility to the servicing DCMA on all contracts over $350,000 not purchased in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-12-acquisition-commercial-items" scope="external">
+            <u>FAR Part 12</u>
+         </xref>, except where required by statute or excluded from DCMA responsibility. Exception may be granted by:</p>
+      <p id="PqFHNH" outputclass="List2">(1) Contracting Officer determination to be in the best interest of the organization to retain ACO responsibilities at the local office.</p>
+      <p id="xsaksm" outputclass="List2">(2) Determination that it is most effective to transfer only partial responsibility to the DCMA.</p>
+      <p id="UEpTmo" outputclass="Normal">The decision should be based on providing the best service to the customer and the capabilities of the contracting office. Both determinations should be made in writing and maintained in the contract file.</p>
+      <p id="wPOskJ">(b) The transmittal of the contract shall be accomplished in a manner that will provide documentation of confirmation of receipt by the DCMA office.</p>
+      <p id="p_BM11">(c) <i>(Removed 2017)</i>
+      </p>
+   </conbody>
+</concept>
