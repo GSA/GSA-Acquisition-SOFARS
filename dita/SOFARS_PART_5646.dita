@@ -2,19 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="SOFARS_SOFARS_topic_333">
+   <topic id="SOFARS_PART_5646">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">SOFARS PART 5646</ph> QUALITY ASSURANCE</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5646.7.dita#SOFARS_SOFARS_topic_334">SUBPART 5646.7 – WARRANTIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5646.7.dita#SOFARS_SUBPART_5646.7">SUBPART 5646.7 – WARRANTIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5646.706.dita#SOFARS_SOFARS_topic_335">5646.706 Warranty Terms and Conditions.</xref>
+                        <xref outputclass="fm:TOC" href="5646.706.dita#SOFARS_5646.706">5646.706 Warranty Terms and Conditions.</xref>
                      </p>
                   </li>
                </ul>

@@ -2,19 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="SOFARS_SOFARS_topic_256">
+   <topic id="SOFARS_PART_5624">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">SOFARS PART 5624</ph> PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5624.2.dita#SOFARS_SOFARS_topic_257">SUBPART 5624.2 – FREEDOM OF INFORMATION ACT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5624.2.dita#SOFARS_SUBPART_5624.2">SUBPART 5624.2 – FREEDOM OF INFORMATION ACT</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="change Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="5624.203.dita#SOFARS_SOFARS_topic_258">5624.203 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="5624.203.dita#SOFARS_5624.203">5624.203 Policy.</xref>
                      </p>
                   </li>
                </ul>

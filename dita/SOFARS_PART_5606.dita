@@ -2,51 +2,51 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="SOFARS_SOFARS_topic_81">
+   <topic id="SOFARS_PART_5606">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">SOFARS PART 5606</ph> COMPETITION REQUIREMENTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5606.3.dita#SOFARS_SOFARS_topic_82">SUBPART 5606.3 – OTHER THAN FULL AND OPEN COMPETITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5606.3.dita#SOFARS_SUBPART_5606.3">SUBPART 5606.3 – OTHER THAN FULL AND OPEN COMPETITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5606.3021.dita#SOFARS_SOFARS_topic_83">5606.302-1 Only One Responsible Source</xref>
+                        <xref outputclass="fm:TOC" href="5606.3021.dita#SOFARS_5606.3021">5606.302-1 Only One Responsible Source</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5606.303.dita#SOFARS_SOFARS_topic_84">5606.303 Justifications</xref>
+                        <xref outputclass="fm:TOC" href="5606.303.dita#SOFARS_5606.303">5606.303 Justifications</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5606.30390.dita#SOFARS_SOFARS_topic_85">5606.303-90 Policy.</xref>
+                              <xref outputclass="fm:TOC" href="5606.30390.dita#SOFARS_5606.30390">5606.303-90 Policy.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5606.30390.1.dita#SOFARS_SOFARS_topic_86">5606.303-90.1 Amended J&amp;A (Changes/Increases/Decreases).</xref>
+                              <xref outputclass="fm:TOC" href="5606.30390.1.dita#SOFARS_5606.30390.1">5606.303-90.1 Amended J&amp;A (Changes/Increases/Decreases).</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5606.305.dita#SOFARS_SOFARS_topic_87">5606.305 Availability of the Justification.</xref>
+                        <xref outputclass="fm:TOC" href="5606.305.dita#SOFARS_5606.305">5606.305 Availability of the Justification.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5606.30590.dita#SOFARS_SOFARS_topic_88">5606.305-90 Public Disclosure of J&amp;A Documents for Noncompetitive Contracts.</xref>
+                              <xref outputclass="fm:TOC" href="5606.30590.dita#SOFARS_5606.30590">5606.305-90 Public Disclosure of J&amp;A Documents for Noncompetitive Contracts.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5606.30591.dita#SOFARS_SOFARS_topic_89">5606.305-91 Competitive Procurements Receiving Only One Offer.</xref>
+                              <xref outputclass="fm:TOC" href="5606.30591.dita#SOFARS_5606.30591">5606.305-91 Competitive Procurements Receiving Only One Offer.</xref>
                            </p>
                         </li>
                      </ul>
@@ -55,12 +55,12 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5606.5.dita#SOFARS_SOFARS_topic_90">SUBPART 5606.5 – COMPETITION ADVOCATES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5606.5.dita#SOFARS_SUBPART_5606.5">SUBPART 5606.5 – COMPETITION ADVOCATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5606.501.dita#SOFARS_SOFARS_topic_91">5606.501 Requirement.</xref>
+                        <xref outputclass="fm:TOC" href="5606.501.dita#SOFARS_5606.501">5606.501 Requirement.</xref>
                      </p>
                   </li>
                </ul>
