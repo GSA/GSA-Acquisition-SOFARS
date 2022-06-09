@@ -27,7 +27,7 @@
                 xtrf="subtopic"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5601.dita"
+   <topicref href="PART_5601.dita"
              navtitle="SOFARS PART 5601 THE FEDERAL ACQUISITION REGULATION          SYSTEM"
              outputclass="Part"
              props="SOFARS PART 5601"
@@ -269,7 +269,7 @@
                 xtrf="subtopic"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5602.dita"
+   <topicref href="PART_5602.dita"
              navtitle="SOFARS PART 5602 DEFINITIONS OF WORDS AND TERMS"
              outputclass="Part"
              props="SOFARS PART 5602"
@@ -295,7 +295,7 @@
                 audience="SOFARS_SUBPART_5602.190"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5603.dita"
+   <topicref href="PART_5603.dita"
              navtitle="SOFARS PART 5603 IMPROPER BUSINESS PRACTICES AND PERSONAL          CONFLICTS OF INTEREST"
              outputclass="Part"
              props="SOFARS PART 5603"
@@ -396,7 +396,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5604.dita"
+   <topicref href="PART_5604.dita"
              navtitle="SOFARS PART 5604 ADMINISTRATIVE MATTERS"
              outputclass="Part"
              props="SOFARS PART 5604"
@@ -622,7 +622,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5605.dita"
+   <topicref href="PART_5605.dita"
              navtitle="SOFARS PART 5605 – PUBLICIZING CONTRACT ACTIONS"
              outputclass="Part"
              props="SOFARS PART 5605"
@@ -707,7 +707,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5606.dita"
+   <topicref href="PART_5606.dita"
              navtitle="SOFARS PART 5606 COMPETITION REQUIREMENTS"
              outputclass="Part"
              props="SOFARS PART 5606"
@@ -800,7 +800,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5607.dita"
+   <topicref href="PART_5607.dita"
              navtitle="SOFARS PART 5607 ACQUISITION PLANNING"
              outputclass="Part"
              props="SOFARS PART 5607"
@@ -859,7 +859,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5608.dita"
+   <topicref href="PART_5608.dita"
              navtitle="SOFARS PART 5608 REQUIRED SOURCES OF SUPPLIES AND SERVICES"
              outputclass="Part"
              props="SOFARS PART 5608"
@@ -953,7 +953,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5609.dita"
+   <topicref href="PART_5609.dita"
              navtitle="SOFARS PART 5609 CONTRACTOR QUALIFICATIONS"
              outputclass="Part"
              props="SOFARS PART 5609"
@@ -1099,7 +1099,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5610.dita"
+   <topicref href="PART_5610.dita"
              navtitle="SOFARS PART 5610 MARKET RESEARCH"
              outputclass="Part"
              props="SOFARS PART 5610"
@@ -1125,7 +1125,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5611.dita"
+   <topicref href="PART_5611.dita"
              navtitle="SOFARS PART 5611 DESCRIBING AGENCY NEEDS"
              outputclass="Part"
              props="SOFARS PART 5611"
@@ -1177,7 +1177,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5612.dita"
+   <topicref href="PART_5612.dita"
              navtitle="SOFARS PART 5612 ACQUISITION OF COMMERCIAL ITEMS"
              outputclass="Part"
              props="SOFARS PART 5612"
@@ -1254,7 +1254,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5613.dita"
+   <topicref href="PART_5613.dita"
              navtitle="SOFARS PART 5613 SIMPLIFIED ACQUISITION PROCEDURES"
              outputclass="Part"
              props="SOFARS PART 5613"
@@ -1415,7 +1415,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5614.dita"
+   <topicref href="PART_5614.dita"
              navtitle="SOFARS PART 5614 SEALED BIDDING"
              outputclass="Part"
              props="SOFARS PART 5614"
@@ -1509,7 +1509,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5615.dita"
+   <topicref href="PART_5615.dita"
              navtitle="SOFARS PART 5615 CONTRACTING BY NEGOTIATION"
              outputclass="Part"
              props="SOFARS PART 5615"
@@ -1787,7 +1787,7 @@
                 audience="SOFARS_5615"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5616.dita"
+   <topicref href="PART_5616.dita"
              navtitle="SOFARS PART 5616 CONTRACT TYPES"
              outputclass="Part"
              props="SOFARS PART 5616"
@@ -1931,7 +1931,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5617.dita"
+   <topicref href="PART_5617.dita"
              navtitle="SOFARS PART 5617 SPECIAL CONTRACTING METHODS"
              outputclass="Part"
              props="SOFARS PART 5617"
@@ -2085,7 +2085,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5619.dita"
+   <topicref href="PART_5619.dita"
              navtitle="SOFARS PART 5619 SMALL BUSINESS AND SMALL DISADVANTAGED BUSINESS CONCERNS"
              outputclass="Part"
              props="SOFARS PART 5619"
@@ -2145,7 +2145,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5622.dita"
+   <topicref href="PART_5622.dita"
              navtitle="SOFARS PART 5622 APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
              outputclass="Part"
              props="SOFARS PART 5622"
@@ -2188,7 +2188,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5623.dita"
+   <topicref href="PART_5623.dita"
              navtitle="SOFARS PART 5623 ENVIRONMENT, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE"
              outputclass="Part"
              props="SOFARS PART 5623"
@@ -2222,7 +2222,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5624.dita"
+   <topicref href="PART_5624.dita"
              navtitle="SOFARS PART 5624 PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
              outputclass="Part"
              props="SOFARS PART 5624"
@@ -2248,7 +2248,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5625.dita"
+   <topicref href="PART_5625.dita"
              navtitle="SOFARS PART 5625 – FOREIGN ACQUISITION"
              outputclass="Part"
              props="SOFARS PART 5625"
@@ -2290,7 +2290,7 @@
                 audience="SOFARS_SUBPART_5625.9"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5627.dita"
+   <topicref href="PART_5627.dita"
              navtitle="SOFARS PART 5627 PATENTS, DATA, AND COPYRIGHTS"
              outputclass="Part"
              props="SOFARS PART 5627"
@@ -2342,7 +2342,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5628.dita"
+   <topicref href="PART_5628.dita"
              navtitle="SOFARS PART 5628 BONDS AND INSURANCE"
              outputclass="Part"
              props="SOFARS PART 5628"
@@ -2419,7 +2419,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5629.dita"
+   <topicref href="PART_5629.dita"
              navtitle="SOFARS PART 5629 TAXES"
              outputclass="Part"
              props="SOFARS PART 5629"
@@ -2463,7 +2463,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5631.dita"
+   <topicref href="PART_5631.dita"
              navtitle="SOFARS PART 5631 CONTRACT COST PRINCIPLES AND PROCEDURES"
              outputclass="Part"
              props="SOFARS PART 5631"
@@ -2506,7 +2506,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5632.dita"
+   <topicref href="PART_5632.dita"
              navtitle="SOFARS PART 5632 – CONTRACT FINANCING"
              outputclass="Part"
              props="SOFARS PART 5632"
@@ -2556,7 +2556,7 @@
                 audience="SOFARS_SUBPART_5632.70"
                 class="- map/topicref "/>
    </topicref>
-   <topicref href="SOFARS_PART_5633.dita"
+   <topicref href="PART_5633.dita"
              navtitle="SOFARS PART 5633 – PROTESTS, DISPUTES AND APPEALS"
              outputclass="Part"
              props="SOFARS PART 5633"
@@ -2639,7 +2639,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5637.dita"
+   <topicref href="PART_5637.dita"
              navtitle="SOFARS PART 5637 – SERVICE CONTRACTING"
              outputclass="Part"
              props="SOFARS PART 5637"
@@ -2757,7 +2757,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5639.dita"
+   <topicref href="PART_5639.dita"
              navtitle="SOFARS PART 5639 – ACQUISITION OF INFORMATION TECHNOLOGY"
              outputclass="Part"
              props="SOFARS PART 5639"
@@ -2792,7 +2792,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5642.dita"
+   <topicref href="PART_5642.dita"
              navtitle="SOFARS PART 5642 – CONTRACT ADMINISTRATION AND AUDIT SERVICES"
              outputclass="Part"
              props="SOFARS PART 5642"
@@ -2852,7 +2852,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5643.dita"
+   <topicref href="PART_5643.dita"
              navtitle="SOFARS PART 5643 CONTRACT MODIFICATIONS"
              outputclass="Part"
              props="SOFARS PART 5643"
@@ -2878,7 +2878,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5646.dita"
+   <topicref href="PART_5646.dita"
              navtitle="SOFARS PART 5646 QUALITY ASSURANCE"
              outputclass="Part"
              props="SOFARS PART 5646"
@@ -2904,7 +2904,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5647.dita"
+   <topicref href="PART_5647.dita"
              navtitle="SOFARS PART 5647 TRANSPORTATION"
              outputclass="Part"
              props="SOFARS PART 5647"
@@ -2939,7 +2939,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5649.dita"
+   <topicref href="PART_5649.dita"
              navtitle="SOFARS PART 5649 TERMINATION OF CONTRACTS"
              outputclass="Part"
              props="SOFARS PART 5649"
@@ -2999,7 +2999,7 @@
                    class="- map/topicref "/>
       </topicref>
    </topicref>
-   <topicref href="SOFARS_PART_5652.dita"
+   <topicref href="PART_5652.dita"
              navtitle="SOFARS PART 5652 SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
              outputclass="Part"
              props="SOFARS PART 5652"
