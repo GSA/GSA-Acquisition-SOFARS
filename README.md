@@ -1,2 +1,2 @@
 # GSA-Acquisition-SOFARS
-Special Operation Federal Acquisitoin Regulation System (SOFARS)
+Special Operation Federal Acquisitoin Regulation Supplement (SOFARS)
