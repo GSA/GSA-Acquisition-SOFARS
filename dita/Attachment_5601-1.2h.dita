@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_SOFARS_AT1_topic_12">
+<concept id="SOFARS_Attachment_5601-1.2h">
    <title outputclass="heading 2 Ctr">
       <ph props="autonumber">Attachment 5601-1.2</ph>h</title>
    <conbody>
@@ -53,7 +53,7 @@
                      <p id="GEQmsy">
                         <b>1. Acquisition Plan</b>
                         <b>(See</b>
-                        <xref href="Attachment_5601-1.1b.dita#SOFARS_SOFARS_AT1_topic_4/VMJujv" outputclass="fm:paraswithautonuminparens">Note 1</xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_SOFARS_AT1_topic_4/qXRnPM" outputclass="fm:parawithautonuminparens">Note 12</xref>
+                        <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv" outputclass="fm:paraswithautonuminparens">Note 1</xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM" outputclass="fm:parawithautonuminparens">Note 12</xref>
                         <b>)</b>
                      </p>
                   </entry>
@@ -111,7 +111,7 @@
                      <p id="zRfFpX">
                         <b>
                            <i>NOTE:</i>
-                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.2k.dita#SOFARS_SOFARS_AT1_topic_15/T1QFfA" outputclass="fm:paraswithautonuminparens">Acquisition Strategy for Services</xref>
+                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA" outputclass="fm:paraswithautonuminparens">Acquisition Strategy for Services</xref>
                      </p>
                   </entry>
                </row>
