@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5614.4074"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5614.407-4</ph> Mistakes After Award. (Removed June 2021)</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="wtWkQC" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="hjUJLZ" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="MIEZhe" outputclass="Normal" class="- topic/p ">SOFARS 5614</p>
-      <p id="elWdpH" outputclass="Normal" class="- topic/p ">February 2007</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5614.4074" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5614.407-4</ph> Mistakes After Award. (Removed June 2021)</title>
+   <conbody>
+      <p id="wtWkQC" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="hjUJLZ" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="MIEZhe" outputclass="Normal">SOFARS 5614</p>
+      <p id="elWdpH" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

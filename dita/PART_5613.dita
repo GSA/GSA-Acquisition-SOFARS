@@ -1,154 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_PART_5613"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 5613</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5613.1.dita#SOFARS_SUBPART_5613.1"
-                        class="- topic/xref ">Subpart 5613.1 - PROCEDURES</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5613" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5613</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5613.1.dita#SOFARS_SUBPART_5613.1">Subpart 5613.1 - PROCEDURES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.106.dita#SOFARS_5613.106"
-                              class="- topic/xref ">5613.106 Soliciting Competition, Evaluation of Quotations or Offers, Award and Documentation.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.106.dita#SOFARS_5613.106">5613.106 Soliciting Competition, Evaluation of Quotations or Offers, Award and Documentation.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5613.1061.dita#SOFARS_5613.1061"
-                                    class="- topic/xref ">5613.106-1 Soliciting Competition.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5613.1061.dita#SOFARS_5613.1061">5613.106-1 Soliciting Competition.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5613.2.dita#SOFARS_SUBPART_5613.2"
-                        class="- topic/xref ">Subpart 5613.2 - ACTIONS AT OR BELOW THE MICROPURCHASE THRESHOLD</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5613.2.dita#SOFARS_SUBPART_5613.2">Subpart 5613.2 - ACTIONS AT OR BELOW THE MICROPURCHASE THRESHOLD</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.201.dita#SOFARS_5613.201"
-                              class="- topic/xref ">5613.201 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.201.dita#SOFARS_5613.201">5613.201 General.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5613.3.dita#SOFARS_SUBPART_5613.3"
-                        class="- topic/xref ">Subpart 5613.3 - SIMPLIFIED ACQUISITION METHODS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5613.3.dita#SOFARS_SUBPART_5613.3">Subpart 5613.3 - SIMPLIFIED ACQUISITION METHODS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.301.dita#SOFARS_5613.301"
-                              class="- topic/xref ">5613.301 Governmentwide Commercial Purchase Card.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.301.dita#SOFARS_5613.301">5613.301 Governmentwide Commercial Purchase Card.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.302.dita#SOFARS_5613.302"
-                              class="- topic/xref ">5613.302 Purchase Orders.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.302.dita#SOFARS_5613.302">5613.302 Purchase Orders.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li rev="change Please" class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5613.3021.dita#SOFARS_5613.3021"
-                                    class="- topic/xref ">5613.302-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li rev="change Please">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5613.3021.dita#SOFARS_5613.3021">5613.302-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5613.3022.dita#SOFARS_5613.3022"
-                                    class="- topic/xref ">5613.302-2 Unpriced Purchase Orders.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5613.3022.dita#SOFARS_5613.3022">5613.302-2 Unpriced Purchase Orders.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.303.dita#SOFARS_5613.303"
-                              class="- topic/xref ">5613.303 Blanket Purchase Agreements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.303.dita#SOFARS_5613.303">5613.303 Blanket Purchase Agreements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5613.3035.dita#SOFARS_5613.3035"
-                                    class="- topic/xref ">5613.303-5 Purchases under BPAs.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5613.3035.dita#SOFARS_5613.3035">5613.303-5 Purchases under BPAs.</xref>
                            </p>
-                           <ul otherprops="TOC" class="- topic/ul ">
-                              <li class="- topic/li ">
-                                 <p class="- topic/p ">
-                                    <xref outputclass="fm:TOC"
-                                          href="5613.303590.dita#SOFARS_5613.303590"
-                                          class="- topic/xref ">5613.303-5-90 Ordering Officer Limitations.</xref>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5613.303590.dita#SOFARS_5613.303590">5613.303-5-90 Ordering Officer Limitations.</xref>
                                  </p>
                               </li>
                            </ul>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5613.3036.dita#SOFARS_5613.3036"
-                                    class="- topic/xref ">5613.303-6 Review Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5613.3036.dita#SOFARS_5613.3036">5613.303-6 Review Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.306.dita#SOFARS_5613.306"
-                              class="- topic/xref ">5613.306 SF 44, Purchase OrderInvoiceVoucher.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.306.dita#SOFARS_5613.306">5613.306 SF 44, Purchase OrderInvoiceVoucher.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5613.5.dita#SOFARS_SUBPART_5613.5"
-                        class="- topic/xref ">Subpart 5613.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5613.5.dita#SOFARS_SUBPART_5613.5">Subpart 5613.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.500.dita#SOFARS_5613.500"
-                              class="- topic/xref ">5613.500 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.500.dita#SOFARS_5613.500">5613.500 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5613.501.dita#SOFARS_5613.501"
-                              class="- topic/xref ">5613.501 Special Documentation Requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5613.501.dita#SOFARS_5613.501">5613.501 Special Documentation Requirements.</xref>
                      </p>
                   </li>
                </ul>

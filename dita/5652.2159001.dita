@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5652.2159001"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5652.215-9001</ph> Notice of Preproposal Conference (2001) Section L</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="wTfwHN" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5615.209(</u>
-            <u class="+ topic/ph hi-d/u ">i</u>
-            <u class="+ topic/ph hi-d/u ">)</u>
-         </xref>, insert the following provision, <i class="+ topic/ph hi-d/i ">Editable and Fill-ins</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2159001" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5652.215-9001</ph> Notice of Preproposal Conference (2001) Section L</title>
+   <conbody>
+      <p id="wTfwHN" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx" scope="external">
+            <u>5615.209(</u>
+            <u>i</u>
+            <u>)</u>
+         </xref>, insert the following provision, <i>Editable and Fill-ins</i>
       </p>
-      <p id="GzuCKl" class="- topic/p ">(a) A pre-proposal conference will be conducted at <i class="+ topic/ph hi-d/i ">(insert location including full address)</i> on <i class="+ topic/ph hi-d/i ">(insert date)</i> at <i class="+ topic/ph hi-d/i ">(insert time)</i> for the purpose of answering questions regarding this solicitation.</p>
-      <p id="kyeCZq" class="- topic/p ">(b) Submit the names of all attendees not to exceed <i class="+ topic/ph hi-d/i ">(insert number of attendees])</i> to <i class="+ topic/ph hi-d/i ">(insert point of contact name, address, and phone number)</i> prior to (<i class="+ topic/ph hi-d/i ">[insert date]</i>). This information must be provided in advance in order to ensure access to the military base/conference site and adequate seating for the conference attendees.</p>
-      <p id="hAPYAf" class="- topic/p ">(c) Offerors are requested to submit questions to the point of contact noted above not later than (<i class="+ topic/ph hi-d/i ">insert time and date</i>). Information provided at this conference shall not qualify the terms and conditions of the solicitation and specifications. Terms of the solicitation and specifications remain unchanged unless the solicitation is amended in writing. If an amendment is issued, normal procedures relating to the acknowledgment and receipt of solicitation amendments shall apply.</p>
-      <p id="huQOcc" class="- topic/p ">(d) A record of the conference shall be made and furnished to all prospective offerors. The record should include minutes of the meeting, including questions <i class="+ topic/ph hi-d/i ">(on a non-attribution basis)</i> and answers.</p>
-      <p id="kSNDNJ" outputclass="Normal" class="- topic/p ">
-         <u class="+ topic/ph hi-d/u ">Alternate I:</u>
-         <i class="+ topic/ph hi-d/i ">For use on classified contracts:</i>
+      <p id="GzuCKl">(a) A pre-proposal conference will be conducted at <i>(insert location including full address)</i> on <i>(insert date)</i> at <i>(insert time)</i> for the purpose of answering questions regarding this solicitation.</p>
+      <p id="kyeCZq">(b) Submit the names of all attendees not to exceed <i>(insert number of attendees])</i> to <i>(insert point of contact name, address, and phone number)</i> prior to (<i>[insert date]</i>). This information must be provided in advance in order to ensure access to the military base/conference site and adequate seating for the conference attendees.</p>
+      <p id="hAPYAf">(c) Offerors are requested to submit questions to the point of contact noted above not later than (<i>insert time and date</i>). Information provided at this conference shall not qualify the terms and conditions of the solicitation and specifications. Terms of the solicitation and specifications remain unchanged unless the solicitation is amended in writing. If an amendment is issued, normal procedures relating to the acknowledgment and receipt of solicitation amendments shall apply.</p>
+      <p id="huQOcc">(d) A record of the conference shall be made and furnished to all prospective offerors. The record should include minutes of the meeting, including questions <i>(on a non-attribution basis)</i> and answers.</p>
+      <p id="kSNDNJ" outputclass="Normal">
+         <u>Alternate I:</u>
+         <i>For use on classified contracts:</i>
       </p>
-      <p id="mDqwZY" class="- topic/p ">(a)To receive classified documents the recipient must have a security clearance of at least (<i class="+ topic/ph hi-d/i ">insert classification)</i> and authorization to act as courier. Security clearance and courier authorization must be on file at the following mailing address:</p>
-      <p id="sMyGjZ" outputclass="List3" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Insert address of organization responsible for this information)</i>
+      <p id="mDqwZY">(a)To receive classified documents the recipient must have a security clearance of at least (<i>insert classification)</i> and authorization to act as courier. Security clearance and courier authorization must be on file at the following mailing address:</p>
+      <p id="sMyGjZ" outputclass="List3">
+         <i>(Insert address of organization responsible for this information)</i>
       </p>
-      <p id="p_BM215_9004" class="- topic/p ">(b)This conference is <i class="+ topic/ph hi-d/i ">(insert classification)</i>.</p>
+      <p id="p_BM215_9004">(b)This conference is <i>(insert classification)</i>.</p>
    </conbody>
 </concept>

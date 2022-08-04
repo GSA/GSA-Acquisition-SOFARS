@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5632.7" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Subpart" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Subpart 5632.7</ph> - CONTRACT FUNDING (Removed August 2017)</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="4h43wJ" class="- topic/p "></p>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5632.7" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2 Subpart">
+      <ph props="autonumber">Subpart 5632.7</ph> - CONTRACT FUNDING (Removed August 2017)</title>
+   <conbody>
+      <p id="4h43wJ"></p>
    </conbody>
 </concept>

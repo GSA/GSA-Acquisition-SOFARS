@@ -1,43 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5616.307"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5616.307</ph> Contract Clauses.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="PyTLEu" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised November 2007)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5616.307" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5616.307</ph> Contract Clauses.</title>
+   <conbody>
+      <p id="PyTLEu" outputclass="Normal">
+         <i>(Revised November 2007)</i>
       </p>
-      <p id="wjVvSD" class="- topic/p ">(j) Contracting officers shall insert a clause substantially the same as <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5652.216-9000</u>
+      <p id="wjVvSD">(j) Contracting officers shall insert a clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+            <u>5652.216-9000</u>
          </xref>, Fixed Fee Information, in all cost plus fixed-fee type solicitations and contracts.</p>
-      <p id="EHsxXW" class="- topic/p ">(k) Contracting officers may insert <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5652.216-9002</u>
-         </xref>, Withholding of Fixed Fee or Incentive Fee, in cost-plus fixed fee or cost-plus incentive fee contracts where a reduced withholding percentage is negotiated in accordance with <xref format="html"
-               href="https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 52.216-8</u>
-         </xref>, "Fixed Fee," or <xref format="html"
-               href="https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 52.216-10</u>
+      <p id="EHsxXW">(k) Contracting officers may insert <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+            <u>5652.216-9002</u>
+         </xref>, Withholding of Fixed Fee or Incentive Fee, in cost-plus fixed fee or cost-plus incentive fee contracts where a reduced withholding percentage is negotiated in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses" scope="external">
+            <u>FAR 52.216-8</u>
+         </xref>, "Fixed Fee," or <xref format="html" href="https://www.acquisition.gov/content/part-52-solicitation-provisions-and-contract-clauses" scope="external">
+            <u>FAR 52.216-10</u>
          </xref>, "Incentive Fee."</p>
-      <p id="EvDYCK" class="- topic/p ">(l) Contracting officers shall insert a clause substantially the same as <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5652.216-9005</u>
+      <p id="EvDYCK">(l) Contracting officers shall insert a clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+            <u>5652.216-9005</u>
          </xref>, Government Down Time for Various Reasons, including the President and the Secretary of Defense, in solicitations and contracts when award of a cost type contract is anticipated.</p>
    </conbody>
 </concept>

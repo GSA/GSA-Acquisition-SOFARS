@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5617.20790"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5617.207-90</ph> Documenting the Contracting Officer Determination.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="pVeZLX" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised June 2008)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5617.20790" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5617.207-90</ph> Documenting the Contracting Officer Determination.</title>
+   <conbody>
+      <p id="pVeZLX" outputclass="Normal">
+         <i>(Revised June 2008)</i>
       </p>
-      <p id="dYgphq" class="- topic/p ">(a) The determination shall be made in writing and approved by the Contracting Officer prior to issuing a modification to the contractor.</p>
-      <p id="ArseVB" class="- topic/p ">(b) The contracting officer shall also make a determination of contractor responsibility prior to exercising the option (See <xref format="html"
-               href="https://www.acquisition.gov/content/part-9-contractor-qualifications"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 9.104</u>
+      <p id="dYgphq">(a) The determination shall be made in writing and approved by the Contracting Officer prior to issuing a modification to the contractor.</p>
+      <p id="ArseVB">(b) The contracting officer shall also make a determination of contractor responsibility prior to exercising the option (See <xref format="html" href="https://www.acquisition.gov/content/part-9-contractor-qualifications" scope="external">
+            <u>FAR 9.104</u>
          </xref>).</p>
    </conbody>
 </concept>

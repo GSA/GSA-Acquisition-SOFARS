@@ -1,761 +1,761 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5602.190" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Subpart" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Subpart 5602.1-90</ph> - ACRONYMS</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="NBoMRD" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised June 2017)</i>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5602.190" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2 Subpart">
+      <ph props="autonumber">Subpart 5602.1-90</ph> - ACRONYMS</title>
+   <conbody>
+      <p id="NBoMRD" outputclass="Normal">
+         <i>(Revised June 2017)</i>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1" colnum="1" rowheader="headers" class="- topic/colspec " />
-            <colspec colname="2" colnum="2" rowheader="headers" class="- topic/colspec " />
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QbpjmQ" class="- topic/p ">AAC</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QbpjmQ">AAC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LFGSMb" class="- topic/p ">Agency Advocate for Competition</p>
+                  <entry>
+                     <p id="LFGSMb">Agency Advocate for Competition</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="GtdMWp" class="- topic/p ">ACO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GtdMWp">ACO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vljrBr" class="- topic/p ">Administrative Contracting Officer</p>
+                  <entry>
+                     <p id="vljrBr">Administrative Contracting Officer</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="LMqkvR" class="- topic/p ">ACOR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LMqkvR">ACOR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="annuRj" class="- topic/p ">Alternate Contracting Officer's Representative</p>
+                  <entry>
+                     <p id="annuRj">Alternate Contracting Officer's Representative</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="dsjsJG" class="- topic/p ">AE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="dsjsJG">AE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vdDFBB" class="- topic/p ">Acquisition Executive</p>
+                  <entry>
+                     <p id="vdDFBB">Acquisition Executive</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="OdYcLh" class="- topic/p ">AFEB</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OdYcLh">AFEB</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uEwHMK" class="- topic/p ">Award Fee Evaluation Board</p>
+                  <entry>
+                     <p id="uEwHMK">Award Fee Evaluation Board</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zHRcha" class="- topic/p ">AP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zHRcha">AP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VAxjXW" class="- topic/p ">Acquisition Plan</p>
+                  <entry>
+                     <p id="VAxjXW">Acquisition Plan</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="AjobKO" class="- topic/p ">APS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AjobKO">APS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vcAPoT" class="- topic/p ">Acquisition Planning Sheet</p>
+                  <entry>
+                     <p id="vcAPoT">Acquisition Planning Sheet</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="clLNGO" class="- topic/p ">APM</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="clLNGO">APM</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZTWwnf" class="- topic/p ">Assistant Program Manager</p>
+                  <entry>
+                     <p id="ZTWwnf">Assistant Program Manager</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="nHLElp" class="- topic/p ">AOR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nHLElp">AOR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hGviKK" class="- topic/p ">Area of Operational Responsibility</p>
+                  <entry>
+                     <p id="hGviKK">Area of Operational Responsibility</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="nrEPWV" class="- topic/p ">BCM</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nrEPWV">BCM</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BHkALF" class="- topic/p ">Business Clearance Memorandum</p>
+                  <entry>
+                     <p id="BHkALF">Business Clearance Memorandum</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="GDXXMz" class="- topic/p ">CAAS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GDXXMz">CAAS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DpBRdS" class="- topic/p ">Contract for Advisory and Assistance Services</p>
+                  <entry>
+                     <p id="DpBRdS">Contract for Advisory and Assistance Services</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="PPlyra" class="- topic/p ">CAO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PPlyra">CAO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IQziFz" class="- topic/p ">Contract Administration Office</p>
+                  <entry>
+                     <p id="IQziFz">Contract Administration Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RorqcH" class="- topic/p ">CAR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RorqcH">CAR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xpfTFC" class="- topic/p ">Contract Action Report</p>
+                  <entry>
+                     <p id="xpfTFC">Contract Action Report</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="htyMqw" class="- topic/p ">CCP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="htyMqw">CCP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="apHYwR" class="- topic/p ">Contracting Office Competition Plan</p>
+                  <entry>
+                     <p id="apHYwR">Contracting Office Competition Plan</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="srMiBL" class="- topic/p ">CCR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="srMiBL">CCR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VHXAXB" class="- topic/p ">Contracting Office Competition Report</p>
+                  <entry>
+                     <p id="VHXAXB">Contracting Office Competition Report</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="DUjPgu" class="- topic/p ">CDRL</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DUjPgu">CDRL</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YxoQoA" class="- topic/p ">Contract Data Requirements List</p>
+                  <entry>
+                     <p id="YxoQoA">Contract Data Requirements List</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ajNiHd" class="- topic/p ">CICA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ajNiHd">CICA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dgyBoA" class="- topic/p ">Competition In Contracting Act</p>
+                  <entry>
+                     <p id="dgyBoA">Competition In Contracting Act</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MnLiIs" class="- topic/p ">CID</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MnLiIs">CID</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QCJONH" class="- topic/p ">Commercial Item Description</p>
+                  <entry>
+                     <p id="QCJONH">Commercial Item Description</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CQLjCX" class="- topic/p ">COC</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CQLjCX">COC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nIeFXB" class="- topic/p ">Certificate of Compliance</p>
+                  <entry>
+                     <p id="nIeFXB">Certificate of Compliance</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FmSQoy" class="- topic/p ">COR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FmSQoy">COR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DVbbAU" class="- topic/p ">Contracting Officer's Representative</p>
+                  <entry>
+                     <p id="DVbbAU">Contracting Officer's Representative</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="HmywrR" class="- topic/p ">CRD</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HmywrR">CRD</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UBPrNl" class="- topic/p ">Competitive Range Determination</p>
+                  <entry>
+                     <p id="UBPrNl">Competitive Range Determination</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fFFlcS" class="- topic/p ">CSRD</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fFFlcS">CSRD</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WNMYXG" class="- topic/p ">Communication-Computer System Requirements Document</p>
+                  <entry>
+                     <p id="WNMYXG">Communication-Computer System Requirements Document</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rLVJDG" class="- topic/p ">D&amp;F</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rLVJDG">D&amp;F</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ggAKBe" class="- topic/p ">Determination and Findings</p>
+                  <entry>
+                     <p id="ggAKBe">Determination and Findings</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="PQULwK" class="- topic/p ">DCAA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PQULwK">DCAA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BGmoLj" class="- topic/p ">Defense Contracting Audit Agency</p>
+                  <entry>
+                     <p id="BGmoLj">Defense Contracting Audit Agency</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="muOmTj" class="- topic/p ">DCADS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="muOmTj">DCADS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rpcwKJ" class="- topic/p ">Defense Contract Action Data System</p>
+                  <entry>
+                     <p id="rpcwKJ">Defense Contract Action Data System</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MUDIpv" class="- topic/p ">DCG</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MUDIpv">DCG</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jQbwnv" class="- topic/p ">Desktop Contract Guide</p>
+                  <entry>
+                     <p id="jQbwnv">Desktop Contract Guide</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="cWUNJG" class="- topic/p ">DCMA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cWUNJG">DCMA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IecunW" class="- topic/p ">Defense Contract Management Agency</p>
+                  <entry>
+                     <p id="IecunW">Defense Contract Management Agency</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="vHhjNb" class="- topic/p ">DDA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vHhjNb">DDA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ChpzKn" class="- topic/p ">Deputy Director for Acquisition</p>
+                  <entry>
+                     <p id="ChpzKn">Deputy Director for Acquisition</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FeoitY" class="- topic/p ">DDoP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FeoitY">DDoP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JIBPiB" class="- topic/p ">Deputy Directory of Procurement</p>
+                  <entry>
+                     <p id="JIBPiB">Deputy Directory of Procurement</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ooPFSU" class="- topic/p ">DID</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ooPFSU">DID</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jknCay" class="- topic/p ">Data Item Description</p>
+                  <entry>
+                     <p id="jknCay">Data Item Description</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="SbUyxm" class="- topic/p ">DODI</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SbUyxm">DODI</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XTBBJp" class="- topic/p ">Department of Defense Instruction</p>
+                  <entry>
+                     <p id="XTBBJp">Department of Defense Instruction</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="mZDJxH" class="- topic/p ">DoDISS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mZDJxH">DoDISS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WIwJWE" class="- topic/p ">Department of Defense Index of Specifications and Standards</p>
+                  <entry>
+                     <p id="WIwJWE">Department of Defense Index of Specifications and Standards</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sRgzwC" class="- topic/p ">DOP/DoP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sRgzwC">DOP/DoP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tiBSTZ" class="- topic/p ">Directorate of Procurement/Director of Procurement</p>
+                  <entry>
+                     <p id="tiBSTZ">Directorate of Procurement/Director of Procurement</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VUcxoe" class="- topic/p ">DTIC</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VUcxoe">DTIC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oatwGp" class="- topic/p ">Defense Technical Information Center</p>
+                  <entry>
+                     <p id="oatwGp">Defense Technical Information Center</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="wDwybI" class="- topic/p ">EC</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wDwybI">EC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MWVsQP" class="- topic/p ">Electronic Commerce</p>
+                  <entry>
+                     <p id="MWVsQP">Electronic Commerce</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MRYypE" class="- topic/p ">ECITS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MRYypE">ECITS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CcYNfd" class="- topic/p ">Electronic Contracting Information Transfer System</p>
+                  <entry>
+                     <p id="CcYNfd">Electronic Contracting Information Transfer System</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ITsfyH" class="- topic/p ">EDA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ITsfyH">EDA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oDVUGc" class="- topic/p ">Electronic Document Access</p>
+                  <entry>
+                     <p id="oDVUGc">Electronic Document Access</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="slFjUX" class="- topic/p ">EDI</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="slFjUX">EDI</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VOzGQZ" class="- topic/p ">Electronic Data Interchange</p>
+                  <entry>
+                     <p id="VOzGQZ">Electronic Data Interchange</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="PXTmWY" class="- topic/p ">FCCM</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PXTmWY">FCCM</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gEnDvx" class="- topic/p ">Facilities Capital Cost of Money</p>
+                  <entry>
+                     <p id="gEnDvx">Facilities Capital Cost of Money</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ZmARoq" class="- topic/p ">FCO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZmARoq">FCO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uvQckq" class="- topic/p ">Field Contracting Offices</p>
+                  <entry>
+                     <p id="uvQckq">Field Contracting Offices</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="saHWhl" class="- topic/p ">FDO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="saHWhl">FDO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XSmZkg" class="- topic/p ">Fee Determining Official</p>
+                  <entry>
+                     <p id="XSmZkg">Fee Determining Official</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QOKYmi" class="- topic/p ">FIP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QOKYmi">FIP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FjvgQl" class="- topic/p ">Federal Information Processing</p>
+                  <entry>
+                     <p id="FjvgQl">Federal Information Processing</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="bkqoJy" class="- topic/p ">FPDS-NG</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="bkqoJy">FPDS-NG</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BqRijv" class="- topic/p ">Federal Procurement Data System – Next Generation</p>
+                  <entry>
+                     <p id="BqRijv">Federal Procurement Data System – Next Generation</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="YrvlcJ" class="- topic/p ">FOIA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="YrvlcJ">FOIA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uMUAat" class="- topic/p ">Freedom of Information Act</p>
+                  <entry>
+                     <p id="uMUAat">Freedom of Information Act</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="tswAPI" class="- topic/p ">FPRA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tswAPI">FPRA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZBjpjj" class="- topic/p ">Forward Pricing Rate Agreement</p>
+                  <entry>
+                     <p id="ZBjpjj">Forward Pricing Rate Agreement</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="Sujfsc" class="- topic/p ">G&amp;A</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Sujfsc">G&amp;A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TlJmNd" class="- topic/p ">General and Administrative (Expenses or Rate)</p>
+                  <entry>
+                     <p id="TlJmNd">General and Administrative (Expenses or Rate)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="AfWpTp" class="- topic/p ">GAO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AfWpTp">GAO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VbKrbS" class="- topic/p ">General Accountability Office</p>
+                  <entry>
+                     <p id="VbKrbS">General Accountability Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="hnqBuK" class="- topic/p ">GPO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hnqBuK">GPO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GWmtXw" class="- topic/p ">Government Printing Office</p>
+                  <entry>
+                     <p id="GWmtXw">Government Printing Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="oXwgEH" class="- topic/p ">GSA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oXwgEH">GSA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mVxHQG" class="- topic/p ">General Services Administration</p>
+                  <entry>
+                     <p id="mVxHQG">General Services Administration</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ZOPDWs" class="- topic/p ">HCA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZOPDWs">HCA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zVeIkN" class="- topic/p ">Head of Contracting Activity</p>
+                  <entry>
+                     <p id="zVeIkN">Head of Contracting Activity</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="kzpuZr" class="- topic/p ">HCD</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kzpuZr">HCD</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UGYUyg" class="- topic/p ">HQ Contracting Division</p>
+                  <entry>
+                     <p id="UGYUyg">HQ Contracting Division</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="wihAxz" class="- topic/p ">HOA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wihAxz">HOA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tifJcq" class="- topic/p ">Head of Agency</p>
+                  <entry>
+                     <p id="tifJcq">Head of Agency</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sEskKL" class="- topic/p ">IBOP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sEskKL">IBOP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mJqbcD" class="- topic/p ">Interactive Business Opportunity Page</p>
+                  <entry>
+                     <p id="mJqbcD">Interactive Business Opportunity Page</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FiERLj" class="- topic/p ">IFB</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FiERLj">IFB</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CySoOl" class="- topic/p ">Invitation for Bid</p>
+                  <entry>
+                     <p id="CySoOl">Invitation for Bid</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="Pvkaev" class="- topic/p ">IG</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Pvkaev">IG</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JMekIg" class="- topic/p ">Inspector General</p>
+                  <entry>
+                     <p id="JMekIg">Inspector General</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="NBNiGs" class="- topic/p ">IGCE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NBNiGs">IGCE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iQuSrv" class="- topic/p ">Independent Government Cost Estimate</p>
+                  <entry>
+                     <p id="iQuSrv">Independent Government Cost Estimate</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="joFQHm" class="- topic/p ">J&amp;A</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="joFQHm">J&amp;A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NEtQyW" class="- topic/p ">Justification and Approval</p>
+                  <entry>
+                     <p id="NEtQyW">Justification and Approval</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="OYZMVi" class="- topic/p ">JRD</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OYZMVi">JRD</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="kbuZRX" class="- topic/p ">Justification Review Document</p>
+                  <entry>
+                     <p id="kbuZRX">Justification Review Document</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="cBFkBF" class="- topic/p ">KO/CO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cBFkBF">KO/CO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dRgoqK" class="- topic/p ">Contracting Officer</p>
+                  <entry>
+                     <p id="dRgoqK">Contracting Officer</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CEzsrW" class="- topic/p ">LNO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CEzsrW">LNO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ObYEKt" class="- topic/p ">Liaison Officer</p>
+                  <entry>
+                     <p id="ObYEKt">Liaison Officer</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="lHDbLG" class="- topic/p ">LSA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lHDbLG">LSA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NgBNwR" class="- topic/p ">Labor Surplus Area</p>
+                  <entry>
+                     <p id="NgBNwR">Labor Surplus Area</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yeTnch" class="- topic/p ">MAR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yeTnch">MAR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="scoaeR" class="- topic/p ">Mid-Atlantic Region</p>
+                  <entry>
+                     <p id="scoaeR">Mid-Atlantic Region</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CzxJmO" class="- topic/p ">MDA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CzxJmO">MDA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nSVgRv" class="- topic/p ">Milestone Decision Authority</p>
+                  <entry>
+                     <p id="nSVgRv">Milestone Decision Authority</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="LJfiYA" class="- topic/p ">MDAE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LJfiYA">MDAE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ctacHI" class="- topic/p ">Military Deputy to Acquisition Executive</p>
+                  <entry>
+                     <p id="ctacHI">Military Deputy to Acquisition Executive</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ulAXEo" class="- topic/p ">MIPR</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ulAXEo">MIPR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qekwmu" class="- topic/p ">Military Interdepartmental Purchase Request</p>
+                  <entry>
+                     <p id="qekwmu">Military Interdepartmental Purchase Request</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="IkhMiH" class="- topic/p ">NDI</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IkhMiH">NDI</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BdUUxx" class="- topic/p ">Non-Developmental Item</p>
+                  <entry>
+                     <p id="BdUUxx">Non-Developmental Item</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yRwyCH" class="- topic/p ">OMB</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yRwyCH">OMB</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mBANrR" class="- topic/p ">Office of Management and Budget</p>
+                  <entry>
+                     <p id="mBANrR">Office of Management and Budget</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fMCEQd" class="- topic/p ">OSBP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fMCEQd">OSBP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SGjhgs" class="- topic/p ">Office of Small Business Programs</p>
+                  <entry>
+                     <p id="SGjhgs">Office of Small Business Programs</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sLtlCX" class="- topic/p ">OSD</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sLtlCX">OSD</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AkikhE" class="- topic/p ">Office of the Secretary of Defense</p>
+                  <entry>
+                     <p id="AkikhE">Office of the Secretary of Defense</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="oiHEYn" class="- topic/p ">PAAC</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oiHEYn">PAAC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CMhufV" class="- topic/p ">Procuring Activity Advocate for Competition</p>
+                  <entry>
+                     <p id="CMhufV">Procuring Activity Advocate for Competition</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="qrqaXZ" class="- topic/p ">PAS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qrqaXZ">PAS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cadxQn" class="- topic/p ">Pre-Award Surveys</p>
+                  <entry>
+                     <p id="cadxQn">Pre-Award Surveys</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="lKajAi" class="- topic/p ">PD2</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lKajAi">PD2</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yQDcDn" class="- topic/p ">Procurement Defense Desktop</p>
+                  <entry>
+                     <p id="yQDcDn">Procurement Defense Desktop</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RcdqFS" class="- topic/p ">RAO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RcdqFS">RAO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qOcADp" class="- topic/p ">Requiring Activity Official</p>
+                  <entry>
+                     <p id="qOcADp">Requiring Activity Official</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="PItbAr" class="- topic/p ">SAMP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PItbAr">SAMP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hnGXtB" class="- topic/p ">Single Acquisition Management Plan</p>
+                  <entry>
+                     <p id="hnGXtB">Single Acquisition Management Plan</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zESzYl" class="- topic/p ">SAE/SPE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zESzYl">SAE/SPE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="omFXNK" class="- topic/p ">Service Acquisition Executive/Senior Procurement Executive</p>
+                  <entry>
+                     <p id="omFXNK">Service Acquisition Executive/Senior Procurement Executive</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="WXPoOv" class="- topic/p ">SES</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WXPoOv">SES</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="auxImH" class="- topic/p ">Senior Executive Service</p>
+                  <entry>
+                     <p id="auxImH">Senior Executive Service</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="kpvghN" class="- topic/p ">SOAE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kpvghN">SOAE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UVclpr" class="- topic/p ">Special Operations Acquisition Executive</p>
+                  <entry>
+                     <p id="UVclpr">Special Operations Acquisition Executive</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rMUmCf" class="- topic/p ">SOAG</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rMUmCf">SOAG</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MfLqqE" class="- topic/p ">Special Operations Competition Advocate General Office</p>
+                  <entry>
+                     <p id="MfLqqE">Special Operations Competition Advocate General Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="EiZcPR" class="- topic/p ">SOF AT&amp;L</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EiZcPR">SOF AT&amp;L</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="msJhtn" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics</p>
+                  <entry>
+                     <p id="msJhtn">Special Operations Forces Acquisition, Technology, and Logistics</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="gPDRdJ" class="- topic/p ">SOJA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="gPDRdJ">SOJA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yLAtbF" class="- topic/p ">Special Operations Judge Advocate's Office</p>
+                  <entry>
+                     <p id="yLAtbF">Special Operations Judge Advocate's Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="Btfbhm" class="- topic/p ">SOJA-AQ</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Btfbhm">SOJA-AQ</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dPYoUW" class="- topic/p ">Special Operations Judge Advocate's Office, Acquisition Law</p>
+                  <entry>
+                     <p id="dPYoUW">Special Operations Judge Advocate's Office, Acquisition Law</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sxTIFr" class="- topic/p ">SOF AT&amp;L-K</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sxTIFr">SOF AT&amp;L-K</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ICnnap" class="- topic/p ">SOF AT&amp;L Directorate of Procurement</p>
+                  <entry>
+                     <p id="ICnnap">SOF AT&amp;L Directorate of Procurement</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="KSlYwU" class="- topic/p ">SOF AT&amp;L-KM</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KSlYwU">SOF AT&amp;L-KM</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ddFMnn" class="- topic/p ">SOF AT&amp;L Mission Support Division</p>
+                  <entry>
+                     <p id="ddFMnn">SOF AT&amp;L Mission Support Division</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="BGjzNX" class="- topic/p ">SOF AT&amp;L-KX</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BGjzNX">SOF AT&amp;L-KX</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FvSKRV" class="- topic/p ">SOF AT&amp;L Operations Support Division</p>
+                  <entry>
+                     <p id="FvSKRV">SOF AT&amp;L Operations Support Division</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="bzBAhp" class="- topic/p ">SOWO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="bzBAhp">SOWO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qJDonK" class="- topic/p ">Special Operations Washington Office</p>
+                  <entry>
+                     <p id="qJDonK">Special Operations Washington Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="jOKrmZ" class="- topic/p ">SPE</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jOKrmZ">SPE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FNehhO" class="- topic/p ">Senior Procurement Executive</p>
+                  <entry>
+                     <p id="FNehhO">Senior Procurement Executive</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yLYjlk" class="- topic/p ">SPS</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yLYjlk">SPS</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jSuYHj" class="- topic/p ">Standard Procurement System</p>
+                  <entry>
+                     <p id="jSuYHj">Standard Procurement System</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yGpiWu" class="- topic/p ">SSEB</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yGpiWu">SSEB</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vRDxMl" class="- topic/p ">Source Selection Evaluation Board</p>
+                  <entry>
+                     <p id="vRDxMl">Source Selection Evaluation Board</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="dezdNz" class="- topic/p ">TILO</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="dezdNz">TILO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZYspmP" class="- topic/p ">Technical Industrial Liaison Office</p>
+                  <entry>
+                     <p id="ZYspmP">Technical Industrial Liaison Office</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="LWsmfX" class="- topic/p ">UCA</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LWsmfX">UCA</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gCUbmr" class="- topic/p ">Undefinitized Contracting Action</p>
+                  <entry>
+                     <p id="gCUbmr">Undefinitized Contracting Action</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MFFZaV" class="- topic/p ">U.S.C.</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MFFZaV">U.S.C.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TzyIoi" class="- topic/p ">United States Code</p>
+                  <entry>
+                     <p id="TzyIoi">United States Code</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="xUdApA" class="- topic/p ">USP</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xUdApA">USP</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OttejW" class="- topic/p ">Un-Solicited Proposals</p>
+                  <entry>
+                     <p id="OttejW">Un-Solicited Proposals</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="xHspRP" outputclass="Normal" class="- topic/p "></p>
-      <p id="BkZujU" class="- topic/p "></p>
-      <p id="zPCnpR" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="MxLtqd" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
-      <p id="CpoQCv" outputclass="Normal" class="- topic/p ">SOFARS 5602</p>
-      <p id="CkJIXB" outputclass="Normal" class="- topic/p ">February 2007</p>
+      <p id="xHspRP" outputclass="Normal"></p>
+      <p id="BkZujU"></p>
+      <p id="zPCnpR" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="MxLtqd" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="CpoQCv" outputclass="Normal">SOFARS 5602</p>
+      <p id="CkJIXB" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

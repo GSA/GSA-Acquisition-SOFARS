@@ -1,140 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_PART_5609"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 5609</ph> - CONTRACTOR QUALIFICATIONS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5609.1.dita#SOFARS_SUBPART_5609.1"
-                        class="- topic/xref ">Subpart 5609.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5609" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5609</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.1.dita#SOFARS_SUBPART_5609.1">Subpart 5609.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.105.dita#SOFARS_5609.105"
-                              class="- topic/xref ">5609.105 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.105.dita#SOFARS_5609.105">5609.105 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5609.1051.dita#SOFARS_5609.1051"
-                                    class="- topic/xref ">5609.105-1 Obtaining Information.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5609.1051.dita#SOFARS_5609.1051">5609.105-1 Obtaining Information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5609.4.dita#SOFARS_SUBPART_5609.4"
-                        class="- topic/xref ">Subpart 5609.4 - DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.4.dita#SOFARS_SUBPART_5609.4">Subpart 5609.4 - DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.403.dita#SOFARS_5609.403"
-                              class="- topic/xref ">5609.403 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.403.dita#SOFARS_5609.403">5609.403 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.406.dita#SOFARS_5609.406"
-                              class="- topic/xref ">5609.406 Debarment.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.406.dita#SOFARS_5609.406">5609.406 Debarment.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5609.4063.dita#SOFARS_5609.4063"
-                                    class="- topic/xref ">5609.406-3 Procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5609.4063.dita#SOFARS_5609.4063">5609.406-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.407.dita#SOFARS_5609.407"
-                              class="- topic/xref ">5609.407 Suspension.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.407.dita#SOFARS_5609.407">5609.407 Suspension.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5609.4073.dita#SOFARS_5609.4073"
-                                    class="- topic/xref ">5609.407-3 Procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5609.4073.dita#SOFARS_5609.4073">5609.407-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5609.5.dita#SOFARS_SUBPART_5609.5"
-                        class="- topic/xref ">Subpart 5609.5 - ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.5.dita#SOFARS_SUBPART_5609.5">Subpart 5609.5 - ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.503.dita#SOFARS_5609.503"
-                              class="- topic/xref ">5609.503 Waiver.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.503.dita#SOFARS_5609.503">5609.503 Waiver.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.507.dita#SOFARS_5609.507"
-                              class="- topic/xref ">5609.507 Solicitation Provisions and Contract Clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.507.dita#SOFARS_5609.507">5609.507 Solicitation Provisions and Contract Clauses.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5609.5071.dita#SOFARS_5609.5071"
-                                    class="- topic/xref ">5609.507-1 Solicitation Provisions.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5609.5071.dita#SOFARS_5609.5071">5609.507-1 Solicitation Provisions.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5609.5072.dita#SOFARS_5609.5072"
-                                    class="- topic/xref ">5609.507-2 Contract Clause.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5609.5072.dita#SOFARS_5609.5072">5609.507-2 Contract Clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5609.9.dita#SOFARS_SUBPART_5609.9"
-                        class="- topic/xref ">Subpart 5609.9 - CONTRACTORS IN THE FEDERAL WORKPLACE (formerly Contractor Employee Training)</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.9.dita#SOFARS_SUBPART_5609.9">Subpart 5609.9 - CONTRACTORS IN THE FEDERAL WORKPLACE (formerly Contractor Employee Training)</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5609.901.dita#SOFARS_5609.901"
-                              class="- topic/xref ">5609.901 Guidance.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5609.901.dita#SOFARS_5609.901">5609.901 Guidance.</xref>
                      </p>
                   </li>
                </ul>

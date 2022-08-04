@@ -1,509 +1,496 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_Attachment_5601-2.2f"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="heading 2 Ctr" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Attachment 5601-2.2 f</ph> Table Of Contents</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="zjzNJO" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">APPROVAL LEVELS OF AUTHORITY AND DOCUMENT REVIEW</b>
-                        <b class="+ topic/ph hi-d/b ">– January 2020</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-2.2f" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="heading 2 Ctr">
+      <ph props="autonumber">Attachment 5601-2.2 f</ph> Table Of Contents</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="zjzNJO" outputclass=" Ctr">
+                        <b>APPROVAL LEVELS OF AUTHORITY AND DOCUMENT REVIEW</b>
+                        <b>– January 2020</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="zsgIdg" outputclass=" Ctr" class="- topic/p ">(unless further restricted by individual Agreements Officer warrant levels)</p>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="zsgIdg" outputclass=" Ctr">(unless further restricted by individual Agreements Officer warrant levels)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="YTRLZg" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">NSWDG</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="XnXXdp" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">ACTION</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IIlktr" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">REVIEW</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UMCcDR" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">APPROVAL</b>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="YTRLZg" outputclass=" Ctr">
+                        <b>NSWDG</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="yYGiUt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">1. Use of OT Authority D&amp;F</b>
-                        <sup class="+ topic/ph hi-d/sup ">1</sup>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XnXXdp" outputclass=" Ctr">
+                        <b>ACTION</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="IIlktr" outputclass=" Ctr">
+                        <b>REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="UMCcDR" outputclass=" Ctr">
+                        <b>APPROVAL</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="LRZRZZ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">NOTE:</i>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="yYGiUt">
+                        <b>1. Use of OT Authority D&amp;F</b>
+                        <sup>1</sup>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="LRZRZZ">
+                        <b>
+                           <i>NOTE:</i>
                         </b>See Note 1 for calculating the value of OTs that include multiple transactions, phases, or follow-on production.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QPgFwn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">Competitive OT Procedures:</u>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QPgFwn">
+                        <b>
+                           <u>Competitive OT Procedures:</u>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RgJbtv" class="- topic/p "/>
+                  <entry>
+                     <p id="RgJbtv"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="usLDCb" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="GAurOH" class="- topic/p ">Equal to or less than $250,000</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vVgdMA" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fAJqOm" outputclass=" Ctr" class="- topic/p ">AO</p>
+                  <entry>
+                     <p id="usLDCb"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sCpWsL" class="- topic/p ">Greater than $250,000, but less than $1M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GAurOH">Equal to or less than $250,000</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ariYdr" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="vVgdMA" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZksNMQ" outputclass=" Ctr" class="- topic/p ">FCO</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="eCavDz" class="- topic/p ">Equal to or greater than $1M, but less than $100M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nylPUP" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="klLlCR" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  <entry>
+                     <p id="fAJqOm" outputclass=" Ctr">AO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rrvkek" class="- topic/p ">Equal to or greater than $100M, but less than $500M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sCpWsL">Greater than $250,000, but less than $1M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wqnuLO" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  <entry>
+                     <p id="ariYdr" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CxjBBV" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fbIPJm" class="- topic/p ">Equal to or greater than $500M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dvwdIa" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="KKLFVk" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
+                  <entry>
+                     <p id="ZksNMQ" outputclass=" Ctr">FCO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="GgUeKJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">Sole</u>
+               <row rowsep="1">
+                  <entry>
+                     <p id="eCavDz">Equal to or greater than $1M, but less than $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="nylPUP" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="klLlCR" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rrvkek">Equal to or greater than $100M, but less than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="wqnuLO" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="CxjBBV" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fbIPJm">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="dvwdIa" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="KKLFVk" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GgUeKJ">
+                        <b>
+                           <u>Sole</u>
                         </b>
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">source / Non-competitive OT</u>
+                        <b>
+                           <u>source / Non-competitive OT</u>
                         </b>
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">:</u>
-                        </b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xapsay" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GUiBVN" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="abFmzE" class="- topic/p ">Equal to or less than $250,000</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YKTrxb" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ohCMvQ" outputclass=" Ctr" class="- topic/p ">AO</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rAqLmP" class="- topic/p ">Greater than $250,000, but less than $1M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rVRitX" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="leVdgT" outputclass=" Ctr" class="- topic/p ">FCO</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="UTVJzo" class="- topic/p ">Equal to or greater than $1M, but less than $100M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ynYIhF" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TuvIZP" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ZQjAIK" class="- topic/p ">Equal to or greater than $100M, but less than $500M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WoNQBu" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lalFrl" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="eoOrKe" class="- topic/p ">Equal to or greater than $500M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HUwkbY" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gVHZfz" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="iSqjIK" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">Using other than RDT&amp;E Funds:</u>
+                        <b>
+                           <u>:</u>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hVGOpU" class="- topic/p "/>
+                  <entry>
+                     <p id="xapsay"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aKTZsR" class="- topic/p "/>
+                  <entry>
+                     <p id="GUiBVN"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="JZiekj" class="- topic/p ">
+               <row rowsep="1">
+                  <entry>
+                     <p id="abFmzE">Equal to or less than $250,000</p>
+                  </entry>
+                  <entry>
+                     <p id="YKTrxb" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="ohCMvQ" outputclass=" Ctr">AO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rAqLmP">Greater than $250,000, but less than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="rVRitX" outputclass=" Ctr">Peer Review, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="leVdgT" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="UTVJzo">Equal to or greater than $1M, but less than $100M</p>
+                  </entry>
+                  <entry>
+                     <p id="ynYIhF" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="TuvIZP" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZQjAIK">Equal to or greater than $100M, but less than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="WoNQBu" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="lalFrl" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="eoOrKe">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="HUwkbY" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="gVHZfz" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iSqjIK">
+                        <b>
+                           <u>Using other than RDT&amp;E Funds:</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="hVGOpU"></p>
+                  </entry>
+                  <entry>
+                     <p id="aKTZsR"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JZiekj">
                        
                            Equal to or less than $100,000
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eKDYHh" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="eKDYHh" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hQbnJi" outputclass=" Ctr" class="- topic/p ">AO</p>
+                  <entry>
+                     <p id="hQbnJi" outputclass=" Ctr">AO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="cimXGT" class="- topic/p ">
+               <row rowsep="1">
+                  <entry>
+                     <p id="cimXGT">
                         
                           Greater than $100,000, but less than $1M
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NtFxTu" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="NtFxTu" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xVYTnO" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  <entry>
+                     <p id="xVYTnO" outputclass=" Ctr">FCO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="wQShEO" class="- topic/p ">
+               <row rowsep="1">
+                  <entry>
+                     <p id="wQShEO">
                 
                            Equal to or greater than $1M, but less than $100M
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XIyyUE" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
+                  <entry>
+                     <p id="XIyyUE" outputclass=" Ctr">Peer Review, FCO, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SXWWTv" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="kWUvWw" class="- topic/p ">Equal to or greater than $100M, but less than $500M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GaMMCG" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cmxlgj" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
+                  <entry>
+                     <p id="SXWWTv" outputclass=" Ctr">SOF AT&amp;L-KB</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="jRHaAx" class="- topic/p ">Equal to or greater than $500M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kWUvWw">Equal to or greater than $100M, but less than $500M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZhKANd" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  <entry>
+                     <p id="GaMMCG" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HZsAue" outputclass=" Ctr" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S)</p>
+                  <entry>
+                     <p id="cmxlgj" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="OimuMC" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">2.Requests for Proposals, Solicitations, and Requests for White Papers</b>
-                        <sup class="+ topic/ph hi-d/sup ">1</sup>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jRHaAx">Equal to or greater than $500M</p>
+                  </entry>
+                  <entry>
+                     <p id="ZhKANd" outputclass=" Ctr">Peer Review, FCO, Legal, SOF AT&amp;L-KB, HCA, &amp; SPE</p>
+                  </entry>
+                  <entry>
+                     <p id="HZsAue" outputclass=" Ctr">USD(R&amp;E) or USD(A&amp;S)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="OimuMC">
+                        <b>2.Requests for Proposals, Solicitations, and Requests for White Papers</b>
+                        <sup>1</sup>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="iDclWm" class="- topic/p ">Equal to or less than $250,000</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iDclWm">Equal to or less than $250,000</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VwUffa" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="VwUffa" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tJdKap" outputclass=" Ctr" class="- topic/p ">AO</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="aPkaHj" class="- topic/p ">Greater than $250,000, but less than $1M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wjzwgO" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RHdChU" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  <entry>
+                     <p id="tJdKap" outputclass=" Ctr">AO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zQMJJs" class="- topic/p ">Equal to or greater than $1M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="aPkaHj">Greater than $250,000, but less than $1M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JEMsWr" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
+                  <entry>
+                     <p id="wjzwgO" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ndTfim" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="RHdChU" outputclass=" Ctr">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zQMJJs">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="JEMsWr" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="ndTfim" outputclass=" Ctr">
                        
                            SOF AT&amp;LKB
                         
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="oldxGl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">4. Agreement Clearance</b>
-                        <sup class="+ topic/ph hi-d/sup ">1</sup>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="oldxGl">
+                        <b>4. Agreement Clearance</b>
+                        <sup>1</sup>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="oVEQmy" class="- topic/p ">Equal to or less than $250,000</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oVEQmy">Equal to or less than $250,000</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hTVXKy" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="hTVXKy" outputclass=" Ctr">
                        
                            Peer Review, Legal
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cEgsgc" outputclass=" Ctr" class="- topic/p ">AO</p>
+                  <entry>
+                     <p id="cEgsgc" outputclass=" Ctr">AO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="WTWxLE" class="- topic/p ">Greater than $250,000, but less than $1M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WTWxLE">Greater than $250,000, but less than $1M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rUBTAp" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="rUBTAp" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QyCuWE" outputclass=" Ctr" class="- topic/p ">FCO</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sNSoOa" class="- topic/p ">Equal to or greater than $1M</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TczxVU" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DPLRtv" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  <entry>
+                     <p id="QyCuWE" outputclass=" Ctr">FCO</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ygCzHE" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <u class="+ topic/ph hi-d/u ">Using other than RDT&amp;E Funds:</u>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sNSoOa">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry>
+                     <p id="TczxVU" outputclass=" Ctr">Peer Review, FCO, Legal</p>
+                  </entry>
+                  <entry>
+                     <p id="DPLRtv" outputclass=" Ctr">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ygCzHE">
+                        <b>
+                           <u>Using other than RDT&amp;E Funds:</u>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tFasFw" class="- topic/p "/>
+                  <entry>
+                     <p id="tFasFw"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oJiwza" class="- topic/p "/>
+                  <entry>
+                     <p id="oJiwza"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="TUoFJc" class="- topic/p ">Equal to or less than $100,000</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="TUoFJc">Equal to or less than $100,000</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XATEWm" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="XATEWm" outputclass=" Ctr">
                        
                           Peer Review, Legal
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gGqtEN" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="gGqtEN" outputclass=" Ctr">
                        
                           AO
                         
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sDHccZ" class="- topic/p ">Greater than $100,000, but less than $1M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sDHccZ">Greater than $100,000, but less than $1M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CPROPV" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="CPROPV" outputclass=" Ctr">
                         
                            Peer Review, Legal
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MmcIia" outputclass=" Ctr" class="- topic/p ">
+                  <entry>
+                     <p id="MmcIia" outputclass=" Ctr">
                         
                            FCO
                         
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="hskJjW" class="- topic/p ">Equal to or greater than $1M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hskJjW">Equal to or greater than $1M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FSAKSJ" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal</p>
+                  <entry>
+                     <p id="FSAKSJ" outputclass=" Ctr">Peer Review, FCO, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IWLYNk" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  <entry>
+                     <p id="IWLYNk" outputclass=" Ctr">SOF AT&amp;L-KB</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="STmXGO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">NOTE:</i>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="STmXGO">
+                        <b>
+                           <i>NOTE:</i>
                         </b>The Agreement Clearance is the approval of the negotiated business arrangement, to include all associated documentation. Agreement Clearance review shall be requested only after negotiations have concluded, the Agreement file is finalized, to include the Agreement Analysis Document, and prior to the Agreements Officer signing the Agreement.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="YLWVdn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">5. Agreement Terminations</b>2</p>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="YLWVdn">
+                        <b>5. Agreement Terminations</b>2</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="zUmDkL" class="- topic/p ">Equal to or less than $2M</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zUmDkL">Equal to or less than $2M</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IyAzPn" outputclass=" Ctr" class="- topic/p ">Peer Review, Legal</p>
+                  <entry>
+                     <p id="IyAzPn" outputclass=" Ctr">Peer Review, Legal</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ORhfHV" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  <entry>
+                     <p id="ORhfHV" outputclass=" Ctr">SOF AT&amp;L-KB</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="oLWwuB" class="- topic/p ">
+               <row rowsep="1">
+                  <entry>
+                     <p id="oLWwuB">
                         
                            Greater than $2M
                         
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FRinmD" outputclass=" Ctr" class="- topic/p ">Peer Review, FCO, Legal, &amp; SOF AT&amp;L-KB</p>
+                  <entry>
+                     <p id="FRinmD" outputclass=" Ctr">Peer Review, FCO, Legal, &amp; SOF AT&amp;L-KB</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NyllyM" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  <entry>
+                     <p id="NyllyM" outputclass=" Ctr">HCA</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="JyaSYL" class="- topic/p ">
-                        <sup class="+ topic/ph hi-d/sup ">1</sup> When the FCO is also the AO, approval authority is one level above the Agreements officer.</p>
-                     <p id="pSFEGH" class="- topic/p ">
-                        <sup class="+ topic/ph hi-d/sup ">2</sup> When the FCO is also the AO, the approval authority will be the HCA.</p>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="JyaSYL">
+                        <sup>1</sup> When the FCO is also the AO, approval authority is one level above the Agreements officer.</p>
+                     <p id="pSFEGH">
+                        <sup>2</sup> When the FCO is also the AO, the approval authority will be the HCA.</p>
                   </entry>
                </row>
             </tbody>

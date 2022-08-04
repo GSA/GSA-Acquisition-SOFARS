@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_Attachment_5601-1.1b"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title id="nWmhgk" outputclass="heading 2 Ctr" class="- topic/title ">
-      <ph id="yXWgIq" props="autonumber" class="- topic/ph ">Attachment 5601-1.1 b</ph> Table Of Contents</title>
-   <conbody id="viWGgZ" class="- topic/body  concept/conbody ">
-      <table colsep="1" id="YwA1hV" rowsep="1" class="- topic/table ">
-         <tgroup cols="2" colsep="1" id="b3MZFs" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     id="aBvETM"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     id="liNiqp"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody id="0KHiFF" class="- topic/tbody ">
-               <row id="Rdt6LC" rowsep="1" class="- topic/row ">
-                  <entry id="dCeEjR" nameend="2" namest="1" class="- topic/entry ">
-                     <p id="wLyfob" outputclass=" Ctr" class="- topic/p ">
-                        <b id="D4zWMr" class="+ topic/ph hi-d/b ">NOTES</b>
-                        <b id="vmcmtG" class="+ topic/ph hi-d/b ">– Applicable to ALL Offices</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.1b" ditaarch:DITAArchVersion="1.3">
+   <title id="nWmhgk" outputclass="heading 2 Ctr">
+      <ph id="yXWgIq" props="autonumber">Attachment 5601-1.1 b</ph> Table Of Contents</title>
+   <conbody id="viWGgZ">
+      <table colsep="1" id="YwA1hV" rowsep="1">
+         <tgroup cols="2" colsep="1" id="b3MZFs">
+            <colspec colname="1" colnum="1" id="aBvETM" rowheader="headers" />
+            <colspec colname="2" colnum="2" id="liNiqp" rowheader="headers" />
+            <tbody id="0KHiFF">
+               <row id="Rdt6LC" rowsep="1">
+                  <entry id="dCeEjR" nameend="2" namest="1">
+                     <p id="wLyfob" outputclass=" Ctr">
+                        <b id="D4zWMr">NOTES</b>
+                        <b id="vmcmtG">– Applicable to ALL Offices</b>
                      </p>
                   </entry>
                </row>
-               <row id="fqCk47" rowsep="1" class="- topic/row ">
-                  <entry id="L7avHL" class="- topic/entry ">
-                     <p id="p_Note1" class="- topic/p ">
-                        <b id="naDzeN" class="+ topic/ph hi-d/b ">1</b>
+               <row id="fqCk47" rowsep="1">
+                  <entry id="L7avHL">
+                     <p id="p_Note1">
+                        <b id="naDzeN">1</b>
                      </p>
                   </entry>
-                  <entry id="0H1Hf1" class="- topic/entry ">
-                     <p id="rMIZon" class="- topic/p ">Acquisition planning is required for <b id="uQkyEq" class="+ topic/ph hi-d/b ">
-                           <i id="9SCze4" class="+ topic/ph hi-d/i ">
-                              <u id="4H7BYh" class="+ topic/ph hi-d/u ">ALL</u>
+                  <entry id="0H1Hf1">
+                     <p id="rMIZon">Acquisition planning is required for <b id="uQkyEq">
+                           <i id="9SCze4">
+                              <u id="4H7BYh">ALL</u>
                            </i>
                         </b> acquisitions. Simplified acquisition planning can be used for
                         acquisitions below DFARS thresholds for a written acquisition plan. See
@@ -47,187 +35,175 @@
                         responsible for the program, has overall responsibility for the acquisition
                         planning. The PM shall prepare the acquisition planning documents with
                         coordination from the KO.</p>
-                     <p id="QZgzMR" class="- topic/p ">
-                        <b id="smXquD" class="+ topic/ph hi-d/b ">AP Coordination</b> – IAW FAR 7.104(c), acquisition plans
+                     <p id="QZgzMR">
+                        <b id="smXquD">AP Coordination</b> – IAW FAR 7.104(c), acquisition plans
                         proposing other than full and open competition shall be coordinated with the
                         cognizant advocate for competition. IAW FAR 7.104(d)(1), acquisition plans
                         exceeding $8M not entirely reserved or set-aside for small business require
                         small business specialist coordination.</p>
-                     <p id="vnaTZy" class="- topic/p ">
-                        <b id="se4pvI" class="+ topic/ph hi-d/b ">AP Approval</b> - PEO/Director/O-6 or civilian equivalent are
+                     <p id="vnaTZy">
+                        <b id="se4pvI">AP Approval</b> - PEO/Director/O-6 or civilian equivalent are
                         authorized to approve non-competitive acquisition plans.</p>
                   </entry>
                </row>
-               <row id="jqdPNL" rowsep="1" class="- topic/row ">
-                  <entry id="t7SOR2" class="- topic/entry ">
-                     <p id="XukxSV" class="- topic/p ">
-                        <b id="FxicqW" class="+ topic/ph hi-d/b ">2</b>
+               <row id="jqdPNL" rowsep="1">
+                  <entry id="t7SOR2">
+                     <p id="XukxSV">
+                        <b id="FxicqW">2</b>
                      </p>
                   </entry>
-                  <entry id="yS7DE2" class="- topic/entry ">
-                     <p id="lvKRKH" class="- topic/p ">Anytime the FAR/DFARS (see attached <xref format="html"
-                              href="http://www.acq.osd.mil/dpap/ccap/cc/jcchb/HTML/Topical/df_listing.html"
-                              id="vFGv8e"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u id="xce1Og" class="+ topic/ph hi-d/u ">DoD listing</u>
+                  <entry id="yS7DE2">
+                     <p id="lvKRKH">Anytime the FAR/DFARS (see attached <xref format="html" href="http://www.acq.osd.mil/dpap/ccap/cc/jcchb/HTML/Topical/df_listing.html" id="vFGv8e" scope="external">
+                           <u id="xce1Og">DoD listing</u>
                         </xref>) states a Determination is required, the determination is to be made
                         in writing and placed in the contract file. The DoD listing provides
                         examples. USSOCOM templates are to be used when available.</p>
                   </entry>
                </row>
-               <row id="fMJEBi" rowsep="1" class="- topic/row ">
-                  <entry id="dEdUou" class="- topic/entry ">
-                     <p id="gpFwkZ" class="- topic/p ">
-                        <b id="sJ0Pou" class="+ topic/ph hi-d/b ">3</b>
+               <row id="fMJEBi" rowsep="1">
+                  <entry id="dEdUou">
+                     <p id="gpFwkZ">
+                        <b id="sJ0Pou">3</b>
                      </p>
                   </entry>
-                  <entry id="uJldYn" class="- topic/entry ">
-                     <p id="VzTcTy" class="- topic/p ">See SOFARS <xref format="docx"
-                              href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5606.docx"
-                              id="uuIBYH"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u id="13Hrpb" class="+ topic/ph hi-d/u ">5606.501</u>
+                  <entry id="uJldYn">
+                     <p id="VzTcTy">See SOFARS <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5606.docx" id="uuIBYH" scope="external">
+                           <u id="13Hrpb">5606.501</u>
                         </xref> for AAC and PAAC designations. In the absence of the AAC, the HCA
                         will assume the review/approval duties. In the absence of the PAAC, the AAC
                         will assume the review/approval duties. When the PAAC is performing as the
                         KO, then the AAC will be the reviewer.</p>
                   </entry>
                </row>
-               <row id="WYuCMG" rowsep="1" class="- topic/row ">
-                  <entry id="Qn6A7h" class="- topic/entry ">
-                     <p id="qNcWMS" class="- topic/p ">
-                        <b id="C00D5U" class="+ topic/ph hi-d/b ">4</b>
+               <row id="WYuCMG" rowsep="1">
+                  <entry id="Qn6A7h">
+                     <p id="qNcWMS">
+                        <b id="C00D5U">4</b>
                      </p>
                   </entry>
-                  <entry id="TlqJtE" class="- topic/entry ">
-                     <p id="eSkDJs" class="- topic/p ">See SOFARS 5601.170 for local and DPC peer review requirements
+                  <entry id="TlqJtE">
+                     <p id="eSkDJs">See SOFARS 5601.170 for local and DPC peer review requirements
                         and phases.</p>
                   </entry>
                </row>
-               <row id="FzskWI" rowsep="1" class="- topic/row ">
-                  <entry id="cTrWFG" class="- topic/entry ">
-                     <p id="sIwkkG" class="- topic/p ">
-                        <b id="xDKONL" class="+ topic/ph hi-d/b ">5</b>
+               <row id="FzskWI" rowsep="1">
+                  <entry id="cTrWFG">
+                     <p id="sIwkkG">
+                        <b id="xDKONL">5</b>
                      </p>
                   </entry>
-                  <entry id="cI6s5G" class="- topic/entry ">
-                     <p id="qXUUYm" class="- topic/p ">RFP Reviews apply to all contracting actions, including task
+                  <entry id="cI6s5G">
+                     <p id="qXUUYm">RFP Reviews apply to all contracting actions, including task
                         orders and delivery orders, regardless of method (i.e. FAR Part 8, 12, 13,
-                        15, 16, etc.). <ph id="FxrgLe" class="- topic/ph "> </ph>
+                        15, 16, etc.). <ph id="FxrgLe"> </ph>
                      </p>
-                     <p id="gaoZed" class="- topic/p ">
-                        <b id="sBX4c2" class="+ topic/ph hi-d/b ">
-                           <i id="XuXlbl" class="+ topic/ph hi-d/i ">Exception:</i>
+                     <p id="gaoZed">
+                        <b id="sBX4c2">
+                           <i id="XuXlbl">Exception:</i>
                         </b> Delivery or task orders issued from pre-priced IDIQ contracts with a
                         defined delivery schedule or period of performance.</p>
                   </entry>
                </row>
-               <row id="dNjpnx" rowsep="1" class="- topic/row ">
-                  <entry id="dMJ1Yo" class="- topic/entry ">
-                     <p id="XoSNoO" class="- topic/p ">
-                        <b id="DDk4qr" class="+ topic/ph hi-d/b ">6</b>
+               <row id="dNjpnx" rowsep="1">
+                  <entry id="dMJ1Yo">
+                     <p id="XoSNoO">
+                        <b id="DDk4qr">6</b>
                      </p>
                   </entry>
-                  <entry id="MUeQGl" class="- topic/entry ">
-                     <p id="qXRnPM" class="- topic/p ">Business Clearance Reviews apply to all contracting actions,
+                  <entry id="MUeQGl">
+                     <p id="qXRnPM">Business Clearance Reviews apply to all contracting actions,
                         including task orders and delivery orders, regardless of method (i.e. FAR
                         Part 8, 12, 13, 15, 16, etc.).</p>
-                     <p id="QSFfGm" class="- topic/p ">
-                        <b id="tj9ZrX" class="+ topic/ph hi-d/b ">
-                           <i id="o7nkMc" class="+ topic/ph hi-d/i ">Exception</i>
+                     <p id="QSFfGm">
+                        <b id="tj9ZrX">
+                           <i id="o7nkMc">Exception</i>
                         </b>: Delivery or task orders issued from pre-priced IDIQ contracts with a
                         defined delivery schedule or period of performance.</p>
                   </entry>
                </row>
-               <row id="WuVTDS" rowsep="1" class="- topic/row ">
-                  <entry id="AVn8s0" class="- topic/entry ">
-                     <p id="PRKTKh" class="- topic/p ">
-                        <b id="KH6cD3" class="+ topic/ph hi-d/b ">7</b>
+               <row id="WuVTDS" rowsep="1">
+                  <entry id="AVn8s0">
+                     <p id="PRKTKh">
+                        <b id="KH6cD3">7</b>
                      </p>
                   </entry>
-                  <entry id="GTsGRl" class="- topic/entry ">
-                     <p id="QLTDSS" class="- topic/p ">Contract Clearance Reviews apply to all contracting actions,
+                  <entry id="GTsGRl">
+                     <p id="QLTDSS">Contract Clearance Reviews apply to all contracting actions,
                         including task orders and delivery orders, regardless of method (i.e. FAR
                         Part 8, 12, 13, 15, 16, etc.). Contract Clearance review may be waived by
                         the Business Clearance Approval Authority. Details of the negotiation must
                         be documented and included in the post-negotiation portion of the Business
-                        Clearance Memorandum in accordance with <xref format="html"
-                              href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/15.htm"
-                              id="hplwZT"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u id="93TrZS" class="+ topic/ph hi-d/u ">FAR 15.406-3</u>
+                        Clearance Memorandum in accordance with <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/15.htm" id="hplwZT" scope="external">
+                           <u id="93TrZS">FAR 15.406-3</u>
                         </xref>
-                        <ph id="YRt5AM" class="- topic/ph ">
-                           <u id="JcWYqd" class="+ topic/ph hi-d/u ">.</u>
+                        <ph id="YRt5AM">
+                           <u id="JcWYqd">.</u>
                         </ph>
                      </p>
-                     <p id="ViqNpp" class="- topic/p ">
-                        <b id="WShlJg" class="+ topic/ph hi-d/b ">
-                           <i id="d5Z5GT" class="+ topic/ph hi-d/i ">Exception</i>
+                     <p id="ViqNpp">
+                        <b id="WShlJg">
+                           <i id="d5Z5GT">Exception</i>
                         </b>: Delivery or task orders issued from pre-priced IDIQ contracts with a
                         defined delivery schedule or period of performance.</p>
                   </entry>
                </row>
-               <row id="CZjof3" rowsep="1" class="- topic/row ">
-                  <entry id="FSIAKX" class="- topic/entry ">
-                     <p id="DCeAjc" class="- topic/p ">
-                        <b id="7e2oP3" class="+ topic/ph hi-d/b ">8</b>
+               <row id="CZjof3" rowsep="1">
+                  <entry id="FSIAKX">
+                     <p id="DCeAjc">
+                        <b id="7e2oP3">8</b>
                      </p>
                   </entry>
-                  <entry id="oJVnxm" class="- topic/entry ">
-                     <p id="BUebBz" class="- topic/p ">Source Selection Plans – When the Reviewer is also the SSA, the
+                  <entry id="oJVnxm">
+                     <p id="BUebBz">Source Selection Plans – When the Reviewer is also the SSA, the
                         SSP must be reviewed in accordance with SOFARS 5615.303(a)(2)(B).</p>
                   </entry>
                </row>
-               <row id="yl7nNK" rowsep="1" class="- topic/row ">
-                  <entry id="oBYBhB" class="- topic/entry ">
-                     <p id="DVjmTI" class="- topic/p ">
-                        <b id="rFDf8F" class="+ topic/ph hi-d/b ">9</b>
+               <row id="yl7nNK" rowsep="1">
+                  <entry id="oBYBhB">
+                     <p id="DVjmTI">
+                        <b id="rFDf8F">9</b>
                      </p>
                   </entry>
-                  <entry id="23VsFQ" class="- topic/entry ">
-                     <p id="lyCBsn" class="- topic/p ">Submit packages for review or approval through the cognizant
+                  <entry id="23VsFQ">
+                     <p id="lyCBsn">Submit packages for review or approval through the cognizant
                         program LNO. The LNO is authorized to approve actions estimated less than
                         $50M when SOF AT&amp;L-KM, KX, or KB is the approval authority.</p>
                   </entry>
                </row>
-               <row id="pmCDpX" rowsep="1" class="- topic/row ">
-                  <entry id="AbTOmf" class="- topic/entry ">
-                     <p id="VMJujv" class="- topic/p ">
-                        <b id="MK5Nmj" class="+ topic/ph hi-d/b ">1</b>
-                        <b id="k0HsED" class="+ topic/ph hi-d/b ">0</b>
+               <row id="pmCDpX" rowsep="1">
+                  <entry id="AbTOmf">
+                     <p id="VMJujv">
+                        <b id="MK5Nmj">1</b>
+                        <b id="k0HsED">0</b>
                      </p>
                   </entry>
-                  <entry id="41xMxU" class="- topic/entry ">
-                     <p id="wVtfJi" class="- topic/p ">All SIGREDUX Contracting Actions will be reviewed by KO,
+                  <entry id="41xMxU">
+                     <p id="wVtfJi">All SIGREDUX Contracting Actions will be reviewed by KO,
                         HCD/FCO, and Legal. This includes contract actions conducted under FAR
                         6.302-1, Only One Responsible Source. Approval authority for SIGREDUX
                         Ratifications and Terminations is done by the HCA. All other approvals will
                         be by SOF AT&amp;L-KB.</p>
                   </entry>
                </row>
-               <row id="eaBTw7" rowsep="1" class="- topic/row ">
-                  <entry id="iMDx00" class="- topic/entry ">
-                     <p id="TriWrp" class="- topic/p ">
-                        <b id="xLw2s3" class="+ topic/ph hi-d/b ">11</b>
+               <row id="eaBTw7" rowsep="1">
+                  <entry id="iMDx00">
+                     <p id="TriWrp">
+                        <b id="xLw2s3">11</b>
                      </p>
                   </entry>
-                  <entry id="pET8dB" class="- topic/entry ">
-                     <p id="zjKzfW" class="- topic/p ">Simplified Acquisition Threshold (SAT) is defined in FAR
+                  <entry id="pET8dB">
+                     <p id="zjKzfW">Simplified Acquisition Threshold (SAT) is defined in FAR
                         2.101.</p>
                   </entry>
                </row>
-               <row id="PWgia3" rowsep="1" class="- topic/row ">
-                  <entry id="TFQ9JJ" class="- topic/entry ">
-                     <p id="QauIMK" class="- topic/p ">
-                        <b id="Wggbff" class="+ topic/ph hi-d/b ">12</b>
+               <row id="PWgia3" rowsep="1">
+                  <entry id="TFQ9JJ">
+                     <p id="QauIMK">
+                        <b id="Wggbff">12</b>
                      </p>
                   </entry>
-                  <entry id="oSHO48" class="- topic/entry ">
-                     <p id="VITzek" class="- topic/p ">The HCD/FCO will coordinate all actions over $100M with the
+                  <entry id="oSHO48">
+                     <p id="VITzek">The HCD/FCO will coordinate all actions over $100M with the
                         HCA/DDoP.</p>
                   </entry>
                </row>

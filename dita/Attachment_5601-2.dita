@@ -1,105 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_Attachment_5601-2"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber">Attachment 5601-2</ph> Table Of Contents</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2_Index.dita#SOFARS_Attachment_5601-2-Index"
-                        class="- topic/xref ">Index</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_Attachment_5601-2" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Attachment 5601-2</ph> Table Of Contents</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2_Index.dita#SOFARS_Attachment_5601-2-Index">Index</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.1a.dita#SOFARS_Attachment_5601-2.1a"
-                        class="- topic/xref ">Attachment 5601-2.1 a Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.1a.dita#SOFARS_Attachment_5601-2.1a">Attachment 5601-2.1 a Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2a.dita#SOFARS_Attachment_5601-2.2a"
-                        class="- topic/xref ">Attachment 5601-2.2 a Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2a.dita#SOFARS_Attachment_5601-2.2a">Attachment 5601-2.2 a Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2b.dita#SOFARS_Attachment_5601-2.2b"
-                        class="- topic/xref ">Attachment 5601-2.2 b Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2b.dita#SOFARS_Attachment_5601-2.2b">Attachment 5601-2.2 b Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2c.dita#SOFARS_Attachment_5601-2.2c"
-                        class="- topic/xref ">Attachment 5601-2.2 c Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2c.dita#SOFARS_Attachment_5601-2.2c">Attachment 5601-2.2 c Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2d.dita#SOFARS_Attachment_5601-2.2d"
-                        class="- topic/xref ">Attachment 5601-2.2 d Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2d.dita#SOFARS_Attachment_5601-2.2d">Attachment 5601-2.2 d Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2e.dita#SOFARS_Attachment_5601-2.2e"
-                        class="- topic/xref ">Attachment 5601-2.2 e Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2e.dita#SOFARS_Attachment_5601-2.2e">Attachment 5601-2.2 e Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2f.dita#SOFARS_Attachment_5601-2.2f"
-                        class="- topic/xref ">Attachment 5601-2.2 f Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2f.dita#SOFARS_Attachment_5601-2.2f">Attachment 5601-2.2 f Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2g.dita#SOFARS_Attachment_5601-2.2g"
-                        class="- topic/xref ">Attachment 5601-2.2 g Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2g.dita#SOFARS_Attachment_5601-2.2g">Attachment 5601-2.2 g Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2h.dita#SOFARS_Attachment_5601-2.2h"
-                        class="- topic/xref ">Attachment 5601-2.2 h Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2h.dita#SOFARS_Attachment_5601-2.2h">Attachment 5601-2.2 h Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2i.dita#SOFARS_Attachment_5601-2.2i"
-                        class="- topic/xref ">Attachment 5601-2.2 i Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2i.dita#SOFARS_Attachment_5601-2.2i">Attachment 5601-2.2 i Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2j.dita#SOFARS_Attachment_5601-2.2j"
-                        class="- topic/xref ">Attachment 5601-2.2 j Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2j.dita#SOFARS_Attachment_5601-2.2j">Attachment 5601-2.2 j Table Of Contents</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Attachment_5601-2.2k.dita#SOFARS_Attachment_5601-2.2k"
-                        class="- topic/xref ">Attachment 5601-2.2 k Table Of Contents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Attachment_5601-2.2k.dita#SOFARS_Attachment_5601-2.2k">Attachment 5601-2.2 k Table Of Contents</xref>
                </p>
             </li>
          </ul>

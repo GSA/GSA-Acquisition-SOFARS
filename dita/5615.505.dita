@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615.505"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615.505</ph> Preaward Debriefing of Offerors.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="gKWXgc" class="- topic/p ">(j) When providing debriefing material to offerors, electronic media may be provided only if the documents have been converted to an Adobe Acrobat .pdf file and the file has been password protected using Adobe Acrobat version 9 or higher. If the electronic media cannot be converted to .pdf and protected, the hardcopy debriefing material is to be provided via fax after notifying the vendor that a fax is being sent.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.505" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.505</ph> Preaward Debriefing of Offerors.</title>
+   <conbody>
+      <p id="gKWXgc">(j) When providing debriefing material to offerors, electronic media may be provided only if the documents have been converted to an Adobe Acrobat .pdf file and the file has been password protected using Adobe Acrobat version 9 or higher. If the electronic media cannot be converted to .pdf and protected, the hardcopy debriefing material is to be provided via fax after notifying the vendor that a fax is being sent.</p>
    </conbody>
 </concept>

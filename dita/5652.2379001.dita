@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5652.2379001"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5652.237-9001</ph> Key Personnel Requirements (2003) Section I</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="ANMfCw" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5637.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5637.110(b)</u>
-         </xref>, insert the following clause, <i class="+ topic/ph hi-d/i ">Fill-ins</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2379001" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5652.237-9001</ph> Key Personnel Requirements (2003) Section I</title>
+   <conbody>
+      <p id="ANMfCw" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5637.docx" scope="external">
+            <u>5637.110(b)</u>
+         </xref>, insert the following clause, <i>Fill-ins</i>
       </p>
-      <p id="poiRiK" class="- topic/p ">(a) Certain experienced professional and/or technical personnel are essential for successful accomplishment of the work to be performed under this contract. Such personnel are defined as "Key Personnel" and are those persons whose resumes were submitted for evaluation of the proposal. The contractor agrees that such personnel shall not be removed from the contract work or replaced without compliance with the following:</p>
-      <p id="krJcEJ" outputclass="List2" class="- topic/p ">(1) If one or more of the key personnel, for any reason, becomes or is expected to become unavailable for work under this contract for a continuous period exceeding 30 work days, or is expected to devote substantially less effort to the work than indicated in the proposal or initially anticipated, the contractor shall, subject to the concurrence of the Contracting Officer or an authorized representative, promptly replace personnel with personnel of equal ability and qualifications.</p>
-      <p id="HfsGmF" outputclass="List2" class="- topic/p ">(2) All requests for approval of substitutions hereunder must be in writing and provide a detailed explanation of the circumstances necessitating the proposed substitutions. The request must contain a resume for the proposed substitute, and any other information requested by the Contracting Officer. The Contracting Officer shall promptly notify the contractor of approval or disapproval in writing.</p>
-      <p id="MLjZes" class="- topic/p ">(b) If the Contracting Officer determines that suitable and timely replacement of Key Personnel who have been reassigned, terminated or have otherwise become unavailable for the contract work is not reasonably forthcoming or that the resultant reduction of productive effort would be so substantial as to impair successful completion of the contract, the Contracting Officer may terminate the contract for default or for the convenience of the Government, as appropriate, or make an equitable adjustment to the contract to compensate the Government for any resultant delay, loss or damage.</p>
-      <p id="QCMLyD" class="- topic/p ">(c) The follow positions are identified as Key Personnel:</p>
-      <p id="cdVgNQ" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Insert Key Personnel Positions)</i>
+      <p id="poiRiK">(a) Certain experienced professional and/or technical personnel are essential for successful accomplishment of the work to be performed under this contract. Such personnel are defined as "Key Personnel" and are those persons whose resumes were submitted for evaluation of the proposal. The contractor agrees that such personnel shall not be removed from the contract work or replaced without compliance with the following:</p>
+      <p id="krJcEJ" outputclass="List2">(1) If one or more of the key personnel, for any reason, becomes or is expected to become unavailable for work under this contract for a continuous period exceeding 30 work days, or is expected to devote substantially less effort to the work than indicated in the proposal or initially anticipated, the contractor shall, subject to the concurrence of the Contracting Officer or an authorized representative, promptly replace personnel with personnel of equal ability and qualifications.</p>
+      <p id="HfsGmF" outputclass="List2">(2) All requests for approval of substitutions hereunder must be in writing and provide a detailed explanation of the circumstances necessitating the proposed substitutions. The request must contain a resume for the proposed substitute, and any other information requested by the Contracting Officer. The Contracting Officer shall promptly notify the contractor of approval or disapproval in writing.</p>
+      <p id="MLjZes">(b) If the Contracting Officer determines that suitable and timely replacement of Key Personnel who have been reassigned, terminated or have otherwise become unavailable for the contract work is not reasonably forthcoming or that the resultant reduction of productive effort would be so substantial as to impair successful completion of the contract, the Contracting Officer may terminate the contract for default or for the convenience of the Government, as appropriate, or make an equitable adjustment to the contract to compensate the Government for any resultant delay, loss or damage.</p>
+      <p id="QCMLyD">(c) The follow positions are identified as Key Personnel:</p>
+      <p id="cdVgNQ" outputclass="Normal">
+         <i>(Insert Key Personnel Positions)</i>
       </p>
    </conbody>
 </concept>

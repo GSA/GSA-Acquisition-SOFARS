@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_Attachment-5601-1-Index"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title id="20oYds" outputclass="heading 2 Ctr" class="- topic/title ">
-      <ph id="gJYR2c" props="autonumber" class="- topic/ph "> </ph> Index</title>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment-5601-1-Index" ditaarch:DITAArchVersion="1.3">
+   <title id="20oYds" outputclass="heading 2 Ctr">
+      <ph id="gJYR2c" props="autonumber"> </ph> Index</title>
 </concept>

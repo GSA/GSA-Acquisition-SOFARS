@@ -1,302 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5652.2429002"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5652.242-9002</ph> Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="qMySKS" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Added February 2014)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2429002" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5652.242-9002</ph> Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I</title>
+   <conbody>
+      <p id="qMySKS" outputclass="Normal">
+         <i>(Added February 2014)</i>
       </p>
-      <p id="hrecIG" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5642.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5642-490</u>
+      <p id="hrecIG" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5642.docx" scope="external">
+            <u>5642-490</u>
          </xref> insert a clause substantially the same as the following in solicitations and contracts and or task orders:</p>
-      <p id="csbMnw" class="- topic/p ">(a) In the event a contractor employee separates without advance notice (either quits or is terminated), the contractor shall immediately notify the Trusted Agent (TA) who will ensure CAC permissions are revoked the same day. In various instances a contractor employee may not be on task (working) due to furloughs, suspensions pending the outcome of an investigation, or the contract reaches the end of the period of performance (POP) and renewal is anticipated but not yet complete. During these occurrences, the TA or a representative from the contractor (TA’s choice) will collect and retain the CACs of the affected contractor personnel residing in the local area however; CAC permissions will not be revoked in the Trusted Associate Sponsorship System (TASS). Collecting CACs however, may not be feasible for contractor personnel located in remote locations. When contractor personnel return to work under the contract, they will retrieve their CAC from the responsible party who collected it.</p>
-      <p id="cxpvWL" class="- topic/p ">(b) The contractor shall include a monthly report listing contractor employees who departed during the previous month and the date their CACs were turned in using the format listed below.</p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="9" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="EXSbsf" class="- topic/p ">Employee Name</p>
+      <p id="csbMnw">(a) In the event a contractor employee separates without advance notice (either quits or is terminated), the contractor shall immediately notify the Trusted Agent (TA) who will ensure CAC permissions are revoked the same day. In various instances a contractor employee may not be on task (working) due to furloughs, suspensions pending the outcome of an investigation, or the contract reaches the end of the period of performance (POP) and renewal is anticipated but not yet complete. During these occurrences, the TA or a representative from the contractor (TA’s choice) will collect and retain the CACs of the affected contractor personnel residing in the local area however; CAC permissions will not be revoked in the Trusted Associate Sponsorship System (TASS). Collecting CACs however, may not be feasible for contractor personnel located in remote locations. When contractor personnel return to work under the contract, they will retrieve their CAC from the responsible party who collected it.</p>
+      <p id="cxpvWL">(b) The contractor shall include a monthly report listing contractor employees who departed during the previous month and the date their CACs were turned in using the format listed below.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="9" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EXSbsf">Employee Name</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hNUmdL" class="- topic/p ">Contract Number</p>
+                  <entry>
+                     <p id="hNUmdL">Contract Number</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mCwuEi" class="- topic/p ">TO Number</p>
+                  <entry>
+                     <p id="mCwuEi">TO Number</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YqPJcD" class="- topic/p ">Company Name</p>
+                  <entry>
+                     <p id="YqPJcD">Company Name</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="czQwMC" class="- topic/p ">HQ USSCOM Office Symbol</p>
+                  <entry>
+                     <p id="czQwMC">HQ USSCOM Office Symbol</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oRAsgf" class="- topic/p ">TA Name</p>
+                  <entry>
+                     <p id="oRAsgf">TA Name</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pkaZae" class="- topic/p ">Termination Date</p>
+                  <entry>
+                     <p id="pkaZae">Termination Date</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AVyGas" class="- topic/p ">Date CAC returned to RAPIDS Site</p>
+                  <entry>
+                     <p id="AVyGas">Date CAC returned to RAPIDS Site</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VjWwLF" class="- topic/p ">Remarks</p>
+                  <entry>
+                     <p id="VjWwLF">Remarks</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rxEcVC" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rxEcVC"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mYfHuB" class="- topic/p "/>
+                  <entry>
+                     <p id="mYfHuB"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="maguBQ" class="- topic/p "/>
+                  <entry>
+                     <p id="maguBQ"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vqPjvb" class="- topic/p "/>
+                  <entry>
+                     <p id="vqPjvb"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lenDwC" class="- topic/p "/>
+                  <entry>
+                     <p id="lenDwC"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pYmTbX" class="- topic/p "/>
+                  <entry>
+                     <p id="pYmTbX"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EIUGYN" class="- topic/p "/>
+                  <entry>
+                     <p id="EIUGYN"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iewwid" class="- topic/p "/>
+                  <entry>
+                     <p id="iewwid"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pCUPqb" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CqzUhF" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wAUWmz" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jWhwbf" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uleDJv" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FRWItb" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sspAKK" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Klctjv" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LfiwrP" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WtwpHg" class="- topic/p "/>
+                  <entry>
+                     <p id="pCUPqb"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="BMklsc" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CqzUhF"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LleUpM" class="- topic/p "/>
+                  <entry>
+                     <p id="wAUWmz"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TDpTtf" class="- topic/p "/>
+                  <entry>
+                     <p id="jWhwbf"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XelYjD" class="- topic/p "/>
+                  <entry>
+                     <p id="uleDJv"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VFiPns" class="- topic/p "/>
+                  <entry>
+                     <p id="FRWItb"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dNDLBd" class="- topic/p "/>
+                  <entry>
+                     <p id="sspAKK"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jQtlyp" class="- topic/p "/>
+                  <entry>
+                     <p id="Klctjv"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MfdVNM" class="- topic/p "/>
+                  <entry>
+                     <p id="LfiwrP"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qIgdih" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="uvCoqV" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JHmebd" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HAYnFQ" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TTANCK" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="keaDin" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zXoHEy" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nRDutl" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NTxcdq" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pxzHoe" class="- topic/p "/>
+                  <entry>
+                     <p id="WtwpHg"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="qJLlNp" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BMklsc"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cCddYR" class="- topic/p "/>
+                  <entry>
+                     <p id="LleUpM"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cRaSxD" class="- topic/p "/>
+                  <entry>
+                     <p id="TDpTtf"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dGxpDU" class="- topic/p "/>
+                  <entry>
+                     <p id="XelYjD"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NzeYYM" class="- topic/p "/>
+                  <entry>
+                     <p id="VFiPns"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uZLblc" class="- topic/p "/>
+                  <entry>
+                     <p id="dNDLBd"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QuMfHf" class="- topic/p "/>
+                  <entry>
+                     <p id="jQtlyp"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YenPnv" class="- topic/p "/>
+                  <entry>
+                     <p id="MfdVNM"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WSlzWg" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="qhkcHF" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dUcXie" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fDPHun" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UpMteK" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pwpYWd" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LVmlBb" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UyDPom" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mIOnOe" class="- topic/p "/>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ywVMDY" class="- topic/p "/>
+                  <entry>
+                     <p id="qIgdih"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="GWbBTS" class="- topic/p "/>
+               <row rowsep="1">
+                  <entry>
+                     <p id="uvCoqV"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uUxLJN" class="- topic/p "/>
+                  <entry>
+                     <p id="JHmebd"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ecGjdd" class="- topic/p "/>
+                  <entry>
+                     <p id="HAYnFQ"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YjVcfx" class="- topic/p "/>
+                  <entry>
+                     <p id="TTANCK"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qrXWIa" class="- topic/p "/>
+                  <entry>
+                     <p id="keaDin"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zCHBFY" class="- topic/p "/>
+                  <entry>
+                     <p id="zXoHEy"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lnLbas" class="- topic/p "/>
+                  <entry>
+                     <p id="nRDutl"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="INShVy" class="- topic/p "/>
+                  <entry>
+                     <p id="NTxcdq"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vRcOWj" class="- topic/p "/>
+                  <entry>
+                     <p id="pxzHoe"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qJLlNp"></p>
+                  </entry>
+                  <entry>
+                     <p id="cCddYR"></p>
+                  </entry>
+                  <entry>
+                     <p id="cRaSxD"></p>
+                  </entry>
+                  <entry>
+                     <p id="dGxpDU"></p>
+                  </entry>
+                  <entry>
+                     <p id="NzeYYM"></p>
+                  </entry>
+                  <entry>
+                     <p id="uZLblc"></p>
+                  </entry>
+                  <entry>
+                     <p id="QuMfHf"></p>
+                  </entry>
+                  <entry>
+                     <p id="YenPnv"></p>
+                  </entry>
+                  <entry>
+                     <p id="WSlzWg"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qhkcHF"></p>
+                  </entry>
+                  <entry>
+                     <p id="dUcXie"></p>
+                  </entry>
+                  <entry>
+                     <p id="fDPHun"></p>
+                  </entry>
+                  <entry>
+                     <p id="UpMteK"></p>
+                  </entry>
+                  <entry>
+                     <p id="pwpYWd"></p>
+                  </entry>
+                  <entry>
+                     <p id="LVmlBb"></p>
+                  </entry>
+                  <entry>
+                     <p id="UyDPom"></p>
+                  </entry>
+                  <entry>
+                     <p id="mIOnOe"></p>
+                  </entry>
+                  <entry>
+                     <p id="ywVMDY"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GWbBTS"></p>
+                  </entry>
+                  <entry>
+                     <p id="uUxLJN"></p>
+                  </entry>
+                  <entry>
+                     <p id="ecGjdd"></p>
+                  </entry>
+                  <entry>
+                     <p id="YjVcfx"></p>
+                  </entry>
+                  <entry>
+                     <p id="qrXWIa"></p>
+                  </entry>
+                  <entry>
+                     <p id="zCHBFY"></p>
+                  </entry>
+                  <entry>
+                     <p id="lnLbas"></p>
+                  </entry>
+                  <entry>
+                     <p id="INShVy"></p>
+                  </entry>
+                  <entry>
+                     <p id="vRcOWj"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="p_BM252_9000" outputclass="Normal" class="- topic/p "/>
-      <p id="iMAlme" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="YBNntz" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="VtLJFo" outputclass="Normal" class="- topic/p ">SOFARS 5652</p>
-      <p id="veMAPc" outputclass="Normal" class="- topic/p ">February 2007</p>
+      <p id="p_BM252_9000" outputclass="Normal"></p>
+      <p id="iMAlme" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="YBNntz" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="VtLJFo" outputclass="Normal">SOFARS 5652</p>
+      <p id="veMAPc" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

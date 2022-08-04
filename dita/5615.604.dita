@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615.604"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615.604</ph> Agency Points of Contact.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="tPryxo" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised March 2012)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.604" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.604</ph> Agency Points of Contact.</title>
+   <conbody>
+      <p id="tPryxo" outputclass="Normal">
+         <i>(Revised March 2012)</i>
       </p>
-      <p id="TpxWjN" outputclass="Normal" class="- topic/p ">HQ, USSOCOM Unsolicited Proposal Point of Contact shall be the Technical and Industrial Liaison Office (TILO) (SOF AT&amp;L-AS).</p>
+      <p id="TpxWjN" outputclass="Normal">HQ, USSOCOM Unsolicited Proposal Point of Contact shall be the Technical and Industrial Liaison Office (TILO) (SOF AT&amp;L-AS).</p>
    </conbody>
 </concept>

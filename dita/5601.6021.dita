@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5601.6021"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5601.602-1</ph> Authority.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="hgvkWM" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised November 2013)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.6021" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5601.602-1</ph> Authority.</title>
+   <conbody>
+      <p id="hgvkWM" outputclass="Normal">
+         <i>(Revised November 2013)</i>
       </p>
-      <p id="GxsKMg" class="- topic/p ">(b) It is the function of the USSOCOM Directorate of Procurement (SOF AT&amp;L-K) to ensure that all the business decisions made in support of procurements are examined and the decisions are validated. Review and approvals will be conducted IAW <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Attachment 5601-1</u>
+      <p id="GxsKMg">(b) It is the function of the USSOCOM Directorate of Procurement (SOF AT&amp;L-K) to ensure that all the business decisions made in support of procurements are examined and the decisions are validated. Review and approvals will be conducted IAW <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
+            <u>Attachment 5601-1</u>
          </xref> and guidance found in the DCG. Ensure all the documents required to sustain the contracting action are included when submitting the decision for review and approval. Contracting officers shall maximize the use of electronic transmission for all documents submitted for review and approval to the appropriate SOF AT&amp;L-K liaison officer.</p>
-      <p id="yhaXMp" class="- topic/p ">(c) All documents and working papers will be marked and safeguarded in accordance with <xref format="html"
-               href="https://www.acquisition.gov/content/part-3-improper-business-practices-and-personal-conflicts-interest"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 3.1</u>
+      <p id="yhaXMp">(c) All documents and working papers will be marked and safeguarded in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-3-improper-business-practices-and-personal-conflicts-interest" scope="external">
+            <u>FAR 3.1</u>
          </xref>.</p>
    </conbody>
 </concept>

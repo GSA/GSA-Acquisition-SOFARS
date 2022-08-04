@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5604.8042"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5604.804-2</ph> Closeout of the Contracting Office Files if another Office Administers the Contract.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="hjFNrI" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised October 2014)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5604.8042" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5604.804-2</ph> Closeout of the Contracting Office Files if another Office Administers the Contract.</title>
+   <conbody>
+      <p id="hjFNrI" outputclass="Normal">
+         <i>(Revised October 2014)</i>
       </p>
-      <p id="FbkeqG" outputclass="Normal" class="- topic/p ">Contracting officers must obtain all the proper closeout documentation from both the administering and paying offices per <xref format="html"
-               href="https://www.acquisition.gov/dfarspgi/pgi-part-204-%E2%80%93-administrative-and-information-matters"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">PGI 204.804-2</u>
-         </xref> within the time parameters established in <xref format="html"
-               href="https://www.acquisition.gov/content/part-4-administrative-and-information-matters"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 4.804-1</u>
-         </xref>. Upon receipt of the required documentation from the coordinating offices, the Contracting Officer must complete the actions required by <xref format="html"
-               href="https://www.acquisition.gov/content/part-4-administrative-and-information-matters"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 4.804-2</u>
+      <p id="FbkeqG" outputclass="Normal">Contracting officers must obtain all the proper closeout documentation from both the administering and paying offices per <xref format="html" href="https://www.acquisition.gov/dfarspgi/pgi-part-204-%E2%80%93-administrative-and-information-matters" scope="external">
+            <u>PGI 204.804-2</u>
+         </xref> within the time parameters established in <xref format="html" href="https://www.acquisition.gov/content/part-4-administrative-and-information-matters" scope="external">
+            <u>FAR 4.804-1</u>
+         </xref>. Upon receipt of the required documentation from the coordinating offices, the Contracting Officer must complete the actions required by <xref format="html" href="https://www.acquisition.gov/content/part-4-administrative-and-information-matters" scope="external">
+            <u>FAR 4.804-2</u>
          </xref>.</p>
    </conbody>
 </concept>

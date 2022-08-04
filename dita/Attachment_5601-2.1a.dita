@@ -1,99 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_Attachment_5601-2.1a"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Ctr 2 heading" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Attachment 5601-2.1 a</ph> Table Of Contents</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="2" namest="1" class="- topic/entry ">
-                     <p id="iZWgYs" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">NOTES – Applicable to ALL Offices</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-2.1a" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber">Attachment 5601-2.1 a</ph> Table Of Contents</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="iZWgYs" outputclass=" Ctr">
+                        <b>NOTES – Applicable to ALL Offices</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="DZbpKs" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">1</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DZbpKs">
+                        <b>1</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NzsEqH" class="- topic/p ">In determining the value of OTs for the purposes of assessing compliance with the authority levels set forth below, OTs will be measured based on the value of each transaction, rather than the total value of all OTs that might be executed in a prototype project or for follow-on production. That is, a prototype project may consist of multiple transactions to the same or different parties, each of which shall be considered separately when considering dollar thresholds. Transaction value shall include all options with prices established in the OT as awarded, as well as the amount associated with any cost-sharing borne by the contractor where the basis for the OT is subsection 2371b(d)(l)(C). Regardless of value, a separate OT approval will be required for each phase prototype or follow-on production-and separately within a phase for each transaction.</p>
+                  <entry>
+                     <p id="NzsEqH">In determining the value of OTs for the purposes of assessing compliance with the authority levels set forth below, OTs will be measured based on the value of each transaction, rather than the total value of all OTs that might be executed in a prototype project or for follow-on production. That is, a prototype project may consist of multiple transactions to the same or different parties, each of which shall be considered separately when considering dollar thresholds. Transaction value shall include all options with prices established in the OT as awarded, as well as the amount associated with any cost-sharing borne by the contractor where the basis for the OT is subsection 2371b(d)(l)(C). Regardless of value, a separate OT approval will be required for each phase prototype or follow-on production-and separately within a phase for each transaction.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QSqoYA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">2</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QSqoYA">
+                        <b>2</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zezqSP" class="- topic/p ">Anytime United States Code, regulation, or policy states a Determination is required, the determination is to be made in writing and placed in the Agreement file. USSOCOM templates are to be used when available.</p>
+                  <entry>
+                     <p id="zezqSP">Anytime United States Code, regulation, or policy states a Determination is required, the determination is to be made in writing and placed in the Agreement file. USSOCOM templates are to be used when available.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QfzWcK" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">3</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QfzWcK">
+                        <b>3</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FWgBZY" class="- topic/p ">Peer reviews are formal and a signature block will be placed on a review routing sheet or on the actual documents being reviewed. Peer reviewers must be a warranted USSOCOM Agreements Officer and shall sign either the review routing sheet or the actual documents upon completion of their review. If a Field Office has only one warranted Agreements Officer, then an FCO review can be substituted in lieu of the peer review.</p>
+                  <entry>
+                     <p id="FWgBZY">Peer reviews are formal and a signature block will be placed on a review routing sheet or on the actual documents being reviewed. Peer reviewers must be a warranted USSOCOM Agreements Officer and shall sign either the review routing sheet or the actual documents upon completion of their review. If a Field Office has only one warranted Agreements Officer, then an FCO review can be substituted in lieu of the peer review.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sJxQBi" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">4</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sJxQBi">
+                        <b>4</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TLWiKy" class="- topic/p ">Submit packages for SOF AT&amp;L-KM/KX/KB review or approval through the cognizant program LNO.</p>
+                  <entry>
+                     <p id="TLWiKy">Submit packages for SOF AT&amp;L-KM/KX/KB review or approval through the cognizant program LNO.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VZQTEA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">5</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VZQTEA">
+                        <b>5</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SjmfGu" class="- topic/p ">All SIGREDUX Agreement Actions will be reviewed by AO, HCD/FCO, SOF AT&amp;L-KB, and Legal. Approval authority for SIGREDUX Ratifications and Terminations is done by the DoP.</p>
+                  <entry>
+                     <p id="SjmfGu">All SIGREDUX Agreement Actions will be reviewed by AO, HCD/FCO, SOF AT&amp;L-KB, and Legal. Approval authority for SIGREDUX Ratifications and Terminations is done by the DoP.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yfSzoA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">6</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yfSzoA">
+                        <b>6</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uwfMBx" class="- topic/p ">The HCD/FCO will coordinate all actions over $20M with the DoP/DDoP.</p>
+                  <entry>
+                     <p id="uwfMBx">The HCD/FCO will coordinate all actions over $20M with the DoP/DDoP.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="hkVSOQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">7</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hkVSOQ">
+                        <b>7</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pDSiPc" class="- topic/p ">USD(R&amp;E) or USD(A&amp;S) must execute a written determination as prescribed at 10 U.S.C 2371b(a)(2)(B) for any transaction for a prototype project, and any follow-on production contract, that is expected to exceed $500M (including all options). The Office of the Under Secretary making the determination is responsible for Congressional notification.</p>
+                  <entry>
+                     <p id="pDSiPc">USD(R&amp;E) or USD(A&amp;S) must execute a written determination as prescribed at 10 U.S.C 2371b(a)(2)(B) for any transaction for a prototype project, and any follow-on production contract, that is expected to exceed $500M (including all options). The Office of the Under Secretary making the determination is responsible for Congressional notification.</p>
                   </entry>
                </row>
             </tbody>

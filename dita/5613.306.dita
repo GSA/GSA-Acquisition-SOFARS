@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5613.306"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5613.306</ph> SF 44, Purchase OrderInvoiceVoucher.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised June 2021)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5613.306" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5613.306</ph> SF 44, Purchase OrderInvoiceVoucher.</title>
+   <conbody>
+      <p>
+         <i>(Revised June 2021)</i>
       </p>
-      <p class="- topic/p ">(a)(1) The Director of Procurement retains the authority to approve requests for higher dollar limitations for specific activities or items on a case-by-case basis.  Contracting officers shall submit requests for authorization of higher dollar limitations for ordering officers in writing through the Directorate of Procurement liaison officer. The request shall address the circumstances for use, purpose, dollar limitation and the mission impact of the higher limit.  No purchases may exceed the simplified acquisition threshold.</p>
+      <p>(a)(1) The Director of Procurement retains the authority to approve requests for higher dollar limitations for specific activities or items on a case-by-case basis.  Contracting officers shall submit requests for authorization of higher dollar limitations for ordering officers in writing through the Directorate of Procurement liaison officer. The request shall address the circumstances for use, purpose, dollar limitation and the mission impact of the higher limit.  No purchases may exceed the simplified acquisition threshold.</p>
    </conbody>
 </concept>

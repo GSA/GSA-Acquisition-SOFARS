@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5616.6033"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5616.603-3</ph> Limitations.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="MhWiCG" outputclass="Normal" class="- topic/p ">Refer to <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Attachment 5601-1</u>
-         </xref> for approval levels applicable to D&amp;F requirements for letter contracts. Refer to <xref format="html"
-               href="https://www.acquisition.gov/dfars/special-contracting-methods"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">DFARS 217.74</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5616.6033" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5616.603-3</ph> Limitations.</title>
+   <conbody>
+      <p id="MhWiCG" outputclass="Normal">Refer to <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
+            <u>Attachment 5601-1</u>
+         </xref> for approval levels applicable to D&amp;F requirements for letter contracts. Refer to <xref format="html" href="https://www.acquisition.gov/dfars/special-contracting-methods" scope="external">
+            <u>DFARS 217.74</u>
          </xref> for additional limitations of the use of letter contracts.</p>
-      <p id="ANZGUp" outputclass="Normal" class="- topic/p "/>
-      <p id="vafuir" outputclass="Normal" class="- topic/p ">
-         <ph id="j9dgmbej" rev="change Please" class="- topic/ph ">HQ,</ph> United States Special Operations Command</p>
-      <p id="LtGOAD" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="UmoCPy" outputclass="Normal" class="- topic/p ">SOFARS 5616</p>
-      <p id="p__msocom_1" outputclass="Normal" class="- topic/p ">February 2007</p>
+      <p id="ANZGUp" outputclass="Normal"></p>
+      <p id="vafuir" outputclass="Normal">
+         <ph id="j9dgmbej" rev="change Please">HQ,</ph> United States Special Operations Command</p>
+      <p id="LtGOAD" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="UmoCPy" outputclass="Normal">SOFARS 5616</p>
+      <p id="p__msocom_1" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

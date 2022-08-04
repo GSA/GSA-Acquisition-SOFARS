@@ -1,35 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_PART_5647"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 5647</ph> - TRANSPORTATION</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5647.4.dita#SOFARS_SUBPART_5647.4"
-                        class="- topic/xref ">Subpart 5647.4 - AIR TRANSPORTATION BY U.S. FLAG CARRIERS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5647" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5647</ph> - TRANSPORTATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5647.4.dita#SOFARS_SUBPART_5647.4">Subpart 5647.4 - AIR TRANSPORTATION BY U.S. FLAG CARRIERS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5647.402.dita#SOFARS_5647.402"
-                              class="- topic/xref ">5647.402 Policy</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5647.402.dita#SOFARS_5647.402">5647.402 Policy</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5647.4029000.dita#SOFARS_5647.4029000"
-                                    class="- topic/xref ">5647.402-9000 Flight Service Contract Distribution and Reporting.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5647.4029000.dita#SOFARS_5647.4029000">5647.402-9000 Flight Service Contract Distribution and Reporting.</xref>
                            </p>
                         </li>
                      </ul>

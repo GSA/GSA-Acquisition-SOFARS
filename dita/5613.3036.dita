@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5613.3036"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5613.303-6</ph> Review Procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="eUXzsi" class="- topic/p ">(c) Chief, Contracting Office is responsible for ensuring all BPAs, including decentralized are reviewed on an annual basis in accordance with <xref format="html"
-               href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 13.303-6</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5613.3036" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5613.303-6</ph> Review Procedures.</title>
+   <conbody>
+      <p id="eUXzsi">(c) Chief, Contracting Office is responsible for ensuring all BPAs, including decentralized are reviewed on an annual basis in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" scope="external">
+            <u>FAR 13.303-6</u>
          </xref>. All discrepancies noted shall be annotated with the corrective action taken.</p>
    </conbody>
 </concept>

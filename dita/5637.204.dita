@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5637.204"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5637.204</ph> Guidelines for Determining Availability of Personnel.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="TaSeVj" class="- topic/p ">(a) Contractor personnel shall not be utilized on proposal evaluation teams without the written approval of the Director of Procurement (DOP) or designee. The RAO must provide written justification in accordance with <xref format="html"
-               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/37.htm"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAR 37.203(d)</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5637.204" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5637.204</ph> Guidelines for Determining Availability of Personnel.</title>
+   <conbody>
+      <p id="TaSeVj">(a) Contractor personnel shall not be utilized on proposal evaluation teams without the written approval of the Director of Procurement (DOP) or designee. The RAO must provide written justification in accordance with <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/37.htm" scope="external">
+            <u>FAR 37.203(d)</u>
          </xref> as to why contractor support must be used instead of using federal employees.</p>
    </conbody>
 </concept>

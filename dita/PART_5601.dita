@@ -1,221 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_PART_5601"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5601</ph> - THE FEDERAL ACQUISITION REGULATION         SYSTEM</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.1.dita#SOFARS_SUBPART_5601.1"
-                        class="- topic/xref ">Subpart 5601.1 - PURPOSE, AUTHORITY ISSUANCE</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5601" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5601</ph> - THE FEDERAL ACQUISITION REGULATION         SYSTEM</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.1.dita#SOFARS_SUBPART_5601.1">Subpart 5601.1 - PURPOSE, AUTHORITY ISSUANCE</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.101.dita#SOFARS_5601.101"
-                              class="- topic/xref ">5601.101 Purpose.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.101.dita#SOFARS_5601.101">5601.101 Purpose.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.104.dita#SOFARS_5601.104"
-                              class="- topic/xref ">5601.104 Applicability.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.104.dita#SOFARS_5601.104">5601.104 Applicability.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.170.dita#SOFARS_5601.170"
-                              class="- topic/xref ">5601.170 Peer Reviews.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.170.dita#SOFARS_5601.170">5601.170 Peer Reviews.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.2.dita#SOFARS_SUBPART_5601.2"
-                        class="- topic/xref ">Subpart 5601.2 - ADMINISTRATION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.2.dita#SOFARS_SUBPART_5601.2">Subpart 5601.2 - ADMINISTRATION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.201.dita#SOFARS_5601.201"
-                              class="- topic/xref ">5601.201 Maintenance of the FAR.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.201.dita#SOFARS_5601.201">5601.201 Maintenance of the FAR.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.2011.dita#SOFARS_5601.2011"
-                                    class="- topic/xref ">5601.201-1 The Two Councils.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.2011.dita#SOFARS_5601.2011">5601.201-1 The Two Councils.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.3.dita#SOFARS_SUBPART_5601.3"
-                        class="- topic/xref ">Subpart 5601.3 - AGENCY ACQUISITION REGULATION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.3.dita#SOFARS_SUBPART_5601.3">Subpart 5601.3 - AGENCY ACQUISITION REGULATION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.301.dita#SOFARS_5601.301"
-                              class="- topic/xref ">5601.301 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.301.dita#SOFARS_5601.301">5601.301 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.304.dita#SOFARS_5601.304"
-                              class="- topic/xref ">5601.304 Agency Control and Compliance Procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.304.dita#SOFARS_5601.304">5601.304 Agency Control and Compliance Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.4.dita#SOFARS_SUBPART_5601.4"
-                        class="- topic/xref ">Subpart 5601.4 - DEVIATIONS FROM THE FAR</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.4.dita#SOFARS_SUBPART_5601.4">Subpart 5601.4 - DEVIATIONS FROM THE FAR</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.403.dita#SOFARS_5601.403"
-                              class="- topic/xref ">5601.403 Individual Deviations.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.403.dita#SOFARS_5601.403">5601.403 Individual Deviations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.6.dita#SOFARS_SUBPART_5601.6"
-                        class="- topic/xref ">Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.6.dita#SOFARS_SUBPART_5601.6">Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.601.dita#SOFARS_5601.601"
-                              class="- topic/xref ">5601.601 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.601.dita#SOFARS_5601.601">5601.601 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.602.dita#SOFARS_5601.602"
-                              class="- topic/xref ">5601.602 Contracting Officers.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.602.dita#SOFARS_5601.602">5601.602 Contracting Officers.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.6021.dita#SOFARS_5601.6021"
-                                    class="- topic/xref ">5601.602-1 Authority.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.6021.dita#SOFARS_5601.6021">5601.602-1 Authority.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.6022.dita#SOFARS_5601.6022"
-                                    class="- topic/xref ">5601.602-2 Responsibilities.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.6022.dita#SOFARS_5601.6022">5601.602-2 Responsibilities.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.602290.dita#SOFARS_5601.602290"
-                                    class="- topic/xref ">5601.602-2-90 Ordering Officers.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.602290.dita#SOFARS_5601.602290">5601.602-2-90 Ordering Officers.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.6023.dita#SOFARS_5601.6023"
-                                    class="- topic/xref ">5601.602-3 Ratification of Unauthorized Commitments. See DCG for required procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.6023.dita#SOFARS_5601.6023">5601.602-3 Ratification of Unauthorized Commitments. See DCG for required procedures.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.602390.dita#SOFARS_5601.602390"
-                                    class="- topic/xref ">5601.602-3-90 Procedures. (Removed November 2018)</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.602390.dita#SOFARS_5601.602390">5601.602-3-90 Procedures. (Removed November 2018)</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.603.dita#SOFARS_5601.603"
-                              class="- topic/xref ">5601.603 Selection, Appointment, and Termination of Appointment.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.603.dita#SOFARS_5601.603">5601.603 Selection, Appointment, and Termination of Appointment.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.6033.dita#SOFARS_5601.6033"
-                                    class="- topic/xref ">5601.603-3 Appointment.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.6033.dita#SOFARS_5601.6033">5601.603-3 Appointment.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5601.603390.dita#SOFARS_5601.603390"
-                                    class="- topic/xref ">5601.603-3-90 Appointment of Contingency Contracting Officers.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5601.603390.dita#SOFARS_5601.603390">5601.603-3-90 Appointment of Contingency Contracting Officers.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.604.dita#SOFARS_5601.604"
-                              class="- topic/xref ">5601.604 Contracting Officers Representative.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.604.dita#SOFARS_5601.604">5601.604 Contracting Officers Representative.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.7.dita#SOFARS_SUBPART_5601.7"
-                        class="- topic/xref ">Subpart 5601.7 - DETERMINATIONS AND FINDINGS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.7.dita#SOFARS_SUBPART_5601.7">Subpart 5601.7 - DETERMINATIONS AND FINDINGS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5601.704.dita#SOFARS_5601.704"
-                              class="- topic/xref ">5601.704 Content.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5601.704.dita#SOFARS_5601.704">5601.704 Content.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5601.dita#SOFARS_SUBPART_5601"
-                        class="- topic/xref ">Subpart 5601 - ATTACHMENTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.dita#SOFARS_SUBPART_5601">Subpart 5601 - ATTACHMENTS</xref>
                </p>
             </li>
          </ul>

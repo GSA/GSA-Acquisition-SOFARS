@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5642.490"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5642.490</ph> Contract Clauses.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="hSCXyH" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Added February 2014)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5642.490" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5642.490</ph> Contract Clauses.</title>
+   <conbody>
+      <p id="hSCXyH" outputclass="Normal">
+         <i>(Added February 2014)</i>
       </p>
-      <p id="UqBRFR" outputclass="Normal" class="- topic/p ">The contracting officer shall insert the clause substantially the same as <xref format="docx"
-               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">5652.242-9002</u>
+      <p id="UqBRFR" outputclass="Normal">The contracting officer shall insert the clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+            <u>5652.242-9002</u>
          </xref>, Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM, in solicitations and contracts and or task orders that require contractor personnel to meet one or both of the following criteria:</p>
-      <p id="fPkxpX" class="- topic/p ">(a) Require logical access to Department of Defense computer networks and systems in either the unclassified environment or the classified environment where authorized by governing security directives; and/or</p>
-      <p id="hvjkFK" class="- topic/p ">(b) Perform work which requires the use of a CAC for installation entry control or physical access to facilities and buildings.</p>
+      <p id="fPkxpX">(a) Require logical access to Department of Defense computer networks and systems in either the unclassified environment or the classified environment where authorized by governing security directives; and/or</p>
+      <p id="hvjkFK">(b) Perform work which requires the use of a CAC for installation entry control or physical access to facilities and buildings.</p>
    </conbody>
 </concept>

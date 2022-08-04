@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5631.20546"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5631.205-46</ph> Travel Costs (Removed August 2017).</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="YyebAw" outputclass="Normal" class="- topic/p ">
-         <ph id="ijn4d5qj" rev="change Please" class="- topic/ph ">HQ,</ph> United States Special Operations Command</p>
-      <p id="VJRbDX" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
-      <p id="kAujPI" outputclass="Normal" class="- topic/p ">SOFARS 5631</p>
-      <p id="fborIH" outputclass="Normal" class="- topic/p ">February 2007</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5631.20546" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5631.205-46</ph> Travel Costs (Removed August 2017).</title>
+   <conbody>
+      <p id="YyebAw" outputclass="Normal">
+         <ph id="ijn4d5qj" rev="change Please">HQ,</ph> United States Special Operations Command</p>
+      <p id="VJRbDX" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="kAujPI" outputclass="Normal">SOFARS 5631</p>
+      <p id="fborIH" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

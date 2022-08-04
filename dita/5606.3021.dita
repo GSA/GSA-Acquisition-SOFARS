@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5606.3021"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5606.302-1</ph> Only One Responsible Source</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="RsNtrm" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Added August 2015)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5606.3021" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5606.302-1</ph> Only One Responsible Source</title>
+   <conbody>
+      <p id="RsNtrm" outputclass="Normal">
+         <i>(Added August 2015)</i>
       </p>
-      <p id="p_BM306_303" class="- topic/p ">The waiver authority identified in DFARS PGI 206.302-1(d) is the Director of Procurement. The request for information (RFI) or source sought notice should be accomplished during market research and documented in the J&amp;A. The RFI or sources sought is separate from the presolicitation notice required by FAR 5.2.</p>
+      <p id="p_BM306_303">The waiver authority identified in DFARS PGI 206.302-1(d) is the Director of Procurement. The request for information (RFI) or source sought notice should be accomplished during market research and documented in the J&amp;A. The RFI or sources sought is separate from the presolicitation notice required by FAR 5.2.</p>
    </conbody>
 </concept>

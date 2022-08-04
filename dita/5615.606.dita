@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615.606"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615.606</ph> Agency Procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="KwDlBp" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised March 2012)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.606" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.606</ph> Agency Procedures.</title>
+   <conbody>
+      <p id="KwDlBp" outputclass="Normal">
+         <i>(Revised March 2012)</i>
       </p>
-      <p id="AShBsj" outputclass="Normal" class="- topic/p ">Contracting offices with the expertise and resources to do so shall process unsolicited proposals submitted to the activity. Those contracting offices without the resources or expertise to process unsolicited proposals may contact TILO for assistance and guidance.</p>
+      <p id="AShBsj" outputclass="Normal">Contracting offices with the expertise and resources to do so shall process unsolicited proposals submitted to the activity. Those contracting offices without the resources or expertise to process unsolicited proposals may contact TILO for assistance and guidance.</p>
    </conbody>
 </concept>

@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615.305"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615.305</ph> Proposal Evaluation.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="YvffcQ" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised April 2015)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.305" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.305</ph> Proposal Evaluation.</title>
+   <conbody>
+      <p id="YvffcQ" outputclass="Normal">
+         <i>(Revised April 2015)</i>
       </p>
-      <p id="yiqlYf" class="- topic/p ">(a)(2)(iii)</p>
-      <p id="vJQbrF" outputclass="Normal" class="- topic/p ">Evaluations of past performance shall include reports obtained from the Past Performance Information Retrieval System (<xref format="html"
-               href="http://www.ppirs.gov/"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">PPIRS</u>
+      <p id="yiqlYf">(a)(2)(iii)</p>
+      <p id="vJQbrF" outputclass="Normal">Evaluations of past performance shall include reports obtained from the Past Performance Information Retrieval System (<xref format="html" href="http://www.ppirs.gov/" scope="external">
+            <u>PPIRS</u>
          </xref>), if available.</p>
-      <p id="XjuWdq" outputclass="List2" class="- topic/p ">(4) The Source Selection Authority (SSA) may allow access to cost information to all source selection evaluation team members. If access to cost data is to be limited or denied to the technical team or others, describe the limitations and rationale for it in the SSP.</p>
+      <p id="XjuWdq" outputclass="List2">(4) The Source Selection Authority (SSA) may allow access to cost information to all source selection evaluation team members. If access to cost data is to be limited or denied to the technical team or others, describe the limitations and rationale for it in the SSP.</p>
    </conbody>
 </concept>

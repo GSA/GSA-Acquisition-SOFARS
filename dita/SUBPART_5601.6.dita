@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_SUBPART_5601.6"
-         base="NoTitle"
-         props=""
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Subpart" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Subpart 5601.6</ph> - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND      RESPONSIBILITIES</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="DqRCTD" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised June 2018)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5601.6" base="NoTitle" props="" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2 Subpart">
+      <ph props="autonumber">Subpart 5601.6</ph> - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND      RESPONSIBILITIES</title>
+   <conbody>
+      <p id="DqRCTD" outputclass="Normal">
+         <i>(Revised June 2018)</i>
       </p>
    </conbody>
 </concept>

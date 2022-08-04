@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615</ph> ATTACHMENTS</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="p__Toc75352612" outputclass="Normal" class="- topic/p ">Attachment 5615-1: BUSINESS CLEARANCE MEMORANDUM</p>
-      <p id="p__Toc75352613" outputclass="Normal" class="- topic/p ">Attachment 5615-2: BUSINESS CLEARANCE MEMORANDUM SIGNATURE PAGE</p>
-      <p id="AXPprz" outputclass="Normal" class="- topic/p "/>
-      <p id="p8zzgdg6" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="NEPlao" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="dtzYLB" outputclass="Normal" class="- topic/p ">SOFARS 5615</p>
-      <p id="FZvCvC" outputclass="Normal" class="- topic/p ">February 2007</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5615</ph> ATTACHMENTS</title>
+   <conbody>
+      <p id="p__Toc75352612" outputclass="Normal">Attachment 5615-1: BUSINESS CLEARANCE MEMORANDUM</p>
+      <p id="p__Toc75352613" outputclass="Normal">Attachment 5615-2: BUSINESS CLEARANCE MEMORANDUM SIGNATURE PAGE</p>
+      <p id="AXPprz" outputclass="Normal"></p>
+      <p id="p8zzgdg6" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="NEPlao" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="dtzYLB" outputclass="Normal">SOFARS 5615</p>
+      <p id="FZvCvC" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

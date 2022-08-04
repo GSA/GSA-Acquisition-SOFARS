@@ -1,79 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="SOFARS_PART_5633"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 5633</ph> - PROTESTS, DISPUTES AND APPEALS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5633.1.dita#SOFARS_SUBPART_5633.1"
-                        class="- topic/xref ">Subpart 5633.1 - PROTESTS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5633" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5633</ph> - PROTESTS, DISPUTES AND APPEALS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5633.1.dita#SOFARS_SUBPART_5633.1">Subpart 5633.1 - PROTESTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.102.dita#SOFARS_5633.102"
-                              class="- topic/xref ">5633.102 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.102.dita#SOFARS_5633.102">5633.102 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.103.dita#SOFARS_5633.103"
-                              class="- topic/xref ">5633.103 Protests to the Agency.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.103.dita#SOFARS_5633.103">5633.103 Protests to the Agency.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.104.dita#SOFARS_5633.104"
-                              class="- topic/xref ">5633.104 Protests to GAO.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.104.dita#SOFARS_5633.104">5633.104 Protests to GAO.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.106.dita#SOFARS_5633.106"
-                              class="- topic/xref ">5633.106 Solicitation Provisions and Contract Clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.106.dita#SOFARS_5633.106">5633.106 Solicitation Provisions and Contract Clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5633.2.dita#SOFARS_SUBPART_5633.2"
-                        class="- topic/xref ">Subpart 5633.2 - DISPUTES AND APPEALS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5633.2.dita#SOFARS_SUBPART_5633.2">Subpart 5633.2 - DISPUTES AND APPEALS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.209.dita#SOFARS_5633.209"
-                              class="- topic/xref ">5633.209 Suspected Fraudulent Claims.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.209.dita#SOFARS_5633.209">5633.209 Suspected Fraudulent Claims.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.211.dita#SOFARS_5633.211"
-                              class="- topic/xref ">5633.211 Contracting Officers Decision</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.211.dita#SOFARS_5633.211">5633.211 Contracting Officers Decision</xref>
                      </p>
                   </li>
-                  <li rev="change Please" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5633.212.dita#SOFARS_5633.212"
-                              class="- topic/xref ">5633.212 Contracting Officer Duties Upon Appeal.</xref>
+                  <li rev="change Please">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5633.212.dita#SOFARS_5633.212">5633.212 Contracting Officer Duties Upon Appeal.</xref>
                      </p>
                   </li>
                </ul>

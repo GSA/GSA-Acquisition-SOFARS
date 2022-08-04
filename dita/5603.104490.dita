@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5603.104490"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5603.104-4-90</ph> Ombudsman for Procurement Integrity</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="EUVUNT" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised June 2018)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5603.104490" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5603.104-4-90</ph> Ombudsman for Procurement Integrity</title>
+   <conbody>
+      <p id="EUVUNT" outputclass="Normal">
+         <i>(Revised June 2018)</i>
       </p>
-      <p id="lmOiUG" outputclass="Normal" class="- topic/p ">Recognizing the contracting officer has the primary responsibility for Procurement Integrity, the Ombudsman will provide a neutral, informal, confidential and independent alternative for employees, managers, and customers to seek assistance in resolving procurement integrity issues. The primary function of the Ombudsman is to support acquisition personnel by acting as an independent sounding board to hear concerns about specific procurement integrity issues and to assist in the resolution of the concerns.</p>
-      <p id="ZhlHPf" outputclass="Normal" class="- topic/p ">The Special Operations Forces Acquisition, Technology, &amp; Logistics (SOF AT&amp;L) Military Deputy to the Acquisition Executive (MDAE) is designated as the USSOCOM Ombudsman for Procurement Integrity and can be contacted at <xref format="mailto"
-               href="mailto:OMBUDSMAN@socom.mil"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">OMBUDSMAN@socom.mil</u>
+      <p id="lmOiUG" outputclass="Normal">Recognizing the contracting officer has the primary responsibility for Procurement Integrity, the Ombudsman will provide a neutral, informal, confidential and independent alternative for employees, managers, and customers to seek assistance in resolving procurement integrity issues. The primary function of the Ombudsman is to support acquisition personnel by acting as an independent sounding board to hear concerns about specific procurement integrity issues and to assist in the resolution of the concerns.</p>
+      <p id="ZhlHPf" outputclass="Normal">The Special Operations Forces Acquisition, Technology, &amp; Logistics (SOF AT&amp;L) Military Deputy to the Acquisition Executive (MDAE) is designated as the USSOCOM Ombudsman for Procurement Integrity and can be contacted at <xref format="mailto" href="mailto:OMBUDSMAN@socom.mil" scope="external">
+            <u>OMBUDSMAN@socom.mil</u>
          </xref>.</p>
    </conbody>
 </concept>

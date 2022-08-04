@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5616.401"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5616.401</ph> General.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="fYGywp" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Added October 2012)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5616.401" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5616.401</ph> General.</title>
+   <conbody>
+      <p id="fYGywp" outputclass="Normal">
+         <i>(Added October 2012)</i>
       </p>
-      <p id="p_P242_38837" outputclass="Normal" class="- topic/p ">The D&amp;F for award-fee contracts shall be signed by the Director of Procurement. The D&amp;F required by FAR 16.401(d) for all other incentive contracts may be signed by the HCD/FCO.</p>
+      <p id="p_P242_38837" outputclass="Normal">The D&amp;F for award-fee contracts shall be signed by the Director of Procurement. The D&amp;F required by FAR 16.401(d) for all other incentive contracts may be signed by the HCD/FCO.</p>
    </conbody>
 </concept>

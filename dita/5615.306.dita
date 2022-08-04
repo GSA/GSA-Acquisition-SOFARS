@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5615.306"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5615.306</ph> Exchanges with Offerors After Receipt of Proposals.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="SeGyho" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised January 2014)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.306" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5615.306</ph> Exchanges with Offerors After Receipt of Proposals.</title>
+   <conbody>
+      <p id="SeGyho" outputclass="Normal">
+         <i>(Revised January 2014)</i>
       </p>
-      <p id="yZmZFX" class="- topic/p ">(b) The rationale for the decision to communicate with offerors prior to establishment of the Competitive Range Determination (CRD) shall be documented. The CRD shall be included in the Business Clearance Memorandum (BCM) if not using formal source selection procedures.</p>
+      <p id="yZmZFX">(b) The rationale for the decision to communicate with offerors prior to establishment of the Competitive Range Determination (CRD) shall be documented. The CRD shall be included in the Business Clearance Memorandum (BCM) if not using formal source selection procedures.</p>
    </conbody>
 </concept>

@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5619.7054"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5619.705-4</ph> Reviewing the Subcontract Plan.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="EIXKPa" class="- topic/p ">(d) All subcontracting plans that contain a Small Disadvantage Business goal of less than 5% must be approved one level above the contracting officer. If the primary contracting officer is also the office/division chief, then forward the subcontracting plan to the command’s Director of Small Business Programs for approval.</p>
-      <p id="XXWihP" class="- topic/p "/>
-      <p id="rtuli9cj" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="wsrpwarn" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="KUllZp" outputclass="Normal" class="- topic/p ">SOFARS 5619</p>
-      <p id="ZTDzBH" outputclass="Normal" class="- topic/p ">February 2007</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5619.7054" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5619.705-4</ph> Reviewing the Subcontract Plan.</title>
+   <conbody>
+      <p id="EIXKPa">(d) All subcontracting plans that contain a Small Disadvantage Business goal of less than 5% must be approved one level above the contracting officer. If the primary contracting officer is also the office/division chief, then forward the subcontracting plan to the command’s Director of Small Business Programs for approval.</p>
+      <p id="XXWihP"></p>
+      <p id="rtuli9cj">HQ, United States Special Operations Command</p>
+      <p id="wsrpwarn">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="KUllZp" outputclass="Normal">SOFARS 5619</p>
+      <p id="ZTDzBH" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>

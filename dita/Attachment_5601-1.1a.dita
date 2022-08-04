@@ -1,209 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_Attachment_5601-1.1a"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title id="rKp1Fg" outputclass="heading 2 Ctr" class="- topic/title ">
-      <ph id="nWHXIK" props="autonumber" class="- topic/ph ">Attachment 5601-1.1 a</ph> Table Of Contents</title>
-   <conbody id="yi8jLd" class="- topic/body  concept/conbody ">
-      <table colsep="1" id="xu0jkS" rowsep="1" class="- topic/table ">
-         <tgroup cols="2" colsep="1" id="9zQ89R" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     id="SPGInk"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     id="YCbtpD"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody id="dBbfR2" class="- topic/tbody ">
-               <row id="BGOsP5" rowsep="1" class="- topic/row ">
-                  <entry id="xsiYpV" nameend="2" namest="1" class="- topic/entry ">
-                     <p id="JyBdAf" outputclass=" Ctr" class="- topic/p ">
-                        <b id="wd9zuZ" class="+ topic/ph hi-d/b ">REVIEW PACKAGE CONTENTS CHECKLIST*</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.1a" ditaarch:DITAArchVersion="1.3">
+   <title id="rKp1Fg" outputclass="heading 2 Ctr">
+      <ph id="nWHXIK" props="autonumber">Attachment 5601-1.1 a</ph> Table Of Contents</title>
+   <conbody id="yi8jLd">
+      <table colsep="1" id="xu0jkS" rowsep="1">
+         <tgroup cols="2" colsep="1" id="9zQ89R">
+            <colspec colname="1" colnum="1" id="SPGInk" rowheader="headers" />
+            <colspec colname="2" colnum="2" id="YCbtpD" rowheader="headers" />
+            <tbody id="dBbfR2">
+               <row id="BGOsP5" rowsep="1">
+                  <entry id="xsiYpV" nameend="2" namest="1">
+                     <p id="JyBdAf" outputclass=" Ctr">
+                        <b id="wd9zuZ">REVIEW PACKAGE CONTENTS CHECKLIST*</b>
                      </p>
                   </entry>
                </row>
-               <row id="wMBbJs" rowsep="1" class="- topic/row ">
-                  <entry id="7qpqxQ" class="- topic/entry ">
-                     <p id="tUFqlY" class="- topic/p ">
-                        <b id="o2tZQc" class="+ topic/ph hi-d/b ">
-                           <u id="c5hGwK" class="+ topic/ph hi-d/u ">Acquisition Plans</u>
+               <row id="wMBbJs" rowsep="1">
+                  <entry id="7qpqxQ">
+                     <p id="tUFqlY">
+                        <b id="o2tZQc">
+                           <u id="c5hGwK">Acquisition Plans</u>
                         </b>
                      </p>
-                     <p id="BRaMcF" class="- topic/p ">Acquisition planning documents based on complexity and dollar value</p>
-                     <p id="yZSUhU" class="- topic/p ">Market Research Report</p>
+                     <p id="BRaMcF">Acquisition planning documents based on complexity and dollar value</p>
+                     <p id="yZSUhU">Market Research Report</p>
                   </entry>
-                  <entry id="DRLxva" class="- topic/entry ">
-                     <p id="hqMtqq" class="- topic/p ">
-                        <b id="Mgf0Ez" class="+ topic/ph hi-d/b ">
-                           <u id="rhQbkn" class="+ topic/ph hi-d/u ">D</u>
+                  <entry id="DRLxva">
+                     <p id="hqMtqq">
+                        <b id="Mgf0Ez">
+                           <u id="rhQbkn">D</u>
                         </b>
-                        <b id="LptoEo" class="+ topic/ph hi-d/b ">
-                           <u id="Dh4cZe" class="+ topic/ph hi-d/u ">etermination</u>
+                        <b id="LptoEo">
+                           <u id="Dh4cZe">etermination</u>
                         </b>
-                        <b id="xXm9jb" class="+ topic/ph hi-d/b ">
-                           <u id="howjVg" class="+ topic/ph hi-d/u ">&amp;</u>
+                        <b id="xXm9jb">
+                           <u id="howjVg">&amp;</u>
                         </b>
-                        <b id="P18C53" class="+ topic/ph hi-d/b ">
-                           <u id="TvIvyP" class="+ topic/ph hi-d/u "/>
+                        <b id="P18C53">
+                           <u id="TvIvyP"></u>
                         </b>
-                        <b id="GojzJ9" class="+ topic/ph hi-d/b ">
-                           <u id="u1U8bn" class="+ topic/ph hi-d/u ">F</u>
+                        <b id="GojzJ9">
+                           <u id="u1U8bn">F</u>
                         </b>
-                        <b id="Gku47O" class="+ topic/ph hi-d/b ">
-                           <u id="TLdTde" class="+ topic/ph hi-d/u ">indings</u>
+                        <b id="Gku47O">
+                           <u id="TLdTde">indings</u>
                         </b>
-                        <b id="LOOyo3" class="+ topic/ph hi-d/b ">
-                           <u id="oGZNff" class="+ topic/ph hi-d/u ">(D&amp;F)</u>
-                        </b>
-                     </p>
-                     <p id="hGcXMU" class="- topic/p ">D&amp;F</p>
-                     <p id="axBDxT" class="- topic/p ">Local Legal Review</p>
-                     <p id="PCLNre" class="- topic/p ">Statement of Work (SOW)/Performance Work Statement (PWS)/Statement of Objectives (SOO)</p>
-                     <p id="MrZXrV" class="- topic/p ">Funding Document(s), as applicable</p>
-                     <p id="ANipGM" class="- topic/p ">Draft Letter Contract, as applicable</p>
-                  </entry>
-               </row>
-               <row id="3CyzBe" rowsep="1" class="- topic/row ">
-                  <entry id="ja5eKI" class="- topic/entry ">
-                     <p id="kodgEt" class="- topic/p ">
-                        <b id="fg91DT" class="+ topic/ph hi-d/b ">
-                           <u id="dN99BY" class="+ topic/ph hi-d/u ">Justification and Approvals (J&amp;A), Brand Name Justifications, Exception to Fair Opportunity (FOE):</u>
+                        <b id="LOOyo3">
+                           <u id="oGZNff">(D&amp;F)</u>
                         </b>
                      </p>
-                     <p id="tAcdBm" class="- topic/p ">Justification</p>
-                     <p id="nAvTcx" class="- topic/p ">Acquisition Plan</p>
-                     <p id="SQRaUk" class="- topic/p ">Market Research Report</p>
-                  </entry>
-                  <entry id="ZrwYjr" class="- topic/entry ">
-                     <p id="zGEmPh" class="- topic/p ">
-                        <b id="ujskUw" class="+ topic/ph hi-d/b ">
-                           <u id="YQxX5y" class="+ topic/ph hi-d/u ">Source Selection Plans</u>
-                        </b>
-                     </p>
-                     <p id="asbHmP" class="- topic/p ">Source Selection Plan or Evaluation Plan</p>
-                     <p id="ALueHH" class="- topic/p ">Applicable D&amp;F’s</p>
+                     <p id="hGcXMU">D&amp;F</p>
+                     <p id="axBDxT">Local Legal Review</p>
+                     <p id="PCLNre">Statement of Work (SOW)/Performance Work Statement (PWS)/Statement of Objectives (SOO)</p>
+                     <p id="MrZXrV">Funding Document(s), as applicable</p>
+                     <p id="ANipGM">Draft Letter Contract, as applicable</p>
                   </entry>
                </row>
-               <row id="0OQwyG" rowsep="1" class="- topic/row ">
-                  <entry id="OOyxiq" class="- topic/entry ">
-                     <p id="zztmum" class="- topic/p ">
-                        <b id="3sYnjU" class="+ topic/ph hi-d/b ">
-                           <u id="8Of5Cj" class="+ topic/ph hi-d/u ">Requests for Proposals, Invitatio</u>
-                        </b>
-                        <b id="Zujsun" class="+ topic/ph hi-d/b ">
-                           <u id="IYN4bC" class="+ topic/ph hi-d/u ">ns for Bids, Request for Quotes</u>
+               <row id="3CyzBe" rowsep="1">
+                  <entry id="ja5eKI">
+                     <p id="kodgEt">
+                        <b id="fg91DT">
+                           <u id="dN99BY">Justification and Approvals (J&amp;A), Brand Name Justifications, Exception to Fair Opportunity (FOE):</u>
                         </b>
                      </p>
-                     <p id="DwGqAL" class="- topic/p ">Solicitation</p>
-                     <p id="HCStch" class="- topic/p ">Requirements Package (SOW/PWS/SOO, CDRLs, DD254, etc.)</p>
-                     <p id="weTAHm" class="- topic/p ">Acquisition Planning Documents or Brief (as applicable)</p>
-                     <p id="VLqNhZ" class="- topic/p ">Local Legal Review</p>
-                     <p id="gioJmd" class="- topic/p ">
-                        <b id="7Ur0qP" class="+ topic/ph hi-d/b ">Competitive –</b>
-                     </p>
-                     <p id="IihPTP" class="- topic/p ">Evaluation Plan or Source Selection Plan</p>
-                     <p id="aFLINU" class="- topic/p ">
-                        <b id="9uwJ7g" class="+ topic/ph hi-d/b ">Non-Competitive –</b>
-                     </p>
-                     <p id="uSVDZO" class="- topic/p ">J&amp;A</p>
+                     <p id="tAcdBm">Justification</p>
+                     <p id="nAvTcx">Acquisition Plan</p>
+                     <p id="SQRaUk">Market Research Report</p>
                   </entry>
-                  <entry id="9nEN3H" class="- topic/entry ">
-                     <p id="EldKvI" class="- topic/p ">
-                        <b id="7kJnSN" class="+ topic/ph hi-d/b ">
-                           <u id="m4X5SN" class="+ topic/ph hi-d/u ">Requests for Final Proposal Revi</u>
-                        </b>
-                        <b id="eCkiP2" class="+ topic/ph hi-d/b ">
-                           <u id="UbUv28" class="+ topic/ph hi-d/u ">sions (FPR)</u>
+                  <entry id="ZrwYjr">
+                     <p id="zGEmPh">
+                        <b id="ujskUw">
+                           <u id="YQxX5y">Source Selection Plans</u>
                         </b>
                      </p>
-                     <p id="AXnWAD" class="- topic/p ">
-                        <i id="aRe8zs" class="+ topic/ph hi-d/i ">(competitive only)</i>
-                     </p>
-                     <p id="eNyNzv" class="- topic/p ">Evaluation Notices (ENs) and Contractor Responses</p>
-                     <p id="BlGfJb" class="- topic/p ">Draft Source Selection Evaluation Board (SSEB) Report</p>
-                     <p id="FRgNTs" class="- topic/p ">Draft FPR notice</p>
+                     <p id="asbHmP">Source Selection Plan or Evaluation Plan</p>
+                     <p id="ALueHH">Applicable D&amp;F’s</p>
                   </entry>
                </row>
-               <row id="a9jUJQ" rowsep="1" class="- topic/row ">
-                  <entry id="y63kdG" class="- topic/entry ">
-                     <p id="vGeecA" class="- topic/p ">
-                        <b id="tFTNOG" class="+ topic/ph hi-d/b ">
-                           <u id="GarSMK" class="+ topic/ph hi-d/u ">Business Clearance</u>
+               <row id="0OQwyG" rowsep="1">
+                  <entry id="OOyxiq">
+                     <p id="zztmum">
+                        <b id="3sYnjU">
+                           <u id="8Of5Cj">Requests for Proposals, Invitatio</u>
+                        </b>
+                        <b id="Zujsun">
+                           <u id="IYN4bC">ns for Bids, Request for Quotes</u>
                         </b>
                      </p>
-                     <p id="GdlCiv" class="- topic/p ">Access to file</p>
-                     <p id="zJfYaP" class="- topic/p ">Local Legal Review</p>
-                     <p id="QEWTRj" class="- topic/p ">
-                        <b id="N39sEG" class="+ topic/ph hi-d/b ">Competitive –</b>
-                        <b id="cDgPbR" class="+ topic/ph hi-d/b ">obtain approval to award without discussions or begin discussions</b>
+                     <p id="DwGqAL">Solicitation</p>
+                     <p id="HCStch">Requirements Package (SOW/PWS/SOO, CDRLs, DD254, etc.)</p>
+                     <p id="weTAHm">Acquisition Planning Documents or Brief (as applicable)</p>
+                     <p id="VLqNhZ">Local Legal Review</p>
+                     <p id="gioJmd">
+                        <b id="7Ur0qP">Competitive –</b>
                      </p>
-                     <p id="PkoEWb" class="- topic/p ">Request for Clearance</p>
-                     <p id="QaMmsl" class="- topic/p ">Initial SSEB report</p>
-                     <p id="bZKgqD" class="- topic/p ">Draft Competitive Range Determination</p>
-                     <p id="RUyaoE" class="- topic/p ">
-                        <b id="Ubp8N0" class="+ topic/ph hi-d/b ">Non-Competitive –</b>
-                        <b id="97n0Q7" class="+ topic/ph hi-d/b ">obtain approval prior to beginning negotiations</b>
+                     <p id="IihPTP">Evaluation Plan or Source Selection Plan</p>
+                     <p id="aFLINU">
+                        <b id="9uwJ7g">Non-Competitive –</b>
                      </p>
-                     <p id="shZtOs" class="- topic/p ">Pre-negotiation Business Clearance Memorandum</p>
+                     <p id="uSVDZO">J&amp;A</p>
                   </entry>
-                  <entry id="Gx2JtZ" class="- topic/entry ">
-                     <p id="uWVTLT" class="- topic/p ">
-                        <b id="k5Ac7t" class="+ topic/ph hi-d/b ">
-                           <u id="BsODX1" class="+ topic/ph hi-d/u ">Contract Clearance</u>
+                  <entry id="9nEN3H">
+                     <p id="EldKvI">
+                        <b id="7kJnSN">
+                           <u id="m4X5SN">Requests for Final Proposal Revi</u>
+                        </b>
+                        <b id="eCkiP2">
+                           <u id="UbUv28">sions (FPR)</u>
                         </b>
                      </p>
-                     <p id="qpwgqb" class="- topic/p ">
-                        <b id="VWsJKi" class="+ topic/ph hi-d/b ">Approval of the negotiated business arrangement</b>
+                     <p id="AXnWAD">
+                        <i id="aRe8zs">(competitive only)</i>
                      </p>
-                     <p id="ZVBPec" class="- topic/p ">Access to file – to include access to the contract writing system</p>
-                     <p id="qGVBXk" class="- topic/p ">Draft contract</p>
-                     <p id="Ycugjw" class="- topic/p ">Local Legal Review</p>
-                     <p id="SqhxLJ" class="- topic/p ">
-                        <b id="ZygPwE" class="+ topic/ph hi-d/b ">Competitive</b>
-                     </p>
-                     <p id="IzjBYP" class="- topic/p ">Request for Clearance</p>
-                     <p id="sZjmKB" class="- topic/p ">Final SSEB Report</p>
-                     <p id="FoUXnh" class="- topic/p ">Source Selection Advisory Council (SSAC) Report (if applicable)</p>
-                     <p id="AsNkzV" class="- topic/p ">Draft Decision Briefing</p>
-                     <p id="Wkfsvu" class="- topic/p ">Draft Source Selection Decision Document (SSDD)</p>
-                     <p id="VRDpqJ" class="- topic/p ">
-                        <b id="YpqopF" class="+ topic/ph hi-d/b ">Non-Competitive</b>
-                     </p>
-                     <p id="wELCna" class="- topic/p ">Post-negotiation Business Clearance Memorandum</p>
+                     <p id="eNyNzv">Evaluation Notices (ENs) and Contractor Responses</p>
+                     <p id="BlGfJb">Draft Source Selection Evaluation Board (SSEB) Report</p>
+                     <p id="FRgNTs">Draft FPR notice</p>
                   </entry>
                </row>
-               <row id="AD7qrP" rowsep="1" class="- topic/row ">
-                  <entry id="caq5eE" class="- topic/entry ">
-                     <p id="KTwunm" class="- topic/p ">
-                        <b id="Djw8e7" class="+ topic/ph hi-d/b ">
-                           <u id="t5mm8q" class="+ topic/ph hi-d/u ">Terminations</u>
+               <row id="a9jUJQ" rowsep="1">
+                  <entry id="y63kdG">
+                     <p id="vGeecA">
+                        <b id="tFTNOG">
+                           <u id="GarSMK">Business Clearance</u>
                         </b>
                      </p>
-                     <p id="WtEtdr" class="- topic/p ">Termination Authority Form</p>
-                     <p id="JtEhEQ" class="- topic/p ">Modification</p>
-                     <p id="PIezPu" class="- topic/p ">Local Legal Review</p>
-                     <p id="RISpFr" class="- topic/p ">Show Cause Letter</p>
+                     <p id="GdlCiv">Access to file</p>
+                     <p id="zJfYaP">Local Legal Review</p>
+                     <p id="QEWTRj">
+                        <b id="N39sEG">Competitive –</b>
+                        <b id="cDgPbR">obtain approval to award without discussions or begin discussions</b>
+                     </p>
+                     <p id="PkoEWb">Request for Clearance</p>
+                     <p id="QaMmsl">Initial SSEB report</p>
+                     <p id="bZKgqD">Draft Competitive Range Determination</p>
+                     <p id="RUyaoE">
+                        <b id="Ubp8N0">Non-Competitive –</b>
+                        <b id="97n0Q7">obtain approval prior to beginning negotiations</b>
+                     </p>
+                     <p id="shZtOs">Pre-negotiation Business Clearance Memorandum</p>
                   </entry>
-                  <entry id="iBtg9p" class="- topic/entry ">
-                     <p id="MSfTMi" class="- topic/p ">
-                        <b id="9prLjb" class="+ topic/ph hi-d/b ">
-                           <u id="d9cqXp" class="+ topic/ph hi-d/u ">Ratifications</u>
+                  <entry id="Gx2JtZ">
+                     <p id="uWVTLT">
+                        <b id="k5Ac7t">
+                           <u id="BsODX1">Contract Clearance</u>
                         </b>
                      </p>
-                     <p id="rtwqKA" class="- topic/p ">D&amp;F (including all documentation of unauthorized commitment)</p>
-                     <p id="KTJLUX" class="- topic/p ">Local Legal Review</p>
-                     <p id="eodbob" class="- topic/p ">Ratification Checklist with associated documents</p>
+                     <p id="qpwgqb">
+                        <b id="VWsJKi">Approval of the negotiated business arrangement</b>
+                     </p>
+                     <p id="ZVBPec">Access to file – to include access to the contract writing system</p>
+                     <p id="qGVBXk">Draft contract</p>
+                     <p id="Ycugjw">Local Legal Review</p>
+                     <p id="SqhxLJ">
+                        <b id="ZygPwE">Competitive</b>
+                     </p>
+                     <p id="IzjBYP">Request for Clearance</p>
+                     <p id="sZjmKB">Final SSEB Report</p>
+                     <p id="FoUXnh">Source Selection Advisory Council (SSAC) Report (if applicable)</p>
+                     <p id="AsNkzV">Draft Decision Briefing</p>
+                     <p id="Wkfsvu">Draft Source Selection Decision Document (SSDD)</p>
+                     <p id="VRDpqJ">
+                        <b id="YpqopF">Non-Competitive</b>
+                     </p>
+                     <p id="wELCna">Post-negotiation Business Clearance Memorandum</p>
                   </entry>
                </row>
-               <row id="BvD1PL" rowsep="1" class="- topic/row ">
-                  <entry id="ViTnmA" nameend="2" namest="1" class="- topic/entry ">
-                     <p id="NUDTIW" class="- topic/p ">* Reference SOFARS 5604.803 Contents of Contract Files, DCG Part 4.1 Contents of Contract Files, and DCG Part 4.2 Contract Files Assurance and “Chain of Custody”. All documents listed above are to be included in the file prior to requesting review from SOF AT&amp;L-KM/KX/KB as required and applicable to the specific contracting action.</p>
+               <row id="AD7qrP" rowsep="1">
+                  <entry id="caq5eE">
+                     <p id="KTwunm">
+                        <b id="Djw8e7">
+                           <u id="t5mm8q">Terminations</u>
+                        </b>
+                     </p>
+                     <p id="WtEtdr">Termination Authority Form</p>
+                     <p id="JtEhEQ">Modification</p>
+                     <p id="PIezPu">Local Legal Review</p>
+                     <p id="RISpFr">Show Cause Letter</p>
+                  </entry>
+                  <entry id="iBtg9p">
+                     <p id="MSfTMi">
+                        <b id="9prLjb">
+                           <u id="d9cqXp">Ratifications</u>
+                        </b>
+                     </p>
+                     <p id="rtwqKA">D&amp;F (including all documentation of unauthorized commitment)</p>
+                     <p id="KTJLUX">Local Legal Review</p>
+                     <p id="eodbob">Ratification Checklist with associated documents</p>
+                  </entry>
+               </row>
+               <row id="BvD1PL" rowsep="1">
+                  <entry id="ViTnmA" nameend="2" namest="1">
+                     <p id="NUDTIW">* Reference SOFARS 5604.803 Contents of Contract Files, DCG Part 4.1 Contents of Contract Files, and DCG Part 4.2 Contract Files Assurance and “Chain of Custody”. All documents listed above are to be included in the file prior to requesting review from SOF AT&amp;L-KM/KX/KB as required and applicable to the specific contracting action.</p>
                   </entry>
                </row>
             </tbody>

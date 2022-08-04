@@ -25,6 +25,7 @@
                 base="NoTitle"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="Cover_1.html"
                 class="- map/topicref "/>
    </topicref>
 </map>

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5604.7003"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5604.7003</ph> Basic PII number.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="VscYJJ" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised October 2012)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5604.7003" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5604.7003</ph> Basic PII number.</title>
+   <conbody>
+      <p id="VscYJJ" outputclass="Normal">
+         <i>(Revised October 2012)</i>
       </p>
-      <p id="YvXlEF" class="- topic/p ">(a)(1) DoDAAC codes for USSOCOM offices can be found in the DCG.</p>
+      <p id="YvXlEF">(a)(1) DoDAAC codes for USSOCOM offices can be found in the DCG.</p>
    </conbody>
 </concept>

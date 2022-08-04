@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5633.102"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5633.102</ph> General.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="CczERm" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised December 2015)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5633.102" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5633.102</ph> General.</title>
+   <conbody>
+      <p id="CczERm" outputclass="Normal">
+         <i>(Revised December 2015)</i>
       </p>
-      <p id="lQcKlg" class="- topic/p ">(a)</p>
-      <p id="fNTjXj" outputclass="List2" class="- topic/p ">(1) Upon receipt of a protest or notification of an upcoming protest, either before or after an award and whether filed directly with the agency, the Government Accountability Office (GAO), the Small Business Administration (SBA)/Office of Hearing and Appeals (OHA), or the courts, contracting officers must immediately email notification to their LNO. The LNO will notify the Director of Procurement, the Deputy Director of Procurement, Chief SOF AT&amp;L-KM, KX, or KB as appropriate, SOJA-AQ, and the Requiring Activity Official (RAO). The format for the notification email shall include:</p>
-      <p id="nSAOen" outputclass="List3" class="- topic/p ">(i) Summary: Description of supplies or services, RFP release date, periods of performance. Provide type of protest (e.g. agency or to GAO); pre or post award protest, and general basis for the protest.</p>
-      <p id="kRDTso" outputclass="List3" class="- topic/p ">(ii) Unit Impact: Describe the impact to the requiring activity (e.g. loss of continuing service, delay in new equipment or services). In general, address how the requiring activity is affected by any delays or actions associated with the protest.</p>
-      <p id="iFXkJs" outputclass="List3" class="- topic/p ">(iii) GAO or Agency Decision Timeline: Date decision is expected or the protest is otherwise resolved.</p>
-      <p id="GEHKDz" outputclass="List2" class="- topic/p ">(2) See the DCG for the responsibilities for recording and tracking protests.</p>
+      <p id="lQcKlg">(a)</p>
+      <p id="fNTjXj" outputclass="List2">(1) Upon receipt of a protest or notification of an upcoming protest, either before or after an award and whether filed directly with the agency, the Government Accountability Office (GAO), the Small Business Administration (SBA)/Office of Hearing and Appeals (OHA), or the courts, contracting officers must immediately email notification to their LNO. The LNO will notify the Director of Procurement, the Deputy Director of Procurement, Chief SOF AT&amp;L-KM, KX, or KB as appropriate, SOJA-AQ, and the Requiring Activity Official (RAO). The format for the notification email shall include:</p>
+      <p id="nSAOen" outputclass="List3">(i) Summary: Description of supplies or services, RFP release date, periods of performance. Provide type of protest (e.g. agency or to GAO); pre or post award protest, and general basis for the protest.</p>
+      <p id="kRDTso" outputclass="List3">(ii) Unit Impact: Describe the impact to the requiring activity (e.g. loss of continuing service, delay in new equipment or services). In general, address how the requiring activity is affected by any delays or actions associated with the protest.</p>
+      <p id="iFXkJs" outputclass="List3">(iii) GAO or Agency Decision Timeline: Date decision is expected or the protest is otherwise resolved.</p>
+      <p id="GEHKDz" outputclass="List2">(2) See the DCG for the responsibilities for recording and tracking protests.</p>
    </conbody>
 </concept>

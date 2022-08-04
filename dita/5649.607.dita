@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="SOFARS_5649.607"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5649.607</ph> Delinquency Notices.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="XhKWKA" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Revised November 2007)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5649.607" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5649.607</ph> Delinquency Notices.</title>
+   <conbody>
+      <p id="XhKWKA" outputclass="Normal">
+         <i>(Revised November 2007)</i>
       </p>
-      <p id="BYuMrw" outputclass="Normal" class="- topic/p ">Any actions relating to delinquent contractors, including Termination for Default, Cure Notice, and Show Cause Notice, must be coordinated with legal counsel. A copy of all Cure and Show Cause Notices to small business firms must be furnished to the OSBP concurrent to the notice being sent to the contractor. The contractor's response or lack of response within the allotted time period, as well as any relevant documentation related to the contractor's response, must be furnished to legal counsel for review on all contracts.</p>
-      <p id="UOpsoO" outputclass="Normal" class="- topic/p "/>
-      <p id="fsvhjzwd" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
-      <p id="bk2uq1nl" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
-      <p id="PEVMlS" outputclass="Normal" class="- topic/p ">SOFARS 5649</p>
-      <p id="hETMhN" outputclass="Normal" class="- topic/p ">February 2007</p>
+      <p id="BYuMrw" outputclass="Normal">Any actions relating to delinquent contractors, including Termination for Default, Cure Notice, and Show Cause Notice, must be coordinated with legal counsel. A copy of all Cure and Show Cause Notices to small business firms must be furnished to the OSBP concurrent to the notice being sent to the contractor. The contractor's response or lack of response within the allotted time period, as well as any relevant documentation related to the contractor's response, must be furnished to legal counsel for review on all contracts.</p>
+      <p id="UOpsoO" outputclass="Normal"></p>
+      <p id="fsvhjzwd" outputclass="Normal">HQ, United States Special Operations Command</p>
+      <p id="bk2uq1nl" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="PEVMlS" outputclass="Normal">SOFARS 5649</p>
+      <p id="hETMhN" outputclass="Normal">February 2007</p>
    </conbody>
 </concept>
