@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_5612.101">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5612.101</ph> Policy.</title>
-   <conbody>
-      <p id="RKTXeg" outputclass="Normal">If during the acquisition process new evidence or additional requirements indicate the item no longer falls into the category of a commercial item, the solicitation shall be cancelled and reissued.</p>
-   </conbody>
-</concept>

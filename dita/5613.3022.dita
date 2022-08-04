@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_5613.3022">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5613.302-2</ph> Unpriced Purchase Orders.</title>
-   <conbody>
-      <p id="csCEBO">(c) A certified funding document for the monetary limit of the order shall be provided prior to issuance of an unpriced purchase order.</p>
-   </conbody>
-</concept>
