@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.104"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5601.104</ph> Applicability.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="p_BM2" outputclass="Normal" class="- topic/p ">The SOFARS applies to all USSOCOM contracting offices that receive contracting authority from USSOCOM, Director of Procurement (DOP).</p>
+   </conbody>
+</concept>

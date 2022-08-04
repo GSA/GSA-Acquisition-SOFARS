@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2169004"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5652.216-9004</ph> , Procedures for Issuing Task/Delivery Orders under Single Award, Indefinite DeliveryIndefinite Quantity Contracts (2003) Section H</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="ykGDIR" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5616.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5616.506(c)</u>
+         </xref>, insert the following clause, <i class="+ topic/ph hi-d/i ">Editable and Fill-ins</i>
+      </p>
+      <p id="IkXdQu" class="- topic/p ">(a) Soliciting <i class="+ topic/ph hi-d/i ">Task/Delivery</i> Order Proposals: When the Government has a requirement for <i class="+ topic/ph hi-d/i ">services/supplies</i> to be <i class="+ topic/ph hi-d/i ">performed/delivered</i> under this contract, the Contracting Officer will issue a request for <i class="+ topic/ph hi-d/i ">task/delivery</i> order proposal either <i class="+ topic/ph hi-d/i ">in writing/by telephone/ electronic</i> transmission. Each request will include, but not necessarily be limited to, the following:</p>
+      <p id="snbKTT" outputclass="List2" class="- topic/p ">(1) Request for proposal number and/or title;</p>
+      <p id="Wleose" outputclass="List2" class="- topic/p ">(2) Contract Number;</p>
+      <p id="iOCVCi" outputclass="List2" class="- topic/p ">(3) Statement of Work;</p>
+      <p id="bBdwFi" outputclass="List2" class="- topic/p ">(4) Instructions to Offerors;</p>
+      <p id="UJHGPd" outputclass="List2" class="- topic/p ">(5) Items to be delivered and delivery schedule/performance period; and</p>
+      <p id="jvLEBS" outputclass="List2" class="- topic/p ">(6) A listing of Government furnished property to be provided to the Contractor, if required.</p>
+      <p id="qujLsO" class="- topic/p ">(b) Urgent Requirements: In the event of an urgent requirement, the Contractor shall provide a written proposal within the timeframe specified by the Contracting Officer in the specified format.</p>
+      <p id="AqctHz" class="- topic/p ">(c) Submission of Proposals: The Contractor's proposal must comply with the Instructions to Offerors included in the request for task order proposal. The Contractor shall have no more than <i class="+ topic/ph hi-d/i ">enter appropriate number of days</i> to submit their proposals, unless:</p>
+      <p id="TTPDmc" outputclass="List2" class="- topic/p ">(1) A longer timeframe is specified in the request for task order proposal, or</p>
+      <p id="BNzoFE" outputclass="List2" class="- topic/p ">(2) It is an urgent requirement.</p>
+   </conbody>
+</concept>

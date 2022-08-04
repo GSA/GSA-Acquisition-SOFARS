@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5608"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 5608</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5608.0003.dita#SOFARS_5608.0003"
+                        class="- topic/xref ">5608.0003 Use of other Government supply sources.</xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5608.4.dita#SOFARS_SUBPART_5608.4"
+                        class="- topic/xref ">Subpart 5608.4 - FEDERAL SUPPLY SCHEDULES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5608.40490.dita#SOFARS_5608.40490"
+                              class="- topic/xref ">5608.404-90 Determination and certification for use of nonDoD contracts.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5608.405.dita#SOFARS_5608.405"
+                              class="- topic/xref ">5608.405 Ordering Procedures for Federal Supply Schedules.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5608.4056.dita#SOFARS_5608.4056"
+                                    class="- topic/xref ">5608.405-6 Limited Sources.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5608.70.dita#SOFARS_SUBPART_5608.70"
+                        class="- topic/xref ">Subpart 5608.70 - COORDINATED ACQUISITION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5608.7004.dita#SOFARS_5608.7004"
+                              class="- topic/xref ">5608.7004 Procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5608.70042.dita#SOFARS_5608.70042"
+                                    class="- topic/xref ">5608.7004-2 Acceptance by Acquiring Activities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5608.8.dita#SOFARS_SUBPART_5608.8"
+                        class="- topic/xref ">Subpart 5608.8 - ACQUISITION OF PRINTING AND RELATED SUPPLIES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5608.802.dita#SOFARS_5608.802"
+                              class="- topic/xref ">5608.802 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

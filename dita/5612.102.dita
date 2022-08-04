@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5612.102"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5612.102</ph> Applicability.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="TOvans" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2018)</i>
+      </p>
+      <p id="HKONzv" class="- topic/p ">(a)(1) When using FAR Part 12 procedures for acquisitions exceeding $1 million in value, the RAO, APM, or PM is responsible for completing the commerciality determination memorandum template).</p>
+      <p id="GubDaf" class="- topic/p ">(f)(1) The Director of Procurement, USSOCOM, as the head of agency, delegates the authority to determine applicability of <xref format="html"
+               href="https://www.acquisition.gov/content/part-12-acquisition-commercial-items"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">FAR 12.102(f)</u>
+         </xref> to USSOCOM headquarters contracting divisions and field contracting office chiefs. Determinations are to be in writing and included in each file.</p>
+   </conbody>
+</concept>

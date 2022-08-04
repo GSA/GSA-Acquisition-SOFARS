@@ -1,0 +1,17 @@
+Remove Reg name from title
+Updated on ditamap
+Props attribute - Removed the Reg prefix
+
+
+Update the title on actual concept
+
+Remove – with - on all concepts.
+Add - if there is no - present
+Replace Uppercase PARTS, SUBPARTS and SUBCHAPTER to lower case
+Remove hidden non breaking space on titles
+Add ‘Reserved’ to empty titles
+Add Table of Contents to attachments title if title text is empty
+Added xref=”No” for 5617.502.dita
+
+Renamed - SOFARS-A2-topic_2.dita to Attachment_5601-2_Index.dita. (updated the concept id as well)
+Updated title of Attachment 5601-2.2 a

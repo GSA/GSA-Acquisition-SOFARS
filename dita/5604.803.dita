@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5604.803"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5604.803</ph> Contents of Contract Files.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="qEizWR" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2021)</i>
+      </p>
+      <p id="MFZtyw" class="- topic/p ">(a) The use of electronic contract files is mandatory, unless otherwise approved in writing by the Deputy Director of Procurement (DDOP). If there is a classified document(s) to an otherwise unclassified contract file, the document electronic file shall be stored in a folder on the appropriate secure network, and the hardcopy documents shall be stored in the appropriate secure container. A cross-reference annotation will be made on the file index specifying where the document is located.</p>
+      <p id="HAIelf" class="- topic/p ">(b) Electronic contract files must contain all appropriate contract documents or references to the location of the document if maintained in an official system of record (Electronic Document Access (EDA), Wide Area Workflow (WAWF), or Surveillance &amp; Performance Monitoring (SPM) Tool, found in the Procurement Integrated Enterprise Environment (PIEE).</p>
+      <p id="oCHgmh" class="- topic/p ">(c) Additionally, 6 part folders shall be used when hardcopy files have been approved in accordance with paragraph (a) above. Numbered tabs must be at the side of a page, which act as a divider between each category of documents (i.e. A-1, B-1, B-2, B-3).</p>
+      <p id="jRzyJx" class="- topic/p ">(d) The contract file content index templates in the DCG Chapter 4, Item 5(a) may be used. Use of a checklist is recommended for all contracts exceeding the simplified acquisition threshold.</p>
+      <p id="ssemxR" class="- topic/p ">(e) Filing conventions for contract files are specified in DCG chapter 4, item 5(b).</p>
+      <p id="GTGmWN" class="- topic/p ">(f) Follow DCG chapter 4, Item 6 for specific mandatory contract files assurance actions.</p>
+      <p id="LPXuJK" class="- topic/p ">(g) A Critical Documents Checklist is provided to alert contracting officers of the 15 critical documents that will be surveyed during all policy reviews, regardless of scope of the required review. The list includes their review point and the file tab in which the documents are expected to be located.</p>
+   </conbody>
+</concept>

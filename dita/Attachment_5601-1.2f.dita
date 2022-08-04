@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-1.2f"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Ctr 2 heading" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Attachment 5601-1.2 f</ph> Table Of Contents</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="VOhOIq" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">APPROVAL LEVELS OF AUTHORITY AND DOCUMENT REVIEW</b>
+                        <b class="+ topic/ph hi-d/b ">–</b>
+                        <b class="+ topic/ph hi-d/b ">January 2020</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="FiQQDT" outputclass=" Ctr" class="- topic/p ">(unless further restricted by individual Contracting Officer warrant levels)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="aiPynt" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">MARSOC</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="NSxGsG" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">ACTION</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iWOlXt" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QSuYIf" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">APPROVAL</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="KQlhnS" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">1. Acquisition Plan</b>
+                        <b class="+ topic/ph hi-d/b ">(See</b>
+                        <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA"
+                              outputclass="fm:paraswithautonuminparens"
+                              class="- topic/xref ">paragraphs  </xref>
+                        <b class="+ topic/ph hi-d/b ">)</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="NSQXsZ" class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Development:</u>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FtNoze" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YoNjzn" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ocvIDR" class="- topic/p ">Equal to or greater than $10M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PsbRXO" outputclass=" Ctr" class="- topic/p ">FCO*, Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PwlsXG" outputclass=" Ctr" class="- topic/p ">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="FhRUDY" class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Production:</u>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="qumXSK" outputclass=" Ctr" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="mEcjxz" outputclass=" Ctr" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="VrBwGM" class="- topic/p ">Equal to or greater than $25M in any one year or equal to or greater than $50M for all years.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="lsBnsI" outputclass=" Ctr" class="- topic/p ">FCO*, Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="bTZfhy" outputclass=" Ctr" class="- topic/p ">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="SyPFwb" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">NOTE:</i>
+                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv"
+                              outputclass="fm:paraswithautonuminparens"
+                              class="- topic/xref ">paragraphs  </xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM"
+                              outputclass="fm:parawithautonuminparens"
+                              class="- topic/xref ">paragraph  </xref>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="iYFEQD" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">2. Type of Contract D&amp;F</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="yJGrqE" class="- topic/p ">Single-Award Indefinite-Quantity Contracts greater than $112M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="sbBZJU" outputclass=" Ctr" class="- topic/p ">Legal, SOF AT&amp;L-KB, &amp; HCA</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OgZxoi" outputclass=" Ctr" class="- topic/p ">SPE</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jIEwKg" class="- topic/p ">Award Fee Contracts</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="eAbjVA" outputclass=" Ctr" class="- topic/p ">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FVHsZO" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uoQrXs" class="- topic/p ">Incentive Fee Contracts</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TUkoRP" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ncZLja" outputclass=" Ctr" class="- topic/p ">FCO<sub class="+ topic/ph hi-d/sub ">1</sub>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="GvzcAG" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Attachment</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OgRitA" outputclass=" Ctr" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="duPTWh" outputclass=" Ctr" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TkansR" class="- topic/p ">Personal Services Contract</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VrqVVF" outputclass=" Ctr" class="- topic/p ">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zeXUbP" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jTaSWe" class="- topic/p ">Undefinitized Contractual Action (UCA)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jMWblG" outputclass=" Ctr" class="- topic/p ">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YVpQWy" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="berjvL" class="- topic/p ">Contracts or orders with T&amp;M or LH CLINs (greater than $1M OR greater than 3 yrs)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FocYAE" outputclass=" Ctr" class="- topic/p ">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="fLjHpO" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ikRMax" class="- topic/p ">Contracts or orders with T&amp;M or LH CLINs (less than or equal to $1M AND less than or equal to 3 yrs)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="fXFYUF" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="lNIBsO" outputclass=" Ctr" class="- topic/p ">FCO<sub class="+ topic/ph hi-d/sub ">2</sub>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="uoDpcW" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">3. Justification and Approvals (J&amp;As), Brand Name Justifications, and Exception to Fair Opportunity</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IFHPFC" class="- topic/p ">
+                        <ph class="- topic/ph ">
+                           <u class="+ topic/ph hi-d/u ">Equal to or less than</u>
+                           <u class="+ topic/ph hi-d/u ">SAT</u>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ySjDiB" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ihzhWN" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="XDyGsr" class="- topic/p ">
+                        <ph class="- topic/ph ">
+                           <u class="+ topic/ph hi-d/u ">Greater than</u>
+                           <u class="+ topic/ph hi-d/u ">SAT</u>
+                           <u class="+ topic/ph hi-d/u ">but less than $700,000</u>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="JRBtGV" outputclass=" Ctr" class="- topic/p ">Legal</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DllafG" outputclass=" Ctr" class="- topic/p ">PAAC</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="HcdlWb" class="- topic/p ">Equal to or greater than $700,000 but less than $13.5M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VKahbw" outputclass=" Ctr" class="- topic/p ">FCO, Legal, SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wtIoof" outputclass=" Ctr" class="- topic/p ">AAC</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="GXYyBe" class="- topic/p ">Equal to or greater than $13.5M, but less than $93M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cOSgSl" outputclass=" Ctr" class="- topic/p ">FCO, Legal, SOF AT&amp;L-KB, &amp; AAC</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="qwMTBt" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="bFqalw" class="- topic/p ">Equal to or greater than $93M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oxactG" outputclass=" Ctr" class="- topic/p ">FCO, Legal, SOF AT&amp;L-KB, AAC, &amp; HCA</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="rppwkY" outputclass=" Ctr" class="- topic/p ">SPE</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="wcXLBH" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">4. Requests for Proposals, Invitations for Bids, and Requests for Quotes</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="BUAEJj" class="- topic/p ">Equal to or less than SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="SGcFMg" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gHtBCF" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="WxbTGP" class="- topic/p ">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZjfdgE" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xXFJrU" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="OSNNzV" class="- topic/p ">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cXpKud" outputclass=" Ctr" class="- topic/p ">Legal</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="waVdNN" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="rGSKMS" class="- topic/p ">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gHNiXH" outputclass=" Ctr" class="- topic/p ">Legal &amp; FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="encUeQ" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="LirWDb" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">5. Business Clearance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="Wrynuu" class="- topic/p ">Equal to or less than SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XNEUTT" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="NiXHBa" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="OotnIp" class="- topic/p ">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VcwpGY" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="bkUbHV" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="mBACKr" class="- topic/p ">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ItzRCR" outputclass=" Ctr" class="- topic/p ">Legal</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="fjfswT" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="nGEyuy" class="- topic/p ">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="eZrKEZ" outputclass=" Ctr" class="- topic/p ">Legal &amp; FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="Koatmd" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="eAZWSP" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">6. Contract Clearance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="VXVhAs" class="- topic/p ">Equal to or less than SAT</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RBGqHT" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DxBUID" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gLrCZp" class="- topic/p ">Greater than SAT but less than $750,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hkwiUL" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xryJxv" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uBaJdH" class="- topic/p ">Equal to or greater than $750,000 but less than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="rDurDh" outputclass=" Ctr" class="- topic/p ">Legal</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cAuLEI" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ddfUhE" class="- topic/p ">Equal to or greater than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="mkYXaf" outputclass=" Ctr" class="- topic/p ">Legal &amp; FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MjGlLQ" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="mxcnEp" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">7. Source Selection or Evaluation Plans</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="qfWVpE" class="- topic/p ">Equal to or less than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="juKtmZ" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OKEiab" outputclass=" Ctr" class="- topic/p ">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="pMEsGh" class="- topic/p ">Greater than $1M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="rzzWcL" outputclass=" Ctr" class="- topic/p ">Legal &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="aqaDYL" outputclass=" Ctr" class="- topic/p ">SSA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="LYQRBq" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">8. Ratifications</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="CZMsgM" class="- topic/p ">Equal to or less than $25,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xXCzqm" outputclass=" Ctr" class="- topic/p ">KO &amp; Legal</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hyDAIT" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TDWXLu" class="- topic/p ">Greater than $25,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MnXkiT" outputclass=" Ctr" class="- topic/p ">Legal, FCO &amp; SOF AT&amp;L-KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FdVqmJ" outputclass=" Ctr" class="- topic/p ">HCA</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="elzVyz" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">9. Terminations</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="dnciZZ" class="- topic/p ">Termination for Default</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dZfxFM" outputclass=" Ctr" class="- topic/p ">Legal &amp; FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ndVBpr" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="JGGLRw" class="- topic/p ">Termination for Convenience (equal to or less than the SAT)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GttURY" outputclass=" Ctr" class="- topic/p ">KO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="UWcJuu" outputclass=" Ctr" class="- topic/p ">FCO</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="BrlRxI" class="- topic/p ">Termination for Convenience (greater than the SAT)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kjeZpY" outputclass=" Ctr" class="- topic/p ">Legal &amp; FCO</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="bxvXxU" outputclass=" Ctr" class="- topic/p ">SOF AT&amp;L-KB</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="yQsLtm" class="- topic/p ">
+                        <sub class="+ topic/ph hi-d/sub ">1</sub> When the FCO is also the KO, approval authority is one level above the FCO.</p>
+                     <p id="OsovCf" class="- topic/p ">
+                        <sub class="+ topic/ph hi-d/sub ">2</sub> When the FCO is also the KO, the approval authority will be the HCA.</p>
+                     <p id="RoPTzI" class="- topic/p ">NOTE: The USSOCOM Acquisition Executive/Senior Procurement Executive (AE/SPE) designates as, and delegates the duties of, the USSOCOM Agency Advocate for Competition (AAC) to the Deputy Director of Procurement, and the Procuring Activity Advocate for Competition (PAAC) to each Division Chief of SOF AT&amp;L-KF/KH/KP/KW/KI/KR/KS and Field Contracting Office Chiefs.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

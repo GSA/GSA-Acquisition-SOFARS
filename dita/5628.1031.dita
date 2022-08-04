@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5628.1031"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5628.103-1</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="iuRChv" outputclass="Normal" class="- topic/p ">Any decision to require performance and payment bonds for supply or service contracts must be approved by the Chief, Contracting Office, shall be obtained prior to issuance of the solicitation. The contract file will contain complete documentation of the rationale for the decision to require bonds.</p>
+   </conbody>
+</concept>

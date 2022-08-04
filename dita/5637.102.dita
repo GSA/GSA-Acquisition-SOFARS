@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5637.102"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5637.102</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="mXssZg" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised August 2016)</i>
+      </p>
+      <p id="p_BM37_102" class="- topic/p ">(a) See <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5609.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5609.901</u>
+         </xref> for Guidance on Contractors in the Federal Workplace.</p>
+      <p id="CvKSEn" class="- topic/p ">(b) Acquisition of Services shall be in accordance with DoD Instruction 5000.74. The Senior Services Manager (SSM) for USSOCOM has delegated the decision authority for Service Category V acquisitions (estimated total value of the SAT or more but less than $10M) to the Component and Theater Special Operations Command (TSOC) level, unless otherwise directed. Components and TSOC contracting offices shall ensure requiring activities obtain service acquisition approval IAW local procedures. The contract file shall contain the approved acquisition strategy.</p>
+      <p id="stZigc" outputclass="List2" class="- topic/p ">(1) To ensure effective management, planning, and execution of services acquisitions at the Component/TSOC level, SOF AT&amp;L-KM will pull quarterly reports for submission to PEO-SV. As part of the oversight in services acquisitions for USSOCOM, the SSM or designee may participate in milestone decision briefs, execution reviews, and/or Procurement Management Reviews.</p>
+   </conbody>
+</concept>

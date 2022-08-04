@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5606.30390.1"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5606.303-90.1</ph> Amended J&amp;A (Changes/Increases/Decreases).</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="QPMxUU" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2018)</i>
+      </p>
+      <p id="RckrmN" class="- topic/p ">(a) A document entitled, "Amendment to Justification and Approval for Other than Full and Open Competition," may be prepared in lieu of a new J&amp;A using the same paragraph designations as the basic J&amp;A. Paragraphs of the basic J&amp;A not affected by the amendment should be annotated, "No Change." Multiple amendments should be numbered sequentially. Changes from the approved J&amp;A should be clearly identified. The Contracting Officer shall submit a copy of the basic J&amp;A along with the amended J&amp;A to the appropriate approval level as listed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Attachment 5601-1</u>
+         </xref>. A signed J&amp;A must be completed prior to award of the subject contract action.</p>
+      <p id="pcyUWr" class="- topic/p ">(b) The Contracting Officer shall amend the J&amp;A and obtain approval at the required level (<xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Attachment 5601</u>
+            <u class="+ topic/ph hi-d/u ">-</u>
+            <u class="+ topic/ph hi-d/u ">1</u>
+         </xref>) prior to awarding the contract, after contract award, or issuing a modification if any of the following circumstances occur:</p>
+      <p id="fBAeYi" outputclass="List2" class="- topic/p ">(1) An increase resulting in an out of scope determination that was not originally contemplated in the J&amp;A (Note: If the RAO or KO need flexibility to approve an increase in quantity or price without amending the approved J&amp;A, the specific flexibilities desired (i.e. 20% variation) must be addressed in the original J&amp;A).</p>
+      <p id="VRiBFN" outputclass="List2" class="- topic/p ">(2) The negotiated price increase causes the approval level authority to rise to a higher level. The approval authority may recommend changes to the J&amp;A and the contracting officer may accomplish these changes, or any other changes, by submitting change pages to the approval authority for inclusion in the final document.</p>
+      <p id="IhHARd" outputclass="List2" class="- topic/p ">(3) There is a change in the competitive strategy that would further reduce competition (Note: The KO shall jointly determine the impact of changes to the acquisition strategy with the contract attorney to ensure the change does not restrict competition or require a change to the justification).</p>
+      <p id="IOjosR" outputclass="Normal" class="- topic/p ">There is a modification to the requirement that changes the basis for the justification. If the new effort is outside the scope of the original J&amp;A, the contracting officer shall submit an amended J&amp;A to the appropriate approving authority. The contracting action cannot be awarded until the amended J&amp;A is approved.</p>
+      <p id="MhRdFv" class="- topic/p ">(c) If the statutory authority for other than full and open competition is no longer applicable, or a different statutory authority now applies, a new J&amp;A shall be completed.</p>
+   </conbody>
+</concept>

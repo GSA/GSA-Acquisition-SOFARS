@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5623.404"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5623.404</ph> Agency Affirmative Procurement Programs.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="xtVghB" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised</i>
+         <i class="+ topic/ph hi-d/i ">February 2007</i>
+         <i class="+ topic/ph hi-d/i ">)</i>
+      </p>
+      <p id="azFvPB" class="- topic/p ">(a) Each contracting office shall refer to the Affirmative Procurement Plan (APP) (i.e. Green Procurement Plan (GPP)) of its host base for guidance on the promotion, compliance, and preference for use of recovered materials. Web sites for Army, Air Force, and Navy APPs can be found in the USSOCOM Desktop Resource Center (DCG).</p>
+      <p id="UFxsnh" class="- topic/p ">(c) <ph id="fkkaq0e35" rev="change Please" class="- topic/ph ">The Defense Acquisition University Government Purchase</ph> Card (GPC) tutorial provides USSOCOM approving officials and cardholders with guidance on the purchase of EPA-designated products at or below the micro-purchase threshold as required by FAR.</p>
+   </conbody>
+</concept>

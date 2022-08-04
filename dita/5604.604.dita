@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5604.604"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5604.604</ph> Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="dquZfi" class="- topic/p ">(a)(4)</p>
+      <p id="CQlCau" outputclass="List4" class="- topic/p ">(A) Unless notified otherwise, contracting offices must use the Procurement Desktop-Defense (PD2) contract reporting system to enter individual Contract Action Reports (CARs). Users shall enter all contract actions and operate PD2 in accordance with USSOCOM Policy Memorandum 08-01, “Standard Procurement System Usage” dated October 1, 2007, and any Department of Defense and Federal level business rules.</p>
+      <p id="gdHyDI" outputclass="List4" class="- topic/p ">(B) Data entered into PD2 will be used to create a CAR in the Federal Procurement Data System-Next Generation (FPDS-NG). Once created, all other reporting actions will be done in FPDS-NG.</p>
+      <p id="tAujiY" outputclass="List4" class="- topic/p ">(C) Office Chiefs not required to use FPDS-NG will continue using the web-based Electronic Contracting Information Transfer System (ECITS) to complete the Individual Contracting Action Report.</p>
+      <p id="UrBLng" outputclass="List4" class="- topic/p ">(D) Circumstances that may warrant a waiver and the applicable waiver procedures are found in paragraph 7(a)(3) of the Policy Memorandum 08-01. The SPS Usage Waiver can be found in the DCG.</p>
+   </conbody>
+</concept>

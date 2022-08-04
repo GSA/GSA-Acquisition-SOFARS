@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5629"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">Part 5629</ph> - TAXES</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5629.4.dita#SOFARS_SUBPART_5629.4"
+                        class="- topic/xref ">Subpart 5629.4 - CONTRACT CLAUSES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5629.401.dita#SOFARS_5629.401"
+                              class="- topic/xref ">5629.401 Domestic Contracts</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5629.4016.dita#SOFARS_5629.4016"
+                                    class="- topic/xref ">5629.401-6 Gross Receipts and Compensating Tax</xref>
+                           </p>
+                           <ul otherprops="TOC" class="- topic/ul ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p ">
+                                    <xref outputclass="fm:TOC"
+                                          href="5629.401690.dita#SOFARS_5629.401690"
+                                          class="- topic/xref ">5629.401-6-90 Procedures for authorizing the use of FAR 52.22910, State of New Mexico Gross Receipts and Compensating Tax</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5616.505"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5616.505</ph> Ordering.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="aGTXOc" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised</i>
+         <i class="+ topic/ph hi-d/i ">February 2007</i>
+         <i class="+ topic/ph hi-d/i ">)</i>
+      </p>
+      <p id="QjGshK" class="- topic/p ">(a)</p>
+      <p id="JLFwKY" outputclass="List2" class="- topic/p ">(2) Contracting and ordering officers shall document the delivery/task order file with the specific paragraph from the Statement of Work (SOW) that applies to the requirement.</p>
+      <p id="hJiEIA" outputclass="List2" class="- topic/p ">(5) When issuing an order under an IDIQ contract, a separate file or a separate section within the contract file, shall be established and contain all supporting documents of the order in a centralized location. Contracting officers will ensure that all data relevant to the delivery order is contained in the file.</p>
+   </conbody>
+</concept>

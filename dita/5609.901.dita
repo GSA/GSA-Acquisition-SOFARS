@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5609.901"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5609.901</ph> Guidance.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised March 2009)</i>
+      </p>
+      <p outputclass="Normal" class="- topic/p ">Contractors in the Federal workplace are an integral part of the USSOCOM team.  However, they are not Government employees; therefore, guidance is provided in the DCG for USSOCOM staffs that utilize contractors in the workplace.</p>
+      <p outputclass="Normal" class="- topic/p ">HQ, United States Special Operations CommandSpecial Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p outputclass="Normal" class="- topic/p ">SOFARS 5609</p>
+      <p outputclass="Normal" class="- topic/p ">February 2007</p>
+   </conbody>
+</concept>

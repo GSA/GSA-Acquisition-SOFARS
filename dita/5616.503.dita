@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5616.503"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5616.503</ph> Requirements Contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">A written Determination and Findings (D&amp;F) approved by the Head of the Contracting Activity (HCA) is required prior to awarding any requirements contracts for HQ, USSOCOM, its components, or subordinate units.  The D&amp;F must address the significant benefits derived by the Government of awarding a requirements contract vice an indefinite quantity contract.  The D&amp;F must also address the enhanced competition for task and delivery order contract requirements provided in Section 843 of the National Defense Authorization Act for Fiscal Year 2008, as enacted by Public Law 110-181 (reference 23 May 2008 DPAP Memorandum).</p>
+   </conbody>
+</concept>

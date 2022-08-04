@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5609.5071"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5609.507-1</ph> Solicitation Provisions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised May 2013)</i>
+      </p>
+      <p outputclass="Normal" class="- topic/p ">(a) Contracting officers shall insert a provision substantially the same as <xref href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external"
+               format="docx"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5652.209-9002</u>
+         </xref>, Use of Contractor Support/Advisory Personnel for Review of Proposals, in solicitations when the possibility exists that contractor support/advisory services will be used in the proposal evaluation process.</p>
+   </conbody>
+</concept>

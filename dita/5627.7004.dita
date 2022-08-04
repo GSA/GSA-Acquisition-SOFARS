@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5627.7004"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5627.7004</ph> Requirements for Filing an Administrative Claim for Patent Infringements.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="BAnOce" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised July 2010)</i>
+         <i class="+ topic/ph hi-d/i ">(Revised September 2013-reorganization)</i>
+      </p>
+      <p id="wJlVMm" class="- topic/p ">(a) All contracting offices shall acknowledge receipt of patent right allegations and then forward a copy of the documents to SOF AT&amp;L-KM/KX/KB as appropriate, and legal counsel.</p>
+      <p id="DOtuFD" outputclass="Normal" class="- topic/p "/>
+      <p id="8h78ufir" outputclass="Normal" class="- topic/p ">
+         <ph id="ejo1upi" rev="change Please" class="- topic/ph ">HQ,</ph> United States Special Operations Command</p>
+      <p id="QsaQOR" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="NrUShs" outputclass="Normal" class="- topic/p ">SOFARS 5627</p>
+      <p id="COdtMt" outputclass="Normal" class="- topic/p ">February 2007</p>
+   </conbody>
+</concept>

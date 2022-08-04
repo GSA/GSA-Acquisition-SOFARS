@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5604.403"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5604.403</ph> Responsibilities of contracting officers.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="p_BM5604_403a" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2021)</i>
+      </p>
+      <p id="HPujOm" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">(Removed August 2017)</i>
+      </p>
+      <p id="p_BM5" class="- topic/p ">(b) For HQ Divisions, all requests for disclosure of information in accordance with <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-252-%E2%80%93-clauses"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DFARS 252.204-7000</u>
+         </xref>, shall be coordinated with the Program Manager, SOPA, SOF AT&amp;L-AS-J2X, SCSO-J2X-RPT, SOF AT&amp;L-AS, and SOJA-AQ. All cyber security breaches shall be reported to SCSO-J2X-RPT and SOF AT&amp;L-AS. All other field contracting offices shall coordinate requests for disclosure of information and reporting of cyber security breaches in accordance with local procedures. At a minimum, the coordination of disclosure of information requests shall include the Program Manager/Requiring Activity, SOJA-AQ, and local OPSEC.</p>
+      <p id="xsWmBE" class="- topic/p ">(c) To ensure appropriate control of classified material within the contracting office, no foreign firm or individual will be added to any source list, which may, at present or eventually, require or permit access to classified material during any phase of procurement without the written concurrence of the contracting office's servicing Security Management Office.</p>
+   </conbody>
+</concept>

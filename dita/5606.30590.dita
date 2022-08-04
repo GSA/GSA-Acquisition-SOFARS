@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5606.30590"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5606.305-90</ph> Public Disclosure of J&amp;A Documents for Noncompetitive Contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="OcEkRh" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Added June 2010)</i>
+      </p>
+      <p id="CmpoxP" class="- topic/p ">In accordance with FAR <xref format="html"
+               href="https://www.acquisition.gov/content/part-6-competition-requirements"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">6.305</u>
+         </xref>, contracting officers are required to post J&amp;As for noncompetitive contracts to theContract Opportunities in<xref format="html"
+               href="https://beta.sam.gov/opp/workspace"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u "/>
+            <u class="+ topic/ph hi-d/u ">beta.SAM</u>
+         </xref>.</p>
+      <p id="MnbgvA" class="- topic/p ">(c)Contracting officers must ensure that an adequate Operational Security (OPSEC) review was conducted prior to posting.</p>
+      <p id="eQkJeZ" class="- topic/p ">(d)Follow the procedures in the DCG for posting J&amp;As to <xref format="html"
+               href="https://beta.sam.gov/opp/workspace"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">beta.SAM</u>
+         </xref>.</p>
+   </conbody>
+</concept>

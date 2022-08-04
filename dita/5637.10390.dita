@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5637.10390"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5637.103-90</ph> Contracting Officer Responsibility.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="aotABt" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised August 2016)</i>
+      </p>
+      <p id="KWDfOj" class="- topic/p ">See <xref format="html"
+               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/37.htm"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">FAR 37.103(e)</u>
+         </xref> for reporting requirements.</p>
+   </conbody>
+</concept>

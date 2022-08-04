@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5604.7107"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5604.7107</ph> Contract Accounting Classification Reference Number (ACRN).</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="vlzuCN" class="- topic/p ">(a)</p>
+      <p id="HdtVzs" outputclass="List2" class="- topic/p ">(1) Contracts, task orders, and delivery orders under indefinite delivery contracts or basic ordering agreements, must not contain more than one fund cite from the same congressional funding line except as provided in Paragraph (2).</p>
+      <p id="XcNJgy" outputclass="List2" class="- topic/p ">(2) Multiple fund cites from the same congressional funding line may be used in situations where it is needed to comply with one of the following requirements:</p>
+      <p id="opcfrp" outputclass="List3" class="- topic/p ">(i) Congressionally mandated reporting requirements contained in regulation or congressional committee reports.</p>
+      <p id="NIYKox" outputclass="List3" class="- topic/p ">(ii) Information specifically required in the DOD Financial Management Regulation.</p>
+      <p id="hyAEaM" outputclass="List3" class="- topic/p ">(iii) Information specifically required in a Program Objective Memorandum or budget guidance signed by the Under Secretary of Defense (Comptroller) (USD(C)), or the Director Program Analysis and Evaluation.</p>
+      <p id="LoDbQB" outputclass="List3" class="- topic/p ">(iv) Information identified in writing by the USD(C) as necessary to prepare the department's annual audited financial statements.</p>
+      <p id="lEDqVZ" outputclass="List3" class="- topic/p ">(v) Information required by the Office of Management and Budget, Department of Treasury, or other federal agency when the requirement is contained in a signed policy directive issued by the applicable agency.</p>
+      <p id="NuCzcl" outputclass="List2" class="- topic/p ">(3) Use of multiple fund cites not falling within the requirements of paragraph (2) above must be approved by the Commander, United States Special Operations Command, and the Director of Defense Procurement, Office of the Under Secretary of Defense (Acquisition &amp; Technology). This authority must not be delegated. Request for approval must be submitted through the Director of Procurement (DOP). The approval document must be included in the contract file.</p>
+      <p id="p_BM803_91" outputclass="Normal" class="- topic/p "/>
+      <p id="hcpBJw" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
+      <p id="ciYyeA" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="FwgHSa" outputclass="Normal" class="- topic/p ">SOFARS 5604</p>
+      <p id="UqELDu" outputclass="Normal" class="- topic/p ">February 2007</p>
+   </conbody>
+</concept>

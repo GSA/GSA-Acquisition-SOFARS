@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-1.2k"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title id="yWqZWT" outputclass="Ctr 2 heading" class="- topic/title ">
+      <ph id="vEMDA2" props="autonumber" class="- topic/ph ">Attachment 5601-1.2 k</ph> Table Of Contents</title>
+   <conbody id="jmR8qe" class="- topic/body  concept/conbody ">
+      <table colsep="1" id="oe1WMw" rowsep="1" class="- topic/table ">
+         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="p_s01_22l" outputclass=" Ctr" class="- topic/p ">
+                        <b id="T1QFfA" class="+ topic/ph hi-d/b ">ACQUISITION STRATEGY FOR SERVICE</b>
+                        <ph id="0JCK4I" class="- topic/ph ">– September 2018</ph>
+                     </p>
+                     <p id="y8DHOj" outputclass=" Ctr" class="- topic/p ">
+                        <b id="YdmRxP" class="+ topic/ph hi-d/b ">All Offices</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="sRTiUb" class="- topic/p ">1) IAW DoDI 5000.74 the decision authority or designee listed below will be responsible for the review and approval of the acquisition strategy. The Senior Service Manager (SSM) is PEO-SV. PEO or DPEO for service acquisitions assigned to a respective PEO, may approve acquisition strategies.</p>
+                     <p id="V7hw26" class="- topic/p ">2) For TAKO, the approval authority is AMCOM Director, Special Programs (Aviation). For acquisitions exceeding $85.5M that are not performance-based, see SOFARS 5637.170-2.</p>
+                     <p id="lEP3Cy" class="- topic/p ">3) For those acquisitions that require a formal written acquisition plan as delineated in DFARS 207.103, a separate acquisition plan is not required if the acquisition strategy includes the contents of written acquisition plans (FAR 7.105 and PGI 207.105), as applicable.</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="a21E9C" outputclass=" Ctr" class="- topic/p ">
+                        <b id="kYbvlx" class="+ topic/ph hi-d/b ">S-CAT</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="Wrjl3j" outputclass=" Ctr" class="- topic/p ">
+                        <b id="nHiPAc" class="+ topic/ph hi-d/b ">REVIEW</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jqzOhp" outputclass=" Ctr" class="- topic/p ">
+                        <b id="kdnmfZ" class="+ topic/ph hi-d/b ">APPROVAL</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="zVgbHy" class="- topic/p ">
+                        <b id="5xXo3e" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">S-CAT V</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jHEsfz" class="- topic/p ">Acquisitions of services with an estimated total value of the SAT or more, but less than $10M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TH7623" outputclass=" Ctr" class="- topic/p ">
+                        <ph id="4gEw8t" class="- topic/ph ">KO</ph>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="7zR8FL" class="- topic/p ">The SSM has delegated approval to the component level. See SOFARS 5637.102.</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="MM6lk4" class="- topic/p ">
+                        <b id="OzT00f" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">S-CAT IV</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="SeTNpj" class="- topic/p ">Acquisitions of services with an estimated total value of $10M or more, but less than $100M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OTUw5z" outputclass=" Ctr" class="- topic/p ">HCD/FCO, Legal, &amp; SOF AT&amp;L-KM/KX/KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OmOiim" outputclass=" Ctr" class="- topic/p ">SSM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="szZ9X2" class="- topic/p ">
+                        <b id="tBiCyU" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">S-CAT III</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="VKmhwP" class="- topic/p ">Acquisitions of services with an estimated total value of $100M or more, but less than $250M</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="T6itL0" outputclass=" Ctr" class="- topic/p ">HCD/FCO, Legal, &amp; SOF AT&amp;L-KM/KX/KB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zopK95" outputclass=" Ctr" class="- topic/p ">SSM</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="HzUfpx" class="- topic/p ">
+                        <b id="Xdt448" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">S-CAT II</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="oiP4nU" class="- topic/p ">Acquisitions of services with an estimated total value of $250M or more, but less than $1B</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="L30r8Z" outputclass=" Ctr" class="- topic/p ">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="erlufi" outputclass=" Ctr" class="- topic/p ">Acquisition Executive</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="jLGZpk" class="- topic/p ">
+                        <b id="HFW119" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">Special Interest</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="XDJeZY" class="- topic/p ">As designated by the USD(AT&amp;L)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="SRZLI8" outputclass=" Ctr" class="- topic/p ">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OZhnFC" outputclass=" Ctr" class="- topic/p ">USD(AT&amp;L)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="3" namest="1" class="- topic/entry ">
+                     <p id="gzC5Kt" class="- topic/p ">
+                        <b id="yYpvwk" class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">S-CAT I</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="9cv6BF" class="- topic/p ">Any acquisition of services with an estimated total value of $1B or more than $300M in any one year</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XH6R7V" outputclass=" Ctr" class="- topic/p ">HCD/FCO, Legal, SOF AT&amp;L-KM/KX/KB, &amp; SSM</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ITd9Ta" outputclass=" Ctr" class="- topic/p ">USD(AT&amp;L)</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

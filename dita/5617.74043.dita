@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5617.74043"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5617.7404-3</ph> Definitization Schedule.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="CNMSzg" class="- topic/p ">(a)</p>
+      <p id="BDueEO" outputclass="List2" class="- topic/p ">(3) A request to exceed the limitations of the definitization schedule of an UCA beyond the dates established in <xref format="html"
+               href="https://www.acquisition.gov/dfars/special-contracting-methods"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DFARS 217.7404-3(a)</u>
+         </xref> shall be submitted for approval to the HCA.</p>
+      <p id="hvNdmI" outputclass="List2" class="- topic/p ">(4) The request shall include a statement detailing the actions taken to enforce the milestone schedule. If applicable, provide a detailed explanation of any government caused delay or any government action resulting in a substantial contribution to the delay.</p>
+      <p id="QbEyIU" outputclass="Normal" class="- topic/p "/>
+      <p id="gso0k9gc" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
+      <p id="8h4gpgdn" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
+      <p id="gMNzOT" outputclass="Normal" class="- topic/p ">SOFARS 5617</p>
+      <p id="gwFDbQ" outputclass="Normal" class="- topic/p ">February 2007</p>
+   </conbody>
+</concept>

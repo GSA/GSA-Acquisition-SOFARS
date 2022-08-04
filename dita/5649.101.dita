@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5649.101"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5649.101</ph> Authorities and Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="qEUjHk" class="- topic/p ">(f) Contracting officers shall coordinate termination actions as necessary with the servicing Defense Contract Management Agency (DCMA) office and request in writing that DCMA perform the Termination Contracting Officer (TCO) functions in accordance with <xref format="html"
+               href="https://www.acquisition.gov/content/part-49-termination-contracts"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">FAR 49.105</u>
+         </xref>.</p>
+   </conbody>
+</concept>

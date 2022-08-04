@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.2011"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5601.201-1</ph> The Two Councils.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="PraXPb" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2021))</i>
+      </p>
+      <p id="DCRPea" class="- topic/p ">(d)</p>
+      <p id="pqPrYp" outputclass="List2" class="- topic/p ">(1) The Procurement Management Division (SOF AT&amp;L-KM) is the focal point for all matters pertaining to FAR, DFARS, and SOFARS. <b class="+ topic/ph hi-d/b ">DCG</b>
+      </p>
+      <p id="Lfzxcx" outputclass="List2" class="- topic/p ">(2) Follow the procedures found in the DCG for submitting FAR, DFARS, or SOFARS change requests. Proposed changes must include all supporting documentation and be self-sustaining.</p>
+   </conbody>
+</concept>

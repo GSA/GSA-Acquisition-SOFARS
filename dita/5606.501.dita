@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5606.501"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5606.501</ph> Requirement.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="qiZERS" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised November 2018)</i>
+      </p>
+      <p id="iFqaAB" class="- topic/p ">(a)The USSOCOM Acquisition Executive/Senior Procurement Executive (AE/SPE) designates as, and delegates the duties of, the USSOCOM Agency Advocate for Competition (AAC) to the Deputy Director of Procurement, and the Procuring Activity Advocate for Competition (PAAC) to each Division Chief of SOF AT&amp;L-KH/KI/KW/KP/KR/KS/KF and Field Contracting Office Chief with the exception of WARCOM. The N01C Deputy is the PAAC for WARCOM. These duties are not delegable.</p>
+      <p id="iUuBvW" outputclass="Normal" class="- topic/p "/>
+      <p id="swZadb" outputclass="Normal" class="- topic/p ">HQ, United States Special Operations Command</p>
+      <p id="iAnovS" outputclass="Normal" class="- topic/p ">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
+      <p id="oqBmso" outputclass="Normal" class="- topic/p ">SOFARS 5606</p>
+      <p id="sBgAvs" outputclass="Normal" class="- topic/p ">February 2007</p>
+   </conbody>
+</concept>

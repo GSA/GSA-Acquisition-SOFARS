@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5611.27490"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5611.274-90</ph> Item Unique Item Identification (IUID)/Unique Item Identifier (UII) and Military Equipment Evaluation (MEV).</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="YZRupv" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised December 2015)</i>
+      </p>
+      <p id="MPcScA" outputclass="Normal" class="- topic/p ">It is USSOCOM policy that IUIDs or DOD recognized UID equivalents, shall be incorporated in solicitations and contracts in accordance with <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-211-%E2%80%93-describing-agency-needs"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DFARS 211.274</u>
+         </xref>. DFARS clause <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-252-%E2%80%93-clauses"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">252.211-7003</u>
+         </xref> shall be incorporated into any solicitation and contract for procurement of tangible assets as directed by the Program Manager in the procurement request package.</p>
+      <p id="uBrRrg" outputclass="Normal" class="- topic/p ">In accordance with <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-211-%E2%80%93-describing-agency-needs"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DFARS 211.274-3,</u>
+         </xref> contractors shall be required to identify the Government’s unit acquisition cost for all items delivered, even if none of the criteria for placing a unique item identification mark applies. <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-252-%E2%80%93-clauses"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">DFARS 252.211-7003(a)</u>
+         </xref> defines unit acquisition cost.</p>
+      <p id="kNTBQJ" outputclass="Normal" class="- topic/p ">Follow procedures found in the DCG for IUID/UII and MEV.</p>
+   </conbody>
+</concept>

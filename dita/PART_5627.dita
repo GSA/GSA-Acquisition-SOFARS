@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5627"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 5627</ph> - PATENTS, DATA, AND COPYRIGHTS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5627.3.dita#SOFARS_SUBPART_5627.3"
+                        class="- topic/xref ">Subpart 5627.3 - PATENT RIGHTS UNDER GOVERNMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5627.305.dita#SOFARS_5627.305"
+                              class="- topic/xref ">5627.305 Administration of Patent Rights.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5627.3053.dita#SOFARS_5627.3053"
+                                    class="- topic/xref ">5627.305-3 Securing invention rights acquired by the Government.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5627.70.dita#SOFARS_SUBPART_5627.70"
+                        class="- topic/xref ">Subpart 5627.70 - INFRINGEMENT CLAIMS, LICENSES, AND ASSIGNMENTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li rev="change Please" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5627.7004.dita#SOFARS_5627.7004"
+                              class="- topic/xref ">5627.7004 Requirements for Filing an Administrative Claim for Patent Infringements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

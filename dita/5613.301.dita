@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.301"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5613.301</ph> Governmentwide Commercial Purchase Card.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="GvQMrY" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2018)</i>
+      </p>
+      <p id="bLOEHd" class="- topic/p ">(b) Refer to the publication, USSOCOM Procedures for Use of the Government-wide Purchase Card (GPC), for procedures on the use and control of the card.</p>
+      <p id="p_BM301c" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">(Removed June 2018)</i>
+      </p>
+   </conbody>
+</concept>

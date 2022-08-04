@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5615"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">Part 5615</ph> - CONTRACTING BY NEGOTIATION</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5615.001.dita#SOFARS_5615.001"
+                        class="- topic/xref ">5615.001 Definitions.</xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.1.dita#SOFARS_SUBPART_5615.1"
+                        class="- topic/xref ">Subpart 5615.1 - SOURCE SELECTION PROCESS AND TECHNIQUES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.1012.dita#SOFARS_5615.1012"
+                              class="- topic/xref ">5615.101-2 Lowest Price Technically Acceptable Source Selection Process</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.101270.dita#SOFARS_5615.101270"
+                                    class="- topic/xref ">5615.101-2-70 Limitations and Prohibitions</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.2.dita#SOFARS_SUBPART_5615.2"
+                        class="- topic/xref ">Subpart 5615.2 - SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.209.dita#SOFARS_5615.209"
+                              class="- topic/xref ">5615.209 Solicitations Provisions and Contract Clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.3.dita#SOFARS_SUBPART_5615.3"
+                        class="- topic/xref ">Subpart 5615.3 - SOURCE SELECTION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.300.dita#SOFARS_5615.300"
+                              class="- topic/xref ">5615.300 Scope of Subpart</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.303.dita#SOFARS_5615.303"
+                              class="- topic/xref ">5615.303 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.305.dita#SOFARS_5615.305"
+                              class="- topic/xref ">5615.305 Proposal Evaluation.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.306.dita#SOFARS_5615.306"
+                              class="- topic/xref ">5615.306 Exchanges with Offerors After Receipt of Proposals.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.306-90.dita#SOFARS_5615.306-90"
+                                    class="- topic/xref ">5615.306-90 Award without Discussion.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.307.dita#SOFARS_5615.307"
+                              class="- topic/xref ">5615.307 Proposal Revisions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.308.dita#SOFARS_5615.308"
+                              class="- topic/xref ">5615.308 Source Selection Decision.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.390.dita#SOFARS_5615.390"
+                                    class="- topic/xref ">5615.3-90 Solicitation Provisions and Contract Clauses.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.371.dita#SOFARS_5615.371"
+                              class="- topic/xref ">5615.371 Only one offer.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.4.dita#SOFARS_SUBPART_5615.4"
+                        class="- topic/xref ">Subpart 5615.4 - CONTRACT PRICING</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.404.dita#SOFARS_5615.404"
+                              class="- topic/xref ">5615.404 Proposal Analysis.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.4041.dita#SOFARS_5615.4041"
+                                    class="- topic/xref ">5615.404-1 Proposal Analysis Techniques.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.40470.dita#SOFARS_5615.40470"
+                                    class="- topic/xref ">5615.404-70 DD Form 1547, Record of Weighted Guidelines Method Application.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.406.dita#SOFARS_5615.406"
+                              class="- topic/xref ">5615.406 Documentation.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.4061.dita#SOFARS_5615.4061"
+                                    class="- topic/xref ">5615.406-1 Prenegotiation Objectives.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="5615.406390.dita#SOFARS_5615.406390"
+                                    class="- topic/xref ">5615.406-3-90 Documenting the Negotiation.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.408.dita#SOFARS_5615.408"
+                              class="- topic/xref ">5615.408 Solicitation Provisions and Contract Clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.5.dita#SOFARS_SUBPART_5615.5"
+                        class="- topic/xref ">Subpart 5615.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.503.dita#SOFARS_5615.503"
+                              class="- topic/xref ">5615.503 Notifications to Unsuccessful Offerors.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.505.dita#SOFARS_5615.505"
+                              class="- topic/xref ">5615.505 Preaward Debriefing of Offerors.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.506.dita#SOFARS_5615.506"
+                              class="- topic/xref ">5615.506 Postaward Debriefing of Offerors.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5615.6.dita#SOFARS_SUBPART_5615.6"
+                        class="- topic/xref ">Subpart 5615.6 - UNSOLICITED PROPOSALS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.604.dita#SOFARS_5615.604"
+                              class="- topic/xref ">5615.604 Agency Points of Contact.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5615.606.dita#SOFARS_5615.606"
+                              class="- topic/xref ">5615.606 Agency Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5615.dita#SOFARS_5615"
+                        class="- topic/xref ">5615 ATTACHMENTS</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

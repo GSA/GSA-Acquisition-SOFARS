@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.3021"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5613.302-1</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="qVUpfX" class="- topic/p ">(a) Contracting officers must document the justification for awarding an other than firm-fixed price purchase order in the contract file.</p>
+      <p id="VFTPPg" class="- topic/p ">(b)(4) Briefly annotate the simplified acquisition file with the reason for using delivery terms other than F.O.B. destination for deliveries made within the <ph id="7hg9r2up" rev="change Please" class="- topic/ph ">continental</ph> United States.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5615.001"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5615.001</ph> Definitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="FgFzkK" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised February 2014)</i>
+      </p>
+      <p id="DVDlsm" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Business Clearance</i> (BC):</p>
+      <p id="vKCLHZ" outputclass="List2" class="- topic/p ">(1)The purpose of the BC for competitive acquisitions is to obtain approval from the appropriate approval authority to award without discussion or begin discussions.</p>
+      <p id="MdYHFp" outputclass="List2" class="- topic/p ">(2)The purpose of the BC for non-competitive acquisitions, negotiated modifications, and delivery or task orders is to obtain the approval to begin negotiations.</p>
+      <p id="jzoNsy" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Contract Clearance</i>:</p>
+      <p id="ioNLWd" outputclass="List2" class="- topic/p ">(1) The Contract Clearance is the approval of the negotiated business arrangement. The Contract Clearance review is accomplished after completion of negotiations and prior to the Contracting Officer signing the contract. Contract clearance shall be accomplished prior to sending the contract to the Source Selection Authority for the final SSA decision.</p>
+      <p id="eKjWEP" outputclass="List2" class="- topic/p ">(2) The requirement to obtain Contract Clearance may be waived if requested at the time the Pre-Negotiation portion of the BCM is submitted for review and no substantial changes are made to the original negotiation objective.</p>
+   </conbody>
+</concept>

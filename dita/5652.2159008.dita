@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2159008"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5652.215-9008</ph> Past Performance Data (2001) Section L</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="FfYZlL" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5615.3-90(a)</u>
+         </xref>, insert the following provision, <i class="+ topic/ph hi-d/i ">Editable and Fill-ins</i>
+      </p>
+      <p id="NcYqYh" class="- topic/p ">(a) Offerors shall identify past or current contracts with Federal, State, and local governments and private industry for efforts similar to the effort require by this solicitation. Offerors may identify up to <i class="+ topic/ph hi-d/i ">(Insert number)</i> contracts. Applicable information for each contract shall include the following:</p>
+      <p id="dbcAcl" outputclass="List2" class="- topic/p ">(1) Contract Title</p>
+      <p id="BzqcHp" outputclass="List2" class="- topic/p ">(2) Prime Contract #</p>
+      <p id="fcigUd" outputclass="List2" class="- topic/p ">(3) Federal Supply Code</p>
+      <p id="gKRaOR" outputclass="List2" class="- topic/p ">(4) Description</p>
+      <p id="DKSiUZ" outputclass="List2" class="- topic/p ">(5) Award Amount</p>
+      <p id="hlPxfg" outputclass="List2" class="- topic/p ">(6) Total Contract Value</p>
+      <p id="NSmLjH" outputclass="List2" class="- topic/p ">(7) Contract Type</p>
+      <p id="Myrqzz" outputclass="List2" class="- topic/p ">(8) Award Date</p>
+      <p id="KoCJhn" outputclass="List2" class="- topic/p ">(9) Government Contact Point</p>
+      <p id="lrTbIT" outputclass="List2" class="- topic/p ">(10) Phone Number of Contact</p>
+      <p id="MVsQGw" outputclass="List2" class="- topic/p ">(11) Deliver Date/ Period of Performance</p>
+      <p id="gJJBbz" outputclass="List2" class="- topic/p ">(12) Place of Performance</p>
+      <p id="QuDkkC" outputclass="List2" class="- topic/p ">(13) Key Subcontractors</p>
+      <p id="fvOYtB" outputclass="List2" class="- topic/p ">(14) Amount of Overrun/ Under run (if any)</p>
+      <p id="AIelFU" outputclass="List2" class="- topic/p ">(15) Reason for overrun/under run</p>
+      <p id="JTILcp" class="- topic/p ">(b) Offerors are encouraged to provide information on problems encountered on contracts and the offeror's corrective actions.</p>
+      <p id="VQAWCj" class="- topic/p ">(c) Offerors shall state in their proposal if relevant performance history is not available.</p>
+   </conbody>
+</concept>

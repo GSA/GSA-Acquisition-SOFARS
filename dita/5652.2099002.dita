@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2099002"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5652.209-9002</ph> Use of Contractor Support/Advisory Personnel for Review of Proposals (2015) Section L</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="p_BM209_9003" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised August 2015)</i>
+      </p>
+      <p id="nxlGtL" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5609.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5609.507-1</u>
+         </xref>, insert the following provision,</p>
+      <p id="beImlw" outputclass="Normal" class="- topic/p ">The offeror’s attention is directed to the fact that contractor personnel may review and provide support during proposal evaluations. When appropriate, the following contractor personnel may have access to offeror’s proposals and may be utilized to objectively review a proposal in a particular functional area and provide comments and recommendations to the Government’s decision makers. They may not establish final assessments of risk, rate or rank offerors’ proposals. All advisors shall comply with procurement Integrity Laws and shall sign Non-Disclosure and Rules of Conduct/Conflict of Interest statements. The Government shall take into consideration requirements for avoiding conflicts of interest and ensure advisors comply with safeguarding source selection and proprietary data. Submission of proposal in response to the solicitation constitutes approval to release the proposal to Government Support Contractors.</p>
+      <p id="RoAYAy" outputclass="Normal" class="- topic/p ">List applicable vendors involved in the source selection.</p>
+   </conbody>
+</concept>

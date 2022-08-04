@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2169003"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5652.216-9003</ph> Procedures for Issuing Task/Delivery Orders under Multiple Award, Indefinite DeliveryIndefinite Quantity Contracts (2020) Section H</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="zifKDt" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised June 2020)</i>
+      </p>
+      <p id="IulIVf" outputclass="Normal" class="- topic/p ">As prescribed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5616.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5616.506(b)</u>
+         </xref>, insert the following clause, <i class="+ topic/ph hi-d/i ">Editable and Fill-ins</i>
+      </p>
+      <p id="llKmiB" class="- topic/p ">(a) All multiple award contractors shall be considered for each order over $3,500, unless the Contracting Officer determines that:</p>
+      <p id="YvFgNs" outputclass="List2" class="- topic/p ">(1) The agency need for such supplies or services is of such urgency that providing such opportunity would result in unacceptable delays;</p>
+      <p id="gaHrSH" outputclass="List2" class="- topic/p ">(2) Only one such contractor is capable of providing such supplies or services required at the level of quality required because the supplies or services ordered are unique or highly specialized;</p>
+      <p id="ratMaI" outputclass="List2" class="- topic/p ">(3) The order should be issued on a sole source basis in the interest of economy and efficiency as a logical follow-on to an order already issued under the contract.</p>
+      <p id="VHhrgr" outputclass="List2" class="- topic/p ">(4) It is necessary to place an order to satisfy a minimum amount guarantee.</p>
+      <p id="KkEhCS" class="- topic/p ">(b) Unless the exceptions in paragraphs (a) above apply, the following procedures will be utilized in providing contract awardees with a fair opportunity to be considered for each order:</p>
+      <p id="KSuYmX" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(For task order service contracts)</i>
+      </p>
+      <p id="iAFxOt" outputclass="List2" class="- topic/p ">(1) The Government will request each contractor to submit a technical and/or managerial approach, if necessary, and cost/price estimate in response to a Government work statement.</p>
+      <p id="JZTmWt" outputclass="List2" class="- topic/p ">(2) The responses may be presented to the Government either orally or in writing as required by the Contracting Officer.</p>
+      <p id="rfXRLU" outputclass="List2" class="- topic/p ">(3) The Government will make an integrated assessment based on technical and/or managerial approach, estimated total cost/price, past performance in making awards under this paragraph. The Contracting Officer will issue the Task Order to the contractor who will provide the best value to the Government.</p>
+      <p id="OjxbIN" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(For supplies/equipment contracts)</i>
+      </p>
+      <p id="AApbhZ" outputclass="List2" class="- topic/p ">(1) The Government will request each contractor to submit a proposed delivery schedule and cost/price estimate in response to a Government request for quotations.</p>
+      <p id="prUNIN" outputclass="List2" class="- topic/p ">(2) The responses may be presented to the Government either orally or in writing as required by the Contracting Officer. Electronic submission is encouraged.</p>
+      <p id="ZBGyHH" outputclass="List2" class="- topic/p ">(3) The Contracting Officer will issue the Delivery Order to the contractor who will provide the best value to the Government.</p>
+      <p id="qPkeTf" class="- topic/p ">(c) Under the provisions of the Federal Acquisition Streamlining Act of 1994, as modified by the National Defense Authorization Act of Fiscal Year 2017, protests are not authorized in connection with the issuance or proposed issuance of a task/delivery order except for a protest on the grounds that the order increases the scope, period, or maximum value of the contract or, a protest of an order valued in excess of $10 million. Protests of orders in excess of $25 million. Protests of orders in excess of $25 million may only be filed with the Government Accountability Office, in accordance with the procedures at FAR 33.104.</p>
+      <p id="EdQnkB" class="- topic/p ">(d) Task and Delivery Order Ombudsman. The Task and Delivery Order Ombudsman is responsible for reviewing complaints regarding this contract. The Ombudsman shall review complaints from the contractors and ensure all contractors are afforded a fair opportunity to be considered, consistent with the procedures of the contract.</p>
+   </conbody>
+</concept>

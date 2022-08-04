@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5615.408"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5615.408</ph> Solicitation Provisions and Contract Clauses.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="iHlrmg" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised August 2017)</i>
+      </p>
+      <p id="RYEYoc" class="- topic/p ">(n) Contracting officers may include a provision substantially the same as the provision at <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5652.215-9007</u>
+         </xref>, Bill of Materials, in solicitations requiring cost analysis and the Contracting Officer wants offerors to submit a consolidated bill of materials.</p>
+      <p id="sztacr" class="- topic/p ">(o) Contracting officers may include a provision substantially the same as the provision at <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">5652.215-9010</u>
+         </xref>, Cost and Pricing Data Not Required, in solicitations when cost or pricing data is not required.</p>
+      <p id="QEWkSt" class="- topic/p ">(p) <i class="+ topic/ph hi-d/i ">(Removed August 2017)</i>
+      </p>
+      <p id="CuxWcL" class="- topic/p ">(q) <i class="+ topic/ph hi-d/i ">(Removed August 2017)</i>
+      </p>
+      <p id="mEzYSW" class="- topic/p ">(r) <i class="+ topic/ph hi-d/i ">(Removed August 2017)</i>
+      </p>
+   </conbody>
+</concept>

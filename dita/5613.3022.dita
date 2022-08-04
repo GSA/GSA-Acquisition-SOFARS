@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.3022"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5613.302-2</ph> Unpriced Purchase Orders.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="csCEBO" class="- topic/p ">(c) A certified funding document for the monetary limit of the order shall be provided prior to issuance of an unpriced purchase order.</p>
+   </conbody>
+</concept>

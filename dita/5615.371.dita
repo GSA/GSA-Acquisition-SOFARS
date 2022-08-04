@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5615.371"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5615.371</ph> Only one offer.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="YrUyBC" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Added June 2018)</i>
+      </p>
+      <p id="YQieXA" class="- topic/p ">(b) During the period August 31st through September 30th, the HCD/FCO is delegated the authority to waive the requirement at DFARS 215.371-2 to resolicit for an additional period of at least 30 days. A copy of each waiver shall be submitted to the LNO for the office no later than 15 October.</p>
+   </conbody>
+</concept>

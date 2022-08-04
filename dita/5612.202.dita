@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5612.202"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5612.202</ph> Market Research and Description of Agency Need.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="bksCmD" class="- topic/p ">(a) For acquisitions in excess of the simplified acquisition threshold, the market research report template should be completed.</p>
+   </conbody>
+</concept>
