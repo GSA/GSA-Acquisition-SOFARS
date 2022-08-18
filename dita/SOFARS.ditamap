@@ -44,8 +44,13 @@
       <topicref href="SUBPART_5601.dita" navtitle="Subpart 5601 - ATTACHMENTS" outputclass="SubPart" props="Subpart 5601" base="NoTitle" audience="SOFARS_SUBPART_5601" otherprops="" xtrf="subtopic" xtrc="SOFARS_SUBPART_5601.html" class="- map/topicref " />
    </topicref>
    <topicref href="PART_5602.dita" navtitle="Part 5602 - DEFINITIONS OF WORDS AND TERMS" outputclass="Part" props="Part 5602" base="NoTitle" audience="SOFARS_PART_5602" otherprops="" xtrf="Part" class="- map/topicref ">
-      <topicref href="SUBPART_5602.1.dita" navtitle="Subpart 5602.1 - DEFINITIONS" outputclass="SubPart" props="Subpart 5602.1" base="NoTitle" xtrf="subtopic" audience="SOFARS_SUBPART_5602.1" xtrc="SOFARS_SUBPART_5602.1.html" class="- map/topicref " />
-      <topicref href="SUBPART_5602.190.dita" navtitle="Subpart 5602.1-90 - ACRONYMS" outputclass="SubPart" props="Subpart 5602.1-90" base="NoTitle" xtrf="subtopic" audience="SOFARS_SUBPART_5602.190" xtrc="SOFARS_SUBPART_5602.190.html" class="- map/topicref " />
+      <topicref href="SUBPART_5602.1.dita" navtitle="Subpart 5602.1 - DEFINITIONS"
+         outputclass="SubPart" props="Subpart 5602.1" base="NoTitle" xtrf="SubPart"
+         audience="SOFARS_SUBPART_5602.1" xtrc="SOFARS_SUBPART_5602.1.html" class="- map/topicref ">
+         <topicref href="5602.190.dita" navtitle="Subpart 5602.1-90 - ACRONYMS"
+            outputclass="subtopic" props="5602.1-90" base="NoTitle" xtrf="No"
+            audience="SOFARS_5602.190" xtrc="SOFARS_5602.190.html" class="- map/topicref "/>
+      </topicref>
    </topicref>
    <topicref href="PART_5603.dita" navtitle="Part 5603 - IMPROPER BUSINESS PRACTICES AND PERSONAL         CONFLICTS OF INTEREST" outputclass="Part" props="Part 5603" base="NoTitle" xtrf="Part" audience="SOFARS_PART_5603" class="- map/topicref ">
       <topicref href="SUBPART_5603.1.dita" navtitle="Subpart 5603.1 - SAFEGUARDS" outputclass="SubPart" props="Subpart 5603.1" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5603.1" xtrc="SOFARS_SUBPART_5603.1.html" class="- map/topicref ">
@@ -340,8 +345,12 @@
       <topicref href="SUBPART_5617.5.dita" navtitle="Subpart 5617.5 - INTERAGENCY ACQUISITIONS" outputclass="SubPart" props="Subpart 5617.5" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5617.5" xtrc="SOFARS_SUBPART_5617.5.html" class="- map/topicref ">
          <topicref href="5617.5021.dita" navtitle="5617.502-1 General." props="5617.502-1" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5617.5021" xtrc="SOFARS_5617.5021.html" class="- map/topicref " />
       </topicref>
-      <topicref href="5617.502.dita" navtitle="5617.502 Procedures." props="5617.502" base="NoTitle" outputclass="SubPart" xtrf="SubPart" audience="SOFARS_5617.502" xtrc="SOFARS_5617.502.html" class="- map/topicref ">
-         <topicref href="5617.50290.dita" navtitle="5617.502-90 Economy Act Determinations." props="5617.502-90" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5617.50290" xtrc="SOFARS_5617.50290.html" class="- map/topicref " />
+      <topicref href="5617.502.dita" navtitle="5617.502 Procedures." props="5617.502" base="NoTitle"
+         outputclass="subtopic" xtrf="No" audience="SOFARS_5617.502" xtrc="SOFARS_5617.502.html"
+         class="- map/topicref ">
+         <topicref href="5617.50290.dita" navtitle="5617.502-90 Economy Act Determinations."
+            props="5617.502-90" base="NoTitle" outputclass="subtopic" xtrf="subtopic"
+            audience="SOFARS_5617.50290" xtrc="SOFARS_5617.50290.html" class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5617.7.dita" navtitle="Subpart 5617.7 - INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE" outputclass="SubPart" props="Subpart 5617.7" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5617.7" xtrc="SOFARS_SUBPART_5617.7.html" class="- map/topicref ">
          <topicref href="5617.703.dita" navtitle="5617.703 Policy" props="5617.703" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5617.703" xtrc="SOFARS_5617.703.html" class="- map/topicref ">
