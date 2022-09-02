@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="SOFARS_5628.10690" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5628.106-90</ph> Review of Bonds and Notification of Surety.</title><conbody><p outputclass="Normal">All performance and payment bonds and all consents of surety shall be reviewed using the Air Force form 3012 or similar format. The review and documented in the contract file. When doubt of legal sufficiency exists, legal counsel shall be sought. </p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5628.10690" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5628.106-90</ph> Review of Bonds and Notification of Surety.</title>
+   <conbody>
+      <p outputclass="Normal">All performance and payment bonds and all consents of surety shall be reviewed using the Air Force form 3012 or similar format. The review and documented in the contract file. When doubt of legal sufficiency exists, legal counsel shall be sought. </p>
+   </conbody>
+</concept>

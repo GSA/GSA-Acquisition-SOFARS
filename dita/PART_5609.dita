@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5609">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5609</ph> CONTRACTOR QUALIFICATIONS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5609" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5609</ph> - CONTRACTOR QUALIFICATIONS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5609.1.dita#SOFARS_SUBPART_5609.1">SUBPART 5609.1 – RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.1.dita#SOFARS_SUBPART_5609.1">Subpart 5609.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -28,7 +27,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5609.4.dita#SOFARS_SUBPART_5609.4">SUBPART 5609.4 – DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.4.dita#SOFARS_SUBPART_5609.4">Subpart 5609.4 - DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -64,7 +63,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5609.5.dita#SOFARS_SUBPART_5609.5">SUBPART 5609.5 ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.5.dita#SOFARS_SUBPART_5609.5">Subpart 5609.5 - ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -93,7 +92,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5609.9.dita#SOFARS_SUBPART_5609.9">SUBPART 5609.9 CONTRACTORS IN THE FEDERAL WORKPLACE (formerly Contractor Employee Training)</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5609.9.dita#SOFARS_SUBPART_5609.9">Subpart 5609.9 - CONTRACTORS IN THE FEDERAL WORKPLACE (formerly Contractor Employee Training)</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

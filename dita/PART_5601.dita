@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5601">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5601</ph> THE FEDERAL ACQUISITION REGULATION
-         SYSTEM</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5601" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5601</ph> - THE FEDERAL ACQUISITION REGULATION         SYSTEM</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.1.dita#SOFARS_SUBPART_5601.1">SUBPART 5601.1 – PURPOSE, AUTHORITY ISSUANCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.1.dita#SOFARS_SUBPART_5601.1">Subpart 5601.1 - PURPOSE, AUTHORITY ISSUANCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -32,7 +30,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.2.dita#SOFARS_SUBPART_5601.2">SUBPART 5601.2 – ADMINISTRATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.2.dita#SOFARS_SUBPART_5601.2">Subpart 5601.2 - ADMINISTRATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -51,7 +49,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.3.dita#SOFARS_SUBPART_5601.3">SUBPART 5601.3 – AGENCY ACQUISITION REGULATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.3.dita#SOFARS_SUBPART_5601.3">Subpart 5601.3 - AGENCY ACQUISITION REGULATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -68,7 +66,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.4.dita#SOFARS_SUBPART_5601.4">SUBPART 5601.4 – DEVIATIONS FROM THE FAR</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.4.dita#SOFARS_SUBPART_5601.4">Subpart 5601.4 - DEVIATIONS FROM THE FAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -80,8 +78,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.6.dita#SOFARS_SUBPART_5601.6">SUBPART 5601.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND
-      RESPONSIBILITIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.6.dita#SOFARS_SUBPART_5601.6">Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -140,14 +137,14 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5601.604.dita#SOFARS_5601.604">5601.604 Contracting Officer’s Representative.</xref>
+                        <xref outputclass="fm:TOC" href="5601.604.dita#SOFARS_5601.604">5601.604 Contracting Officers Representative.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.7.dita#SOFARS_SUBPART_5601.7">SUBPART 5601.7 – DETERMINATIONS AND FINDINGS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.7.dita#SOFARS_SUBPART_5601.7">Subpart 5601.7 - DETERMINATIONS AND FINDINGS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -159,7 +156,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5601.dita#SOFARS_SUBPART_5601">SUBPART 5601 – ATTACHMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5601.dita#SOFARS_SUBPART_5601">Subpart 5601 - ATTACHMENTS</xref>
                </p>
             </li>
          </ul>

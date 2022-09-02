@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="SOFARS_Attachment_5601-1.1b">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.1b" ditaarch:DITAArchVersion="1.3">
    <title id="nWmhgk" outputclass="heading 2 Ctr">
-      <ph id="yXWgIq" props="autonumber">Attachment 5601-1.1</ph>b</title>
+      <ph id="yXWgIq" props="autonumber">Attachment 5601-1.1 b</ph> Table Of Contents</title>
    <conbody id="viWGgZ">
       <table colsep="1" id="YwA1hV" rowsep="1">
          <tgroup cols="2" colsep="1" id="b3MZFs">
-            <colspec colname="1" colnum="1" id="aBvETM" />
-            <colspec colname="2" colnum="2" id="liNiqp" />
+            <colspec colname="1" colnum="1" id="aBvETM" rowheader="headers" />
+            <colspec colname="2" colnum="2" id="liNiqp" rowheader="headers" />
             <tbody id="0KHiFF">
                <row id="Rdt6LC" rowsep="1">
                   <entry id="dCeEjR" nameend="2" namest="1">

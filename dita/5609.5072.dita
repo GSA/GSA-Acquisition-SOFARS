@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="SOFARS_5609.5072" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5609.507-2</ph> Contract Clause.</title><conbody><p outputclass="Normal"><i>(Revised May 2013)</i></p><p>(a)Contracting officers shall insert a clause substantially the same as <xref href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx%20l%20" scope="external" format="docx%20l%20"><u>5652.209-9003</u></xref>, Use of Contractor Support/Advisory Personnel, in solicitations when the possibility exists that contractor support/advisory services will be used in support of the solicitation and/or the resulting contract.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5609.5072" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5609.507-2</ph> Contract Clause.</title>
+   <conbody>
+      <p outputclass="Normal">
+         <i>(Revised May 2013)</i>
+      </p>
+      <p>(a)Contracting officers shall insert a clause substantially the same as <xref href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx%20l%20" scope="external" format="docx%20l%20">
+            <u>5652.209-9003</u>
+         </xref>, Use of Contractor Support/Advisory Personnel, in solicitations when the possibility exists that contractor support/advisory services will be used in support of the solicitation and/or the resulting contract.</p>
+   </conbody>
+</concept>

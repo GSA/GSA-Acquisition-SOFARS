@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5606">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5606</ph> COMPETITION REQUIREMENTS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5606" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5606</ph> - COMPETITION REQUIREMENTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5606.3.dita#SOFARS_SUBPART_5606.3">SUBPART 5606.3 – OTHER THAN FULL AND OPEN COMPETITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5606.3.dita#SOFARS_SUBPART_5606.3">Subpart 5606.3 - OTHER THAN FULL AND OPEN COMPETITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +54,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5606.5.dita#SOFARS_SUBPART_5606.5">SUBPART 5606.5 – COMPETITION ADVOCATES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5606.5.dita#SOFARS_SUBPART_5606.5">Subpart 5606.5 - COMPETITION ADVOCATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

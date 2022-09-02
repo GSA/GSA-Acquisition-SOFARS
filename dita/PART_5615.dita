@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5615">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5615</ph> CONTRACTING BY NEGOTIATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5615" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 5615</ph> - CONTRACTING BY NEGOTIATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -14,7 +13,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.1.dita#SOFARS_SUBPART_5615.1">SUBPART 5615.1 – SOURCE SELECTION PROCESS AND TECHNIQUES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.1.dita#SOFARS_SUBPART_5615.1">Subpart 5615.1 - SOURCE SELECTION PROCESS AND TECHNIQUES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,7 +32,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.2.dita#SOFARS_SUBPART_5615.2">SUBPART 5615.2 – SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.2.dita#SOFARS_SUBPART_5615.2">Subpart 5615.2 - SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -45,7 +44,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.3.dita#SOFARS_SUBPART_5615.3">SUBPART 5615.3 – SOURCE SELECTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.3.dita#SOFARS_SUBPART_5615.3">Subpart 5615.3 - SOURCE SELECTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -101,7 +100,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.4.dita#SOFARS_SUBPART_5615.4">SUBPART 5615.4 – CONTRACT PRICING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.4.dita#SOFARS_SUBPART_5615.4">Subpart 5615.4 - CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -147,7 +146,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.5.dita#SOFARS_SUBPART_5615.5">SUBPART 5615.5 – PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.5.dita#SOFARS_SUBPART_5615.5">Subpart 5615.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -169,7 +168,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5615.6.dita#SOFARS_SUBPART_5615.6">SUBPART 5615.6 UNSOLICITED PROPOSALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5615.6.dita#SOFARS_SUBPART_5615.6">Subpart 5615.6 - UNSOLICITED PROPOSALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5604">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5604</ph> ADMINISTRATIVE MATTERS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5604" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 5604</ph> - ADMINISTRATIVE MATTERS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.1.dita#SOFARS_SUBPART_5604.1">SUBPART 5604.1 – CONTRACT EXECUTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.1.dita#SOFARS_SUBPART_5604.1">Subpart 5604.1 - CONTRACT EXECUTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -21,7 +20,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.2.dita#SOFARS_SUBPART_5604.2">SUBPART 5604.2 – CONTRACT DISTRIBUTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.2.dita#SOFARS_SUBPART_5604.2">Subpart 5604.2 - CONTRACT DISTRIBUTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,7 +32,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.4.dita#SOFARS_SUBPART_5604.4">SUBPART 5604.4 – SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.4.dita#SOFARS_SUBPART_5604.4">Subpart 5604.4 - SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +54,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.6.dita#SOFARS_SUBPART_5604.6">SUBPART 5604.6 – CONTRACT REPORTING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.6.dita#SOFARS_SUBPART_5604.6">Subpart 5604.6 - CONTRACT REPORTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -85,7 +84,7 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5604.60692.dita#SOFARS_5604.60692">5604.606-92 Reporting National Interest Actions (NIA) in FPDS–NG</xref>
+                              <xref outputclass="fm:TOC" href="5604.60692.dita#SOFARS_5604.60692">5604.606-92 Reporting National Interest Actions (NIA) in FPDSNG</xref>
                            </p>
                         </li>
                         <li>
@@ -99,7 +98,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.8.dita#SOFARS_SUBPART_5604.8">SUBPART 5604.8 – GOVERNMENT CONTRACT FILES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.8.dita#SOFARS_SUBPART_5604.8">Subpart 5604.8 - GOVERNMENT CONTRACT FILES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -128,7 +127,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.70.dita#SOFARS_SUBPART_5604.70">SUBPART 5604.70 – UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERING SYSTEM</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.70.dita#SOFARS_SUBPART_5604.70">Subpart 5604.70 - UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERING SYSTEM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -145,7 +144,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5604.71.dita#SOFARS_SUBPART_5604.71">SUBPART 5604.71 – UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5604.71.dita#SOFARS_SUBPART_5604.71">Subpart 5604.71 - UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

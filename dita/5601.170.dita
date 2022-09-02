@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_5601.170">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.170" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5601.170</ph> Peer Reviews.</title>
    <conbody>
@@ -14,8 +14,8 @@
          </xref>. As a minimum, the Chief, cognizant LNO, and acquisition legal advisor will serve as reviewers for noncompetitive actions. As a minimum, the Chief, cognizant LNO, acquisition legal counsel, SSAC-Chair (if required), and SSA will serve as reviewers for competitive actions.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">

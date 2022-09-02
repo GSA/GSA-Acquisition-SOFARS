@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_5652.2429002">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2429002" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5652.242-9002</ph> Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I</title>
    <conbody>
@@ -14,15 +14,15 @@
       <p id="cxpvWL">(b) The contractor shall include a monthly report listing contractor employees who departed during the previous month and the date their CACs were turned in using the format listed below.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="9" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
-            <colspec colname="7" colnum="7" />
-            <colspec colname="8" colnum="8" />
-            <colspec colname="9" colnum="9" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>

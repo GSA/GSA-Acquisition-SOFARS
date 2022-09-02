@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="SOFARS_PART_5647">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">SOFARS PART 5647</ph> TRANSPORTATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="SOFARS_PART_5647" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 5647</ph> - TRANSPORTATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5647.4.dita#SOFARS_SUBPART_5647.4">SUBPART 5647.4 AIR TRANSPORTATION BY U.S. FLAG CARRIERS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5647.4.dita#SOFARS_SUBPART_5647.4">Subpart 5647.4 - AIR TRANSPORTATION BY U.S. FLAG CARRIERS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

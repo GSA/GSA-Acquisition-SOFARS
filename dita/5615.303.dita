@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_5615.303">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.303" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5615.303</ph> Responsibilities.</title>
    <conbody>
@@ -14,5 +14,5 @@
       <p id="WcemXe" outputclass="List3">(B) When the Reviewer <b>is not</b> the Source Selection Authority (SSA), the review and approval of the source selection method and plan shall be accomplished in accordance with <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
             <u>Attachment 5601-1</u>
          </xref> prior to the release of the solicitation. The source selection method and plan must be reviewed and approved by the SSA. If the KO is also the SSA, the Division Chief/Field Office Chief will review the SSP. If the Division Chief/Field Office Chief is also the SSA, SOF AT&amp;L-KM or SOF AT&amp;L-KX as appropriate, will review the SSP, regardless of the dollar amount.</p>
- </conbody>
+   </conbody>
 </concept>

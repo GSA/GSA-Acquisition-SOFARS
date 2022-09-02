@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="SOFARS_SUBPART_5617.5">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5617.5" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
-      <ph props="autonumber">SUBPART 5617.5</ph> INTERAGENCY ACQUISITIONS</title>
+      <ph props="autonumber">Subpart 5617.5</ph> - INTERAGENCY ACQUISITIONS</title>
    <conbody>
       <p id="29Qe98"></p>
    </conbody>
