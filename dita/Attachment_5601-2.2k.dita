@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-2.2k" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-2.2k"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph props="autonumber">Attachment 5601-2.2 k</ph> Table Of Contents</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -76,10 +79,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="mjvwxa"></p>
+                     <p id="mjvwxa"/>
                   </entry>
                   <entry>
-                     <p id="ksZEQf"></p>
+                     <p id="ksZEQf"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -146,10 +149,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="qUZRxN"></p>
+                     <p id="qUZRxN"/>
                   </entry>
                   <entry>
-                     <p id="hhNXPW"></p>
+                     <p id="hhNXPW"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -176,13 +179,13 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="PrvduL"></p>
+                     <p id="PrvduL"/>
                   </entry>
                   <entry>
-                     <p id="qQnydd"></p>
+                     <p id="qQnydd"/>
                   </entry>
                   <entry>
-                     <p id="YyMLsL"></p>
+                     <p id="YyMLsL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -227,10 +230,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="EkornR"></p>
+                     <p id="EkornR"/>
                   </entry>
                   <entry>
-                     <p id="HlboYL"></p>
+                     <p id="HlboYL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -360,7 +363,9 @@
                <row rowsep="1">
                   <entry>
                      <p id="NkJMjs">
-                        <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/dfars/PGI%20201_1.htm" scope="external">
+                        <xref format="html"
+                              href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/dfars/PGI%20201_1.htm"
+                              scope="external">
                            
                         </xref>Equal to or less than $150,000</p>
                   </entry>
@@ -406,10 +411,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="XcmJyO"></p>
+                     <p id="XcmJyO"/>
                   </entry>
                   <entry>
-                     <p id="RwVQBq"></p>
+                     <p id="RwVQBq"/>
                   </entry>
                </row>
                <row rowsep="1">

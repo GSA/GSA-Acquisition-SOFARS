@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5627.3053" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5627.3053"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5627.305-3</ph> Securing invention rights acquired by the Government.</title>
    <conbody>
-      <p id="IDWbMQ">(a) Upon receipt of a DD form 882, Report of Inventions and Subcontracts, as prescribed in <xref format="html" href="https://www.acquisition.gov/dfars/patents-data-and-copyrights" scope="external">
+      <p id="IDWbMQ">(a) Upon receipt of a DD form 882, Report of Inventions and Subcontracts, as prescribed in <xref format="html"
+               href="https://www.acquisition.gov/dfars/patents-data-and-copyrights"
+               scope="external">
             <u>DFARS 227.304-1</u>
          </xref>, or a letter prepared in accordance with relevant patent rights clause(s), contracting officers shall immediately forward the submission to the RAO to confirm that the contractor has reported all subject inventions. Forward the DD882 or other submission, along with the RAO input, to legal counsel for review and appropriate action. See DCG templates for process flowchart and guidance.</p>
       <p id="p_BM7">(b) No legal review of the DD882 is required for phase I SBIR contracts if:</p>

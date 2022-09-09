@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5605.403" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5605.403"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5605.403</ph> Requests from Members of Congress</title>
    <conbody>
       <p id="OXAGqr" outputclass="Normal">The release of information must be coordinated with SOF AT&amp;L-KM/KX/KB as appropriate.</p>
-      <p id="p_BM303_92" outputclass="Normal"></p>
+      <p id="p_BM303_92" outputclass="Normal"/>
       <p id="ucBCmT" outputclass="Normal">HQ, United States Special Operations Command</p>
       <p id="kBfgjy" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
       <p id="pTcvlJ" outputclass="Normal">SOFARS 5605</p>

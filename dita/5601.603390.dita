@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.603390" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.603390"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5601.603-3-90</ph> Appointment of Contingency Contracting Officers.</title>
    <conbody>
       <p id="gmFLHg" outputclass="Normal">
          <i>(Revised September 2013-reorganization)</i>
       </p>
-      <p id="KaDLUO">(a)All Contingency Contracting Officer (CCO) warrants are subject to the limitations of USSOCOM business and contract clearance procedures. Contingency warrants are further limited to the duration of the contingency or deployment and are only valid while actually deployed in support of a contingency operation. Selection procedures shall comply with <xref href="5601.6033.dita#SOFARS_5601.6033" outputclass="fm:parawithautonuminparens">paragraph&#xa0; 5601.603-3</xref>.</p>
+      <p id="KaDLUO">(a)All Contingency Contracting Officer (CCO) warrants are subject to the limitations of USSOCOM business and contract clearance procedures. Contingency warrants are further limited to the duration of the contingency or deployment and are only valid while actually deployed in support of a contingency operation. Selection procedures shall comply with <xref href="5601.6033.dita#SOFARS_5601.6033"
+               outputclass="fm:parawithautonuminparens">paragraph  5601.603-3</xref>.</p>
       <p id="dQLoNV">(b)All CCOs shall attend the Defense Acquisition University (DAU) Contingency Contracting Course (CON 234) prior to deployment. A waiver may be requested from the DOP if this requirement cannot be met due to the urgency and immediacy of the mission.</p>
       <p id="uRPoWs">(c)All contracting office chiefs shall notify SOF AT&amp;L-KX of the deployment and redeployment of contingency contracting officers to overseas locations when contracting authority is granted by a USSOCOM issued warrant.</p>
    </conbody>

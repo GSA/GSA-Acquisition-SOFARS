@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5613.201" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.201"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5613.201</ph> General.</title>
    <conbody>
       <p id="XRdSAS" outputclass="Normal">
          <i>(Revised June 2021)</i>
       </p>
-      <p id="SVtgQo">(a) Contracting offices shall delegate the authority for all micro-purchase requirements to the requiring activities. Micro-purchase requirements shall be purchased using the government-wide Commercial purchase card or by ordering officials appointed in accordance with <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5601.docx" scope="external">
+      <p id="SVtgQo">(a) Contracting offices shall delegate the authority for all micro-purchase requirements to the requiring activities. Micro-purchase requirements shall be purchased using the government-wide Commercial purchase card or by ordering officials appointed in accordance with <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5601.docx"
+               scope="external">
             <u>5601.602-2-90</u>
-         </xref>. For exceptions to the use of the government-wide commercial purchase card, see <xref format="html" href="https://www.acquisition.gov/dfars/part-213-%E2%80%93-simplified-acquisition-procedures" scope="external">
+         </xref>. For exceptions to the use of the government-wide commercial purchase card, see <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-213-%E2%80%93-simplified-acquisition-procedures"
+               scope="external">
             <u>DFARS 213.270</u>
          </xref>.</p>
-      <p id="OLxpTR">(g) The Director of Procurement, USSOCOM, as the head of agency, delegates the authority to determine applicability of <xref format="html" href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" scope="external">
+      <p id="OLxpTR">(g) The Director of Procurement, USSOCOM, as the head of agency, delegates the authority to determine applicability of <xref format="html"
+               href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures"
+               scope="external">
             <u>FAR 13.201(g)</u>
-         </xref> to the Contracting Officer. The rationale for the determination must be documented in the contract file. For exceptions to the use of the government-wide commercial purchase card, see <xref format="html" href="https://www.acquisition.gov/dfars/part-213-%E2%80%93-simplified-acquisition-procedures" scope="external">
+         </xref> to the Contracting Officer. The rationale for the determination must be documented in the contract file. For exceptions to the use of the government-wide commercial purchase card, see <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-213-%E2%80%93-simplified-acquisition-procedures"
+               scope="external">
             <u>DFARS 213.270</u>
          </xref>. <b>DCG</b>
       </p>

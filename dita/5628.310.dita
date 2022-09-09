@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5628.310" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5628.310"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5628.310</ph> Contract Clauses for Work on a Government Installation.</title>
    <conbody>
       <p id="GMYWHH" outputclass="Normal">
          <i>(Revised August 2016)</i>
       </p>
-      <p id="uWEWAZ" outputclass="Normal">Contracting officers shall insert a clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+      <p id="uWEWAZ" outputclass="Normal">Contracting officers shall insert a clause substantially the same as <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external">
             <u>5652.228-9000</u>
-         </xref>, Required Insurance, in solicitations and contracts that include <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/52_227.htm" scope="external">
+         </xref>, Required Insurance, in solicitations and contracts that include <xref format="html"
+               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/52_227.htm"
+               scope="external">
             <u>52.228-5</u>
          </xref>, Insurance - Work on a Government Installation and requiring work be performed on a government installation.</p>
    </conbody>

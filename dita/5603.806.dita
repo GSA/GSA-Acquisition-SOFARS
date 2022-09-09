@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5603.806" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5603.806"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5603.806</ph> Processing Suspected Violations.</title>
    <conbody>
-      <p id="VdcXEE" outputclass="Normal">Refer to the procedures at <xref href="5603.1047.dita#SOFARS_5603.1047" outputclass="fm:parawithautonuminparens">5603.104-7 Processing Violations or Possible Violations.</xref>.</p>
-      <p id="uxjzdK" outputclass="Normal"></p>
+      <p id="VdcXEE" outputclass="Normal">Refer to the procedures at <xref href="5603.1047.dita#SOFARS_5603.1047"
+               outputclass="fm:parawithautonuminparens">5603.104-7 Processing Violations or Possible Violations.</xref>.</p>
+      <p id="uxjzdK" outputclass="Normal"/>
       <p id="3croow2y" outputclass="Normal">HQ, United States Special Operations Command</p>
       <p id="wc7gwnat" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
       <p id="hdFgUK" outputclass="Normal">SOFARS 5603</p>

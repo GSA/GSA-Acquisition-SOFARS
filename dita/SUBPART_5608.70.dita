@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5608.70" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_SUBPART_5608.70"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
       <ph props="autonumber">Subpart 5608.70</ph> - COORDINATED ACQUISITION</title>
    <conbody>
-      <p id="6lJcRn"></p>
+      <p id="6lJcRn"/>
    </conbody>
 </concept>

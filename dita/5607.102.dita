@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5607.102" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5607.102"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5607.102</ph> Policy.</title>
    <conbody>
       <p id="fNXsVt" outputclass="Normal">
          <i>(Added August 2016)</i>
       </p>
-      <p id="jXcUjB" outputclass="Normal">See <xref format="102(k)" href="http://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5637.102(k)" scope="external">
+      <p id="jXcUjB" outputclass="Normal">See <xref format="102(k)"
+               href="http://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5637.102(k)"
+               scope="external">
             <u>5637.102(k)</u>
          </xref> for additional policy regarding the acquisition of services in accordance with DoD Instruction 5000.74.</p>
    </conbody>

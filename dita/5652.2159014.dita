@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2159014" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2159014"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5652.215-9014</ph> Basis for AwardLowest Price Technically Acceptable Proposal (2003) Section M</title>
    <conbody>
-      <p id="RSHXmi" outputclass="Normal">As prescribed in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx" scope="external">
+      <p id="RSHXmi" outputclass="Normal">As prescribed in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx"
+               scope="external">
             <u>5615.3-90(c)</u>
          </xref>, insert the following provision, <i>Editable and Fill-ins</i>
       </p>
@@ -17,18 +22,24 @@
          <i>Use when past performance is an evaluation factor</i>
       </p>
       <p id="p_BM215_9015" outputclass="Normal">Past performance will be evaluated <i>(Insert approach for evaluating past performance in accordance with</i>
-         <xref format="html" href="https://www.acquisition.gov/content/part-15-contracting-negotiation" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-15-contracting-negotiation"
+               scope="external">
             <i>
                <u>FAR 15.304(d)</u>
             </i>
          </xref>
          <i>and</i>
-         <xref format="html" href="https://www.acquisition.gov/content/part-15-contracting-negotiation" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-15-contracting-negotiation"
+               scope="external">
             <i>
                <u>15.305(a)(2)(ii)</u>
             </i>
          </xref>
-         <i>)</i>. Offerors shall identify past or current contracts with Federal, State, and local governments and private industry for efforts similar to the effort require by this solicitation. Offerors may identify up to (Insert number) contracts. The Government will use the list provided by the offeror in accordance with <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+         <i>)</i>. Offerors shall identify past or current contracts with Federal, State, and local governments and private industry for efforts similar to the effort require by this solicitation. Offerors may identify up to (Insert number) contracts. The Government will use the list provided by the offeror in accordance with <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external">
             <u>5652.215-9008</u>
          </xref> "Past Performance Data," along with other available information to determine the offeror's risk of performance with regard to past performance. The evaluation will take into account past performance information regarding predecessor companies, key personnel who have relevant experience, and/or subcontractors that will perform major or critical aspects of the requirement when such information is relevant to the effort required by this solicitation. When an offeror has no record of relevant past performance, or for whom past performance information is not available, that offeror shall be given a neutral rating which will not be considered as either a favorably or unfavorably past performance record.</p>
    </conbody>

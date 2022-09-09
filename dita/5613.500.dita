@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5613.500" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.500"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5613.500</ph> General.</title>
    <conbody>
       <p id="RbwLSt">(a)</p>
-      <p id="fXzglC" outputclass="List3">(i) Solicitations and awards shall be reviewed and approved in accordance with <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
+      <p id="fXzglC" outputclass="List3">(i) Solicitations and awards shall be reviewed and approved in accordance with <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
+               scope="external">
             <u>Attachment 5601-1</u>
          </xref>.</p>
       <p id="gEtXsO" outputclass="List3">
          <ph>(ii)</ph>
-         <xref format="html" href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm" scope="external">
+         <xref format="html"
+               href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm"
+               scope="external">
             <u>Contracting officers with a Simplified Acquisition Threshold warrant cannot sign awards made in accordance with the authority of this paragraph.</u>
          </xref>
       </p>

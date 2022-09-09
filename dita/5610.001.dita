@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5610.001" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5610.001"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5610.001</ph> Policy.</title>
    <conbody>
@@ -8,16 +11,24 @@
          <i>(Added April 2008)</i>
       </p>
       <p id="aoIcbT">(a) When to Conduct Market Research</p>
-      <p id="yuTnbw" outputclass="List2">(1) Contracting Officers have the responsibility of informing all requiring activities that, in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-10-market-research" scope="external">
+      <p id="yuTnbw" outputclass="List2">(1) Contracting Officers have the responsibility of informing all requiring activities that, in accordance with <xref format="html"
+               href="https://www.acquisition.gov/content/part-10-market-research"
+               scope="external">
             <u>FAR 10.001</u>
          </xref>, market research is required prior to the development of new specifications and before soliciting any requisition over the simplified acquisition threshold (SAT).</p>
-      <p id="JjVYGQ" outputclass="List2">(2) Contract actions awarded above the SAT shall include documentation that market research was conducted. The market research documentation may be completed using the DCG Market Research Report template. In the case of other than full and open competition, a J&amp;A or other similar format that covers the information areas in <xref format="html" href="https://www.acquisition.gov/content/part-10-market-research" scope="external">
+      <p id="JjVYGQ" outputclass="List2">(2) Contract actions awarded above the SAT shall include documentation that market research was conducted. The market research documentation may be completed using the DCG Market Research Report template. In the case of other than full and open competition, a J&amp;A or other similar format that covers the information areas in <xref format="html"
+               href="https://www.acquisition.gov/content/part-10-market-research"
+               scope="external">
             <u>FAR 10</u>
          </xref> and the DCG market research template may be used.</p>
       <p id="kozWNm">(b) Classified Procurements</p>
-      <p id="nkISUe" outputclass="List2">(1) Classified Procurements: Market research for contracts that will be classified must be consistent with the security requirements imposed by <xref format="html" href="https://www.acquisition.gov/content/part-6-competition-requirements" scope="external">
+      <p id="nkISUe" outputclass="List2">(1) Classified Procurements: Market research for contracts that will be classified must be consistent with the security requirements imposed by <xref format="html"
+               href="https://www.acquisition.gov/content/part-6-competition-requirements"
+               scope="external">
             <u>FAR 6.302-6</u>
-         </xref>, National Security, where disclosure of the agency’s needs would compromise the national security. Any number of common approaches or practices for performing market research (See <xref format="html" href="https://www.acquisition.gov/content/part-10-market-research" scope="external">
+         </xref>, National Security, where disclosure of the agency’s needs would compromise the national security. Any number of common approaches or practices for performing market research (See <xref format="html"
+               href="https://www.acquisition.gov/content/part-10-market-research"
+               scope="external">
             <u>FAR 10.002</u>
          </xref>) may be used except those where the requirement or other salient characteristics of the requirement, having National Security implications, would be disclosed in the public domain or where other aspects of the security plan for the requirement would be violated.</p>
       <p id="bSalwe" outputclass="Normal">HQ, United States Special Operations Command</p>

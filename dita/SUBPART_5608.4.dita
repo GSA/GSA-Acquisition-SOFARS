@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5608.4" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_SUBPART_5608.4"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
       <ph props="autonumber">Subpart 5608.4</ph> - FEDERAL SUPPLY SCHEDULES</title>
    <conbody>
-      <p id="Jj7B0k"></p>
+      <p id="Jj7B0k"/>
    </conbody>
 </concept>

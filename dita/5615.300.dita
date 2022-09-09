@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5615.300" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5615.300"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5615.300</ph> Scope of Subpart</title>
    <conbody>
       <p id="zHFkrw" outputclass="Normal">
          <i>(Added June 2014)</i>
       </p>
-      <p id="nnqFAF" outputclass="Normal">Contracting officers shall follow the principles and procedures in Director, Defense Procurement and Acquisition Policy memorandum dated March 4, 2011, <xref format="pdf" href="http://www.acq.osd.mil/dpap/policy/policyvault/USA007183-10-DPAP.pdf" scope="external">
+      <p id="nnqFAF" outputclass="Normal">Contracting officers shall follow the principles and procedures in Director, Defense Procurement and Acquisition Policy memorandum dated March 4, 2011, <xref format="pdf"
+               href="http://www.acq.osd.mil/dpap/policy/policyvault/USA007183-10-DPAP.pdf"
+               scope="external">
             <u>Department of Defense Source Selection Procedures</u>
          </xref> and the USSOCOM Source Selection Procedures Supplement dated 13 January 2012 that can be found on the SOF AT&amp;L Source Selection Procedures Area of the Portal.</p>
    </conbody>

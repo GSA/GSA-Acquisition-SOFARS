@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5613.501" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5613.501"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5613.501</ph> Special Documentation Requirements.</title>
    <conbody>
@@ -11,21 +14,29 @@
          <ph>(a)(ii) The J&amp;A template can be found in the DCG. IAW FAR 13.501(a)(ii), modify the J&amp;A to reflect the procedures in 13.5 were used.</ph>
       </p>
       <p id="kmJCMm" outputclass="Normal">
-         <xref format="html" href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm" scope="external">
+         <xref format="html"
+               href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm"
+               scope="external">
             <u>HQ, United States Special Operations Command</u>
-            <u></u>
+            <u/>
          </xref>
       </p>
       <p id="ShJNlA" outputclass="Normal">
-         <xref format="html" href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm" scope="external">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</xref>
+         <xref format="html"
+               href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm"
+               scope="external">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</xref>
       </p>
       <p id="JfaAeU" outputclass="Normal">
-         <xref format="html" href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm" scope="external">
+         <xref format="html"
+               href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm"
+               scope="external">
             <u>SOFARS 5613</u>
          </xref>
       </p>
       <p id="uMekhj" outputclass="Normal">
-         <xref format="html" href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm" scope="external">
+         <xref format="html"
+               href="https://sof.socom.mil/sites/SORDAC/K/SCN201003/SOFARS/Attachment_5601-1.htm"
+               scope="external">
             <u>February 2007</u>
          </xref>
       </p>

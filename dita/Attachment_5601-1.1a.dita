@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.1a" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-1.1a"
+         ditaarch:DITAArchVersion="1.3">
    <title id="rKp1Fg" outputclass="heading 2 Ctr">
       <ph id="nWHXIK" props="autonumber">Attachment 5601-1.1 a</ph> Table Of Contents</title>
    <conbody id="yi8jLd">
       <table colsep="1" id="xu0jkS" rowsep="1">
          <tgroup cols="2" colsep="1" id="9zQ89R">
-            <colspec colname="1" colnum="1" id="SPGInk" rowheader="headers" />
-            <colspec colname="2" colnum="2" id="YCbtpD" rowheader="headers" />
+            <colspec colname="1" colnum="1" id="SPGInk" rowheader="headers"/>
+            <colspec colname="2" colnum="2" id="YCbtpD" rowheader="headers"/>
             <tbody id="dBbfR2">
                <row id="BGOsP5" rowsep="1">
                   <entry id="xsiYpV" nameend="2" namest="1">
@@ -38,7 +41,7 @@
                            <u id="howjVg">&amp;</u>
                         </b>
                         <b id="P18C53">
-                           <u id="TvIvyP"></u>
+                           <u id="TvIvyP"/>
                         </b>
                         <b id="GojzJ9">
                            <u id="u1U8bn">F</u>

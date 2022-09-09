@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2329006" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2329006"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5652.232-9006</ph> Electronic Distribution of Vouchers/Invoices Using Alternative to WAWF (2011) Section G (Removed June 2018)</title>
    <conbody>
-      <p id="Wf9mSe"></p>
+      <p id="Wf9mSe"/>
    </conbody>
 </concept>

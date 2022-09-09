@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5646.706" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5646.706"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5646.706</ph> Warranty Terms and Conditions.</title>
    <conbody>
       <p id="eivIuM" outputclass="Normal">Contracts containing a warranty clause will not be closed out before the warranty period has expired.</p>
-      <p id="pXiKfp" outputclass="Normal"></p>
+      <p id="pXiKfp" outputclass="Normal"/>
       <p id="x1mi24o" outputclass="Normal">HQ, United States Special Operations Command</p>
       <p id="xr1kk9cj" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
       <p id="ZPwUts" outputclass="Normal">SOFARS 5646</p>

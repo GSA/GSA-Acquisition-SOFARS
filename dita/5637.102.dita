@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5637.102" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5637.102"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5637.102</ph> Policy.</title>
    <conbody>
       <p id="mXssZg" outputclass="Normal">
          <i>(Revised August 2016)</i>
       </p>
-      <p id="p_BM37_102">(a) See <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5609.docx" scope="external">
+      <p id="p_BM37_102">(a) See <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5609.docx"
+               scope="external">
             <u>5609.901</u>
          </xref> for Guidance on Contractors in the Federal Workplace.</p>
       <p id="CvKSEn">(b) Acquisition of Services shall be in accordance with DoD Instruction 5000.74. The Senior Services Manager (SSM) for USSOCOM has delegated the decision authority for Service Category V acquisitions (estimated total value of the SAT or more but less than $10M) to the Component and Theater Special Operations Command (TSOC) level, unless otherwise directed. Components and TSOC contracting offices shall ensure requiring activities obtain service acquisition approval IAW local procedures. The contract file shall contain the approved acquisition strategy.</p>

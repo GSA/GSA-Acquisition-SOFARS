@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5608.802" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5608.802"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5608.802</ph> Policy.</title>
    <conbody>
-      <p id="HtJRrJ">(b) Contracting Officers shall work with the requiring activity to obtain approval from their host base's printing authority before purchasing government printing or related supplies as defined in <xref format="html" href="https://www.acquisition.gov/content/part-8-required-sources-supplies-and-services" scope="external">
+      <p id="HtJRrJ">(b) Contracting Officers shall work with the requiring activity to obtain approval from their host base's printing authority before purchasing government printing or related supplies as defined in <xref format="html"
+               href="https://www.acquisition.gov/content/part-8-required-sources-supplies-and-services"
+               scope="external">
             <u>FAR 8.801</u>
          </xref>.</p>
-      <p id="LybMCQ" outputclass="Normal"></p>
+      <p id="LybMCQ" outputclass="Normal"/>
       <p id="rcjuzb9" outputclass="Normal">HQ, United States Special Operations Command</p>
       <p id="CHrutU" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L-K)</p>
       <p id="EnvzBO" outputclass="Normal">SOFARS 5608</p>
