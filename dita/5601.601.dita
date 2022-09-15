@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.601" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.601"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5601.601</ph> General.</title>
    <conbody>
@@ -10,85 +13,117 @@
       <p id="dXdhaG" outputclass="List2">(2) The Commander, USSOCOM, has delegated all delegable HOA and SPE authority to the Director, Special Operations Forces Acquisition, Technology, and Logistics Acquisition Executive (SOAE). The SOAE establishes policies, directs, and supervises USSOCOM activities with respect to contracting, acquisition, and related matters. The USSOCOM Staff Judge Advocate is the legal advisor to the Commander, USSOCOM, and SOAE.</p>
       <p id="p_BM602_12i" outputclass="List3">(i) The SOAE has further delegated the authority to exercise certain HOA functions to the DoP with the power of redelegation. Exceptions to this delegation include those actions reserved by FAR and DFARS for Senior Executive Service (SES) members, Flag Officers, General Officers, or the authority for the actions required by the agency head in the following:</p>
       <p id="ZcOkPt" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system"
+               scope="external">
             <u>FAR 1.404</u>
          </xref>
       </p>
       <p id="xCNYkv" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-6-competition-requirements" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-6-competition-requirements"
+               scope="external">
             <u>FAR 6.501</u>
          </xref>
       </p>
       <p id="inbWBP" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-19-small-business-programs" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-19-small-business-programs"
+               scope="external">
             <u>FAR 19.201</u>
          </xref>
       </p>
       <p id="yHqgHP" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-19-small-business-programs" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-19-small-business-programs"
+               scope="external">
             <u>FAR 19.505</u>
          </xref>
       </p>
       <p id="FmJfKE" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-19-small-business-programs" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-19-small-business-programs"
+               scope="external">
             <u>FAR 19.812</u>
          </xref>
       </p>
       <p id="HePAZy" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-27-patents-data-and-copyrights" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-27-patents-data-and-copyrights"
+               scope="external">
             <u>FAR 27.303</u>
          </xref>
       </p>
       <p id="LHEpTM" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-34-major-system-acquisition" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-34-major-system-acquisition"
+               scope="external">
             <u>FAR 34.003</u>
          </xref>
       </p>
       <p id="TkFOEQ" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-34-major-system-acquisition" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-34-major-system-acquisition"
+               scope="external">
             <u>FAR 34.005-6</u>
          </xref>
       </p>
       <p id="KyCOgc" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-35-research-and-development-contracting" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-35-research-and-development-contracting"
+               scope="external">
             <u>FAR 35.014(b)</u>
          </xref>
       </p>
       <p id="NsqHka" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-35-research-and-development-contracting" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-35-research-and-development-contracting"
+               scope="external">
             <u>FAR 35.017-7</u>
          </xref>
       </p>
       <p id="ZOgchX" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system"
+               scope="external">
             <u>DFARS 201.404</u>
          </xref>
       </p>
       <p id="EZPSkg" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/dfars/part-203-improper-business-practices-and-personal-conflicts-interest" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-203-improper-business-practices-and-personal-conflicts-interest"
+               scope="external">
             <u>DFARS 203.570-3</u>
          </xref>
       </p>
       <p id="cnXyLu" outputclass="List3">(ii) The following function cannot be delegated below the SES, Level IV (for USSOCOM the SPE):</p>
       <p id="NnuEKu" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-32-contract-financing" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-32-contract-financing"
+               scope="external">
             <u>FAR 32.006</u>
          </xref>
       </p>
       <p id="lNOGck" outputclass="List3">(iii) In accordance with the FAR, the following functions are not delegable below the HOA:</p>
       <p id="iAofmU" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-23-environment-energy-and-water-efficiency-renewable-energy-technologies-occupational-safety-and-drug-free-workplace" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-23-environment-energy-and-water-efficiency-renewable-energy-technologies-occupational-safety-and-drug-free-workplace"
+               scope="external">
             <u>FAR 23.506</u>
          </xref>
       </p>
       <p id="yQmjqv" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-27-patents-data-and-copyrights" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-27-patents-data-and-copyrights"
+               scope="external">
             <u>FAR 27.306</u>
          </xref>
       </p>
       <p id="nAkZdh" outputclass="List3">(iv) The following function cannot be delegated below the Secretary of Defense:</p>
       <p id="aeghEC" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/dfars/part-206-competition-requirements" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-206-competition-requirements"
+               scope="external">
             <u>DFARS 206.302-7</u>
          </xref>
       </p>
@@ -98,27 +133,37 @@
       <p id="p_BM601_4" outputclass="List2">(4) The HOA authority to determine when acquisitions support contingency operations, humanitarian or peacekeeping operations, facilitate the provision of international disaster assistance, support response to emergency or major disasters, or facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack, is delegated to USSOCOM headquarters contracting divisions and field contracting office chiefs.</p>
       <p id="FdnhGH" outputclass="List3">(i) Once the determinations have been made in writing and included in each file, the following authorities may be utilized:</p>
       <p id="NSEjWB" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures"
+               scope="external">
             <u>FAR 13.000</u>
          </xref>
       </p>
       <p id="cPYrzl" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures"
+               scope="external">
             <u>FAR 13.201(g)</u>
          </xref>
       </p>
       <p id="AmSAHD" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures"
+               scope="external">
             <u>FAR 13.500(c)</u>
          </xref>
       </p>
       <p id="KZdiNm" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/content/part-18-emergency-acquisitions" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/content/part-18-emergency-acquisitions"
+               scope="external">
             <u>FAR 18.2</u>
          </xref>
       </p>
       <p id="ZmiVEV" outputclass="List3">
-         <xref format="html" href="https://www.acquisition.gov/dfars/part-211-describing-agency-needs" scope="external">
+         <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-211-describing-agency-needs"
+               scope="external">
             <u>DFARS 211.274-2(b)(1)</u>
          </xref>
       </p>

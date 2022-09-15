@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5609.4073" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5609.4073"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5609.407-3</ph> Procedures.</title>
    <conbody>
-      <p id="mJNyri" outputclass="Normal">Follow the procedures at <xref href="5609.4063.dita#SOFARS_5609.4063" outputclass="fm:parawithautonuminparens">paragraph&#xa0; 5609.406-3</xref>.</p>
+      <p id="mJNyri" outputclass="Normal">Follow the procedures at <xref href="5609.4063.dita#SOFARS_5609.4063"
+               outputclass="fm:parawithautonuminparens">paragraph  5609.406-3</xref>.</p>
    </conbody>
 </concept>

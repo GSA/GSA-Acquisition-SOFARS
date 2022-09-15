@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-2.2c" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-2.2c"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="heading 2 Ctr">
       <ph props="autonumber">Attachment 5601-2.2 c</ph> Table Of Contents</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -71,10 +74,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="Buerrx"></p>
+                     <p id="Buerrx"/>
                   </entry>
                   <entry>
-                     <p id="fXgeue"></p>
+                     <p id="fXgeue"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -147,10 +150,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="SjAXFo"></p>
+                     <p id="SjAXFo"/>
                   </entry>
                   <entry>
-                     <p id="tnINMr"></p>
+                     <p id="tnINMr"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -217,10 +220,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="bGwuNj"></p>
+                     <p id="bGwuNj"/>
                   </entry>
                   <entry>
-                     <p id="IudVAz"></p>
+                     <p id="IudVAz"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -389,10 +392,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="VxxOyA"></p>
+                     <p id="VxxOyA"/>
                   </entry>
                   <entry>
-                     <p id="kQAyrx"></p>
+                     <p id="kQAyrx"/>
                   </entry>
                </row>
                <row rowsep="1">

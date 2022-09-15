@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.2j" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-1.2j"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="heading 2 Ctr">
       <ph props="autonumber">Attachment 5601-1.2 j</ph> Table Of Contents</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -57,7 +60,9 @@
                      <p id="xEabLx">
                         <b>1. Acquisition Plan</b>
                         <b>(See</b>
-                        <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv" outputclass="fm:paraswithautonuminparens">paragraphs&#xa0; </xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM" outputclass="fm:parawithautonuminparens">paragraph&#xa0; </xref>
+                        <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv"
+                              outputclass="fm:paraswithautonuminparens">paragraphs  </xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM"
+                              outputclass="fm:parawithautonuminparens">paragraph  </xref>
                         <b>)</b>
                      </p>
                   </entry>
@@ -69,10 +74,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="hkYCFq"></p>
+                     <p id="hkYCFq"/>
                   </entry>
                   <entry>
-                     <p id="AuuRZq"></p>
+                     <p id="AuuRZq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -93,10 +98,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="iQeBzO"></p>
+                     <p id="iQeBzO"/>
                   </entry>
                   <entry>
-                     <p id="HPsnPE"></p>
+                     <p id="HPsnPE"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -115,7 +120,8 @@
                      <p id="MqDrKd">
                         <b>
                            <i>NOTE:</i>
-                        </b>For Services refer to 5601-1.2l <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA" outputclass="fm:paraswithautonuminparens">paragraphs&#xa0; </xref>
+                        </b>For Services refer to 5601-1.2l <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA"
+                              outputclass="fm:paraswithautonuminparens">paragraphs  </xref>
                      </p>
                   </entry>
                </row>

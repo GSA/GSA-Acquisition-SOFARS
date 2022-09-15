@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5617.204" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5617.204"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5617.204</ph> Contracts.</title>
    <conbody>
       <p id="VAJnit">(e)</p>
-      <p id="mGQEfF" outputclass="List3">(i) The Chief of the Contracting Office making an award in accordance with <xref format="html" href="https://www.acquisition.gov/content/part-17-special-contracting-methods" scope="external">
+      <p id="mGQEfF" outputclass="List3">(i) The Chief of the Contracting Office making an award in accordance with <xref format="html"
+               href="https://www.acquisition.gov/content/part-17-special-contracting-methods"
+               scope="external">
             <u>FAR 17.204</u>
          </xref> may approve total contract periods in excess of 5 years on a case-by-case basis, unless otherwise prohibited by statute or regulation. This authority shall not be re-delegated.</p>
       <p id="ftEuHM" outputclass="List4">(A) All approvals shall be made prior to issuing the solicitation and shall be included in the contract file.</p>

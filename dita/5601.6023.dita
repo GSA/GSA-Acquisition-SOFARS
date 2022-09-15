@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.6023" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.6023"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5601.602-3</ph> Ratification of Unauthorized Commitments. See DCG for required procedures.</title>
    <conbody>
-      <p id="p_BM602_3_90" outputclass="Normal">Per the requirements of <xref format="html" href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system" scope="external">
+      <p id="p_BM602_3_90" outputclass="Normal">Per the requirements of <xref format="html"
+               href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system"
+               scope="external">
             <u>FAR 1.602-3(b)(2) and (3)</u>
-         </xref>, ratification authority for all actions shall be reviewed and approved per <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx" scope="external">
+         </xref>, ratification authority for all actions shall be reviewed and approved per <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/Attachment_5601-1.docx"
+               scope="external">
             <u>Attachment 5601-1</u>
          </xref>.</p>
    </conbody>

@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.604" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.604"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5601.604</ph> Contracting Officers Representative.</title>
    <conbody>
       <p id="GgKFPc" outputclass="Normal">
          <i>(Revised June 2021)</i>
       </p>
-      <p id="BuwYvT">(a) The Contracting Officer (KO) shall request and the requiring activity (i.e. each Center, Component, and/or Theater Special Operations Command (TSOC)) shall nominate a Contracting Officer’s Representative (COR) in accordance with <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">
+      <p id="BuwYvT">(a) The Contracting Officer (KO) shall request and the requiring activity (i.e. each Center, Component, and/or Theater Special Operations Command (TSOC)) shall nominate a Contracting Officer’s Representative (COR) in accordance with <xref format="PDF"
+               href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF"
+               scope="external">
             <u>DoD Instruction 5000.72,</u>
             <i>
                <u>DoD Standard for Contracting Officer’s Representative (COR) Certification</u>
@@ -26,13 +31,17 @@
       <p id="XbpDoV" outputclass="List3">(i) IAW OUSD(AT&amp;L) memorandum, dated February 10, 2014, Update to the Department of Defense Contracting Officer Representative Tracking Tool, classified contracts are waived from this requirement. The KO will accomplish an annual administrative review of COR files.</p>
       <p id="zvRkmf" outputclass="List3">(ii) IAW SORDAC-K memorandum, dated December 1, 2014, “The Contracting Officer Representative Tracking Tool and Wide Area Work Flow e-Business Suite V5.6.0 Deployment Plan,” contracts that are either reported in ECITS or are not for public release are waived from the CORT-T mandate.</p>
       <p id="ICFRFk" outputclass="List2">(2) The COR must file and OGE 450 unless the KO determines that there is no conflict of interest between the contractor or and of its subsidiaries. If necessary, request legal review.</p>
-      <p id="rPQIPv">(e) <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">
+      <p id="rPQIPv">(e) <xref format="PDF"
+               href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF"
+               scope="external">
             <u>DoDI 5000.72 Enclosure 4</u>
          </xref>
          <ph> </ph>COR Performance and Appraisal:</p>
       <p id="ZvsAyC" outputclass="List2">(1) The KO will provide an annual assessment on the COR’s performance to the COR supervisor. If performance is inadequate, the KO must provide a written assessment and discuss performance with the COR. If reports or performance continue to be inadequate, notify both the COR and requiring activity or COR management that the COR designation is (will be) terminated and request nominations for a replacement COR. Only the KO can terminate appointment.</p>
       <p id="CurOSY" outputclass="List2">(2) The COR’s supervisor will ensure COR participation in the pre-award process and performance of COR duties/responsibilities are properly addressed in the COR’s annual performance appraisal.</p>
-      <p id="IsKOKZ">(f) Examples of COR Responsibilities and Certification Requirements: See <xref format="PDF" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF" scope="external">DoDI 5000.72 Enclosure 6</xref>.</p>
+      <p id="IsKOKZ">(f) Examples of COR Responsibilities and Certification Requirements: See <xref format="PDF"
+               href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF"
+               scope="external">DoDI 5000.72 Enclosure 6</xref>.</p>
       <p id="IxPmQB">(g) See DCG for templates to request COR support, COR designation, and COR termination.</p>
    </conbody>
 </concept>

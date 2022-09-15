@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5642.1503" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5642.1503"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5642.1503</ph> Procedures.</title>
    <conbody>
@@ -12,7 +15,7 @@
             <u>CPARS</u>
          </xref>) as the method to record evaluations of contractor performance.</p>
       <p id="XYqguU" outputclass="List2">(2) Those contractor performance evaluations involving national security/classified contract actions shall not be entered into CPARS; however, they must follow CPARS reporting requirements in conjunction with the individual program security requirements.</p>
-      <p id="GAONcP" outputclass="Text Body"></p>
+      <p id="GAONcP" outputclass="Text Body"/>
       <p id="47a5x3w" outputclass="Text Body">HQ, United States Special Operations Command</p>
       <p id="j0fgovyg" outputclass="Text Body">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
       <p id="vOugwM" outputclass="Text Body">SOFARS 5642</p>

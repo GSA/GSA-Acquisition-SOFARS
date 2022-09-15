@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5601.170" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5601.170"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5601.170</ph> Peer Reviews.</title>
    <conbody>
@@ -9,13 +12,15 @@
       </p>
       <p id="JeZqsB">(a) <i>DPC peer reviews</i>. DPC peer reviews are required on all non-competitive acquisitions over $500 million. DPC peer reviews are required on competitive acquisitions over $1 billion only for major defense acquisition programs for which the USD(A&amp;S) is the milestone decision authority or USD(A&amp;S) special interest programs. DPC may still conduct peer reviews for competitive procurements above $1 billion upon request. In accordance with DFARS deviation 2019-O0010, DPC postaward peer reviews for acquisitions for services over $1 billion are not required as stated in DFARS 201.170(a)(1)(iii). Internal reviews should be completed prior to or concurrent with DPC peer review.</p>
       <p id="eZCzNs">(b) DoD independent management reviews of contracts for services IAW section 808 of NDAA for FY08 are still required. Follow procedures for periodic independent management reviews of contracts for services consistent with section 808.</p>
-      <p id="OnYJtU">(c) <i>DPC Peer Reviews</i> leverage existing reviews; the following 5601-1 reviews serve as the DPC peer review phases. A list of required documents and elements to be addressed are found in <xref format="html" href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI201_1.htm" scope="external">
+      <p id="OnYJtU">(c) <i>DPC Peer Reviews</i> leverage existing reviews; the following 5601-1 reviews serve as the DPC peer review phases. A list of required documents and elements to be addressed are found in <xref format="html"
+               href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI201_1.htm"
+               scope="external">
             <u>PGI 201.170-4</u>
          </xref>. As a minimum, the Chief, cognizant LNO, and acquisition legal advisor will serve as reviewers for noncompetitive actions. As a minimum, the Chief, cognizant LNO, acquisition legal counsel, SSAC-Chair (if required), and SSA will serve as reviewers for competitive actions.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -101,7 +106,9 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="xdPGlS">(d) <i>Component peer reviews</i>. Pre-award peer reviews for competitive solicitations valued at less than $1B and non-competitive solicitations valued at less than $500M must be accomplished by complying with the RFP, Business, and Contract Clearances requirements defined in <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx" scope="external">
+      <p id="xdPGlS">(d) <i>Component peer reviews</i>. Pre-award peer reviews for competitive solicitations valued at less than $1B and non-competitive solicitations valued at less than $500M must be accomplished by complying with the RFP, Business, and Contract Clearances requirements defined in <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx"
+               scope="external">
             <u>SOFARS 5615.001</u>
          </xref> at the thresholds outlined in 5601-1.</p>
    </conbody>

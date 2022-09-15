@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5633.1" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_SUBPART_5633.1"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
       <ph props="autonumber">Subpart 5633.1</ph> - PROTESTS</title>
    <conbody>
-      <p id="rFeA7H"></p>
+      <p id="rFeA7H"/>
    </conbody>
 </concept>

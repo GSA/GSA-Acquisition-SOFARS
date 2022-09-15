@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_SUBPART_5610.000" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_SUBPART_5610.000"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
       <ph props="autonumber">Subpart 5610.000</ph> - SCOPE OF PART</title>
    <conbody>
-      <p id="F7PglX"></p>
+      <p id="F7PglX"/>
    </conbody>
 </concept>

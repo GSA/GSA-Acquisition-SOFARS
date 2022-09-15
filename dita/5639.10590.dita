@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5639.10590" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5639.10590"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5639.105-90</ph> Policy.</title>
    <conbody>
       <p id="MyHUAe">(d) The requiring activity will address the need for privacy protection in the specifications or Statement of Work (SOW). Contracting officers will notify the appropriate organization or office when it intends to issue a solicitation for items or services with an element of privacy protection. Contracting officers will identify the point of contact or agency responsible for oversight of privacy protection to the contractor after award.</p>
-      <p id="p_BM72" outputclass="Normal"></p>
+      <p id="p_BM72" outputclass="Normal"/>
       <p id="tcjfKu" outputclass="Normal">HQ, United States Special Operations Command</p>
       <p id="aosdi7k4" outputclass="Normal">Special Operations Forces Acquisition, Technology, and Logistics (SOF AT&amp;L)</p>
       <p id="umyQdG" outputclass="Normal">SOFARS 5639</p>

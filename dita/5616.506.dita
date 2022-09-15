@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5616.506" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5616.506"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5616.506</ph> Solicitation Provisions and Contract Clauses.</title>
    <conbody>
       <p id="yWpLZk" outputclass="Normal">
          <i>(Revised June 2018)</i>
       </p>
-      <p id="koMADb">(a) Contracting officers may insert a clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+      <p id="koMADb">(a) Contracting officers may insert a clause substantially the same as <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external">
             <u>5652.216-9001</u>
          </xref>, Oral Orders – Indefinite Delivery Contracts, in contracts that will permit oral orders to be placed.</p>
       <p id="p_BM506">(b) Contracting officers shall insert a clause substantially the same as <ph>
@@ -17,7 +22,9 @@
             <u>OMBUDSMAN@socom.mil</u>
          </xref>
       </p>
-      <p id="UIFsRD">(c) Contracting officers may insert a clause substantially the same as <xref format="docx" href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx" scope="external">
+      <p id="UIFsRD">(c) Contracting officers may insert a clause substantially the same as <xref format="docx"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx"
+               scope="external">
             <u>5652.216-9004</u>
          </xref>, Procedures for Issuing Task/Delivery Orders under Single Award, Indefinite Delivery-Indefinite Quantity Contracts, in single award, IDIQ contracts.</p>
    </conbody>

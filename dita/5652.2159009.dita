@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_5652.2159009" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5652.2159009"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5652.215-9009</ph> Personnel Changes before Award (2008) Section L</title>
    <conbody>
       <p outputclass="Normal">
          <i>(Revised August 2008)</i>
       </p>
-      <p outputclass="Normal">As prescribed in <xref href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx" scope="external" format="docx">
+      <p outputclass="Normal">As prescribed in <xref href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5615.docx"
+               scope="external"
+               format="docx">
             <u>5615.209(k)</u>
          </xref>, insert the following provision,</p>
       <p outputclass="Normal">Offerors shall verify and ensure the continuing availability of personnel for whom resumes are required and have been submitted. If personnel substitutions/changes occur prior to award, the offeror shall immediately notify the Contracting Officer. Failure to do so may render the proposal unacceptable. </p>

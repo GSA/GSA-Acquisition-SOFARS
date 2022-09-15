@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="SOFARS_Attachment_5601-1.2f" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_Attachment_5601-1.2f"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph props="autonumber">Attachment 5601-1.2 f</ph> Table Of Contents</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -53,7 +56,8 @@
                      <p id="KQlhnS">
                         <b>1. Acquisition Plan</b>
                         <b>(See</b>
-                        <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA" outputclass="fm:paraswithautonuminparens">paragraphs&#xa0; </xref>
+                        <xref href="Attachment_5601-1.2k.dita#SOFARS_Attachment_5601-1.2k/T1QFfA"
+                              outputclass="fm:paraswithautonuminparens">paragraphs  </xref>
                         <b>)</b>
                      </p>
                   </entry>
@@ -65,10 +69,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="FtNoze"></p>
+                     <p id="FtNoze"/>
                   </entry>
                   <entry>
-                     <p id="YoNjzn"></p>
+                     <p id="YoNjzn"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -89,10 +93,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="qumXSK" outputclass=" Ctr"></p>
+                     <p id="qumXSK" outputclass=" Ctr"/>
                   </entry>
                   <entry>
-                     <p id="mEcjxz" outputclass=" Ctr"></p>
+                     <p id="mEcjxz" outputclass=" Ctr"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -111,7 +115,9 @@
                      <p id="SyPFwb">
                         <b>
                            <i>NOTE:</i>
-                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv" outputclass="fm:paraswithautonuminparens">paragraphs&#xa0; </xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM" outputclass="fm:parawithautonuminparens">paragraph&#xa0; </xref>
+                        </b> For Services refer to 5601-1.2l <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/VMJujv"
+                              outputclass="fm:paraswithautonuminparens">paragraphs  </xref> &amp; <xref href="Attachment_5601-1.1b.dita#SOFARS_Attachment_5601-1.1b/qXRnPM"
+                              outputclass="fm:parawithautonuminparens">paragraph  </xref>
                      </p>
                   </entry>
                </row>
@@ -163,10 +169,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="OgRitA" outputclass=" Ctr"></p>
+                     <p id="OgRitA" outputclass=" Ctr"/>
                   </entry>
                   <entry>
-                     <p id="duPTWh" outputclass=" Ctr"></p>
+                     <p id="duPTWh" outputclass=" Ctr"/>
                   </entry>
                </row>
                <row rowsep="1">
