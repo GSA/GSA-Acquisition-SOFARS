@@ -43,13 +43,30 @@
       </topicref>
       <topicref href="SUBPART_5601.dita" navtitle="Subpart 5601 - ATTACHMENTS" outputclass="subtopic" props="Subpart 5601" base="NoTitle" audience="SOFARS_SUBPART_5601" otherprops="" xtrf="subtopic" xtrc="SOFARS_SUBPART_5601.html" />
    </topicref>
-   <topicref href="PART_5602.dita" navtitle="Part 5602 - DEFINITIONS OF WORDS AND TERMS" outputclass="Part" props="Part 5602" base="NoTitle" audience="SOFARS_PART_5602" otherprops="" xtrf="Part">
-      <topicref href="SUBPART_5602.1.dita" navtitle="Subpart 5602.1 - DEFINITIONS" outputclass="SubPart" props="Subpart 5602.1" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5602.1" xtrc="SOFARS_SUBPART_5602.1.html">
+   <topicref
+      href="PART_5602.dita"
+      navtitle="Part 5602 - DEFINITIONS OF WORDS AND TERMS"
+      outputclass="Part"
+      props="Part 5602"
+      base="NoTitle"
+      audience="SOFARS_PART_5602"
+      xtrf="Part"
+      otherprops="">
+      <topicref
+         href="SUBPART_5602.1.dita"
+         navtitle="Subpart 5602.1 - DEFINITIONS"
+         outputclass="SubPart"
+         props="Subpart 5602.1"
+         base="NoTitle"
+         xtrf="SubPart"
+         audience="SOFARS_SUBPART_5602.1"
+         xtrc="SOFARS_SUBPART_5602.1.html"
+         otherprops="">
          <topicref
             href="5602.190.dita"
-            navtitle="5602.1-90 - ACRONYMS"
+            navtitle="5602.190 - Acronyms"
             outputclass="subtopic"
-            props="5602.1-90"
+            props="5602.190"
             base="NoTitle"
             xtrf="subtopic"
             audience="SOFARS_5602.190"
