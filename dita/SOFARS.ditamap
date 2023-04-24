@@ -45,7 +45,15 @@
    </topicref>
    <topicref href="PART_5602.dita" navtitle="Part 5602 - DEFINITIONS OF WORDS AND TERMS" outputclass="Part" props="Part 5602" base="NoTitle" audience="SOFARS_PART_5602" otherprops="" xtrf="Part">
       <topicref href="SUBPART_5602.1.dita" navtitle="Subpart 5602.1 - DEFINITIONS" outputclass="SubPart" props="Subpart 5602.1" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5602.1" xtrc="SOFARS_SUBPART_5602.1.html">
-         <topicref href="5602.190.dita" navtitle="5602.1-90 - ACRONYMS" outputclass="subtopic" props="5602.1-90" base="NoTitle" xtrf="No" audience="SOFARS_5602.190" xtrc="SOFARS_5602.190.html" />
+         <topicref
+            href="5602.190.dita"
+            navtitle="5602.1-90 - ACRONYMS"
+            outputclass="subtopic"
+            props="5602.1-90"
+            base="NoTitle"
+            xtrf="subtopic"
+            audience="SOFARS_5602.190"
+            xtrc="SOFARS_5602.190.html"/>
       </topicref>
    </topicref>
    <topicref href="PART_5603.dita" navtitle="Part 5603 - IMPROPER BUSINESS PRACTICES AND PERSONAL         CONFLICTS OF INTEREST" outputclass="Part" props="Part 5603" base="NoTitle" xtrf="Part" audience="SOFARS_PART_5603">
@@ -144,7 +152,15 @@
       </topicref>
    </topicref>
    <topicref href="PART_5608.dita" navtitle="Part 5608 - REQUIRED SOURCES OF SUPPLIES AND SERVICES" outputclass="Part" props="Part 5608" base="NoTitle" xtrf="Part" audience="SOFARS_PART_5608">
-      <topicref href="5608.0003.dita" navtitle="5608.0003 Use of other Government supply sources." props="5608.0003" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5608.0003" xtrc="SOFARS_5608.0003.html" />
+      <topicref
+         href="5608.003.dita"
+         navtitle="5608.003 Use of other Government supply sources."
+         props="5608.003"
+         base="NoTitle"
+         outputclass="subtopic"
+         xtrf="subtopic"
+         audience="SOFARS_5608.003"
+         xtrc="SOFARS_5608.003.html"/>
       <topicref href="SUBPART_5608.4.dita" navtitle="Subpart 5608.4 - FEDERAL SUPPLY SCHEDULES" outputclass="SubPart" props="Subpart 5608.4" base="NoTitle" xtrf="SubPart" audience="SOFARS_SUBPART_5608.4" xtrc="SOFARS_SUBPART_5608.4.html">
          <topicref href="5608.40490.dita" navtitle="5608.404-90 Determination and certification for use of nonDoD contracts." props="5608.404-90" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5608.40490" xtrc="SOFARS_5608.40490.html" />
          <topicref href="5608.405.dita" navtitle="5608.405 Ordering Procedures for Federal Supply Schedules." props="5608.405" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5608.405" xtrc="SOFARS_5608.405.html">
