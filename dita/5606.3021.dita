@@ -7,9 +7,12 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5606.302-1</ph> Only One Responsible Source</title>
    <conbody>
-      <p id="RsNtrm" outputclass="Normal">
-         <i>(Added August 2015)</i>
+      <p id="RsNtrm" outputclass="Normal"> 
+         <i>(Revised <ph rev="Revised June 2023">June 2023</ph>)</i> 
       </p>
-      <p id="p_BM306_303">The waiver authority identified in DFARS PGI 206.302-1(d) is the Director of Procurement. The request for information (RFI) or source sought notice should be accomplished during market research and documented in the J&amp;A. The RFI or sources sought is separate from the presolicitation notice required by FAR 5.2.</p>
+      <p outputclass="List1" rev="Revised June 2023">(a) A RFI or sources sought is separate from the presolicitation notice required by FAR <xref scope="external"
+               format="html"
+               href="https://www.acquisition.gov/far/Subpart-5.2">Subpart 5.2</xref>. The request for information (RFI) or sources sought notice must be accomplished during market research and documented in the J&amp;A. See DCG for J&amp;A template. </p>
+      <p outputclass="List1" rev="Revised June 2023">(b) Contracting Officers must reply in writing to each company who responded to a RFI or sources sought with a technical evaluation. Email(s) or letter(s) will be documented in the contract file and summarized in any resultant J&amp;A. A letter template is available in the DCG. </p>
    </conbody>
 </concept>

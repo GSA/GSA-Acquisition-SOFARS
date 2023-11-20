@@ -13,9 +13,9 @@
                </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref
-                        outputclass="fm:TOC"
-                        href="5602.190.dita#SOFARS_5602.190">5602.190 - ACRONYMS</xref> </p>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5602.190.dita#SOFARS_5602.190">5602.190 - ACRONYMS</xref>
+                     </p>
                   </li>
                </ul>
             </li>

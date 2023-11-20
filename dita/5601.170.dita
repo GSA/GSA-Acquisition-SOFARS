@@ -7,16 +7,18 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5601.170</ph> Peer Reviews.</title>
    <conbody>
-      <p id="mygYgi" outputclass="Normal">
-         <i>(Revised June 2021)</i>
+      <p id="mygYgi" outputclass="Normal"> 
+         <i>(Revised <ph rev="Revised June 2023">June 2023</ph>)</i> 
       </p>
-      <p id="JeZqsB">(a) <i>DPC peer reviews</i>. DPC peer reviews are required on all non-competitive acquisitions over $500 million. DPC peer reviews are required on competitive acquisitions over $1 billion only for major defense acquisition programs for which the USD(A&amp;S) is the milestone decision authority or USD(A&amp;S) special interest programs. DPC may still conduct peer reviews for competitive procurements above $1 billion upon request. In accordance with DFARS deviation 2019-O0010, DPC postaward peer reviews for acquisitions for services over $1 billion are not required as stated in DFARS 201.170(a)(1)(iii). Internal reviews should be completed prior to or concurrent with DPC peer review.</p>
+      <p>(a) <i>DPC peer reviews</i>. DPC peer reviews are required on all non-competitive acquisitions over $1 billion. DPC peer reviews are required on competitive acquisitions over $1 billion only for major defense acquisition programs for which the USD(A&amp;S) is the milestone decision authority or USD(A&amp;S) special interest programs. DPC may still conduct peer reviews for competitive procurements above $1 billion upon request. Internal reviews should be completed prior to DPC peer review. Peer reviews are addressed in <xref href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS_201.170"
+               format="html"
+               scope="external">DFARS 201.170</xref>.</p>
       <p id="eZCzNs">(b) DoD independent management reviews of contracts for services IAW section 808 of NDAA for FY08 are still required. Follow procedures for periodic independent management reviews of contracts for services consistent with section 808.</p>
       <p id="OnYJtU">(c) <i>DPC Peer Reviews</i> leverage existing reviews; the following 5601-1 reviews serve as the DPC peer review phases. A list of required documents and elements to be addressed are found in <xref format="html"
                href="http://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI201_1.htm"
-               scope="external">
-            <u>PGI 201.170-4</u>
-         </xref>. As a minimum, the Chief, cognizant LNO, and acquisition legal advisor will serve as reviewers for noncompetitive actions. As a minimum, the Chief, cognizant LNO, acquisition legal counsel, SSAC-Chair (if required), and SSA will serve as reviewers for competitive actions.</p>
+               scope="external"> 
+            <u>PGI 201.170-4</u> 
+         </xref>. <ph rev="Revised June 2023">Additionally, a peer review checklist is also found in <u>PGI 201.170-4</u>.</ph> As a minimum, the Chief, cognizant LNO, and acquisition legal advisor will serve as reviewers for noncompetitive actions. As a minimum, the Chief, cognizant LNO, acquisition legal counsel, SSAC-Chair (if required), and SSA will serve as reviewers for competitive actions.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
             <colspec colname="1" colnum="1" rowheader="headers"/>

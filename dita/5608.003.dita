@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept
-   xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-   id="SOFARS_5608.003"
-   ditaarch:DITAArchVersion="1.3">
-   <title
-      outputclass="Heading 2"> <ph
-      props="autonumber">5608.003</ph> Use of other Government supply sources.</title>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="SOFARS_5608.003"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2"> 
+      <ph props="autonumber">5608.003</ph> Use of other Government supply sources.</title>
    <conbody>
-      <p
-         id="lwsMxT"
-         outputclass="Normal"> <i>(Revised January 2018)</i> </p>
-      <p
-         id="wbjzIv"
-         outputclass="Normal">Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable:</p>
-      <p
-         id="mzqRlG">(f) SOCOM Wide Mission Support (SWMS) contract:</p>
-      <p
-         id="tByYIW"
-         outputclass="Normal">In accordance with the Chief of Staff memo, Obtaining Acquisition Support for Service Contract Requirements dated December 1, 2015, all Headquarters (HQ) USSOCOM services contract requirements (excluding IT support) are required to use the SWMS contract.</p>
-      <p
-         id="PxhUbi">(g) <i>Removed (January 2018)</i>.</p>
-      <p
-         id="vIyXli">(h) SOF Information Enterprise (SIE) IT Services, Hardware and Software Purchasing:</p>
-      <p
-         id="aUwWIh"
-         outputclass="Normal">Use of Enterprise Operations and Maintenance (EO&amp;M) contract (services) and GSA Alliant GWACs (Services) and NASA SEWP (Hardware/Software) are highly encouraged but not mandatory.</p>
+      <p id="lwsMxT" outputclass="Normal"> 
+         <i>(Revised January 2018)</i> 
+      </p>
+      <p id="wbjzIv" outputclass="Normal">Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable:</p>
+      <p id="mzqRlG">(f) SOCOM Wide Mission Support (SWMS) contract:</p>
+      <p id="tByYIW" outputclass="Normal">In accordance with the Chief of Staff memo, Obtaining Acquisition Support for Service Contract Requirements dated December 1, 2015, all Headquarters (HQ) USSOCOM services contract requirements (excluding IT support) are required to use the SWMS contract.</p>
+      <p id="PxhUbi">(g) <i>Removed (January 2018)</i>.</p>
+      <p id="vIyXli">(h) SOF Information Enterprise (SIE) IT Services, Hardware and Software Purchasing:</p>
+      <p id="aUwWIh" outputclass="Normal">Use of Enterprise Operations and Maintenance (EO&amp;M) contract (services) and GSA Alliant GWACs (Services) and NASA SEWP (Hardware/Software) are highly encouraged but not mandatory.</p>
    </conbody>
 </concept>

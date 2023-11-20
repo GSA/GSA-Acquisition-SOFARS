@@ -22,7 +22,7 @@
                         <xref outputclass="fm:TOC" href="5601.104.dita#SOFARS_5601.104">5601.104 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5601.170.dita#SOFARS_5601.170">5601.170 Peer Reviews.</xref>
                      </p>
@@ -82,7 +82,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5601.6.dita#SOFARS_SUBPART_5601.6">Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5601.601.dita#SOFARS_5601.601">5601.601 General.</xref>
                      </p>

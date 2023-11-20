@@ -4,19 +4,23 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="SOFARS_5604.403"
          ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
+   <title outputclass="Heading 3"> 
       <ph props="autonumber">5604.403</ph> Responsibilities of contracting officers.</title>
    <conbody>
-      <p id="p_BM5604_403a" outputclass="Normal">
-         <i>(Revised June 2021)</i>
+      <p id="BM5604_403a">
+         <i>(Revised <ph rev="Revised June 2023">July 2023</ph>)</i> 
       </p>
-      <p id="HPujOm">(a) <i>(Removed August 2017)</i>
-      </p>
-      <p id="p_BM5">(b) For HQ Divisions, all requests for disclosure of information in accordance with <xref format="html"
-               href="https://www.acquisition.gov/dfars/part-252-%E2%80%93-clauses"
-               scope="external">
-            <u>DFARS 252.204-7000</u>
-         </xref>, shall be coordinated with the Program Manager, SOPA, SOF AT&amp;L-AS-J2X, SCSO-J2X-RPT, SOF AT&amp;L-AS, and SOJA-AQ. All cyber security breaches shall be reported to SCSO-J2X-RPT and SOF AT&amp;L-AS. All other field contracting offices shall coordinate requests for disclosure of information and reporting of cyber security breaches in accordance with local procedures. At a minimum, the coordination of disclosure of information requests shall include the Program Manager/Requiring Activity, SOJA-AQ, and local OPSEC.</p>
-      <p id="xsWmBE">(c) To ensure appropriate control of classified material within the contracting office, no foreign firm or individual will be added to any source list, which may, at present or eventually, require or permit access to classified material during any phase of procurement without the written concurrence of the contracting office's servicing Security Management Office.</p>
+      <p outputclass="List1">(a) Contracting officers must insert the clause <xref format="html"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx#BM204_9001"
+               scope="external">5652.204-9001</xref>, Cognizant Security Office, when utilizing <xref format="html"
+               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/52_000.htm#P298_50254"
+               scope="external">FAR 52.204-2</xref>, Security Requirements.</p>
+      <p rev="Revised June 2023" outputclass="List1">(b) Contracting officers shall insert the clause <xref format="html"
+               href="https://sof.atl.socom.mil/sites/K/SOFARS_DCG/SOFARS/5652.docx#BM204_9003"
+               scope="external">5652.204-9003</xref>. Disclosure of Unclassified Information, in all USSOCOM solicitations and contracts. All requests made pursuant to this clause shall be coordinated through the Information Review and Release Tool (IR/RT) for Distribution A (IAW DoDD 5230.24) for HQ personnel. Components and TSOCs will use their local resources to achieve the same level of review.</p>
+      <p rev="Revised June 2023">When contracting for fundamental research with non-profits and universities, contracting officers may use a less restrictive one-time use clause in place of <xref format="html"
+               href="https://sof.atl.socom.mil/sites/K/SCN201007/SOFARS/5652.docx"
+               scope="external">5652.204-9003</xref>, after consulting with legal and in accordance with DoDD 5230.24.</p>
+      <p outputclass="List1">(c) To ensure appropriate control of classified material within the contracting office, no foreign firm or individual will be added to any source list which may, at present or eventually, require or permit access to classified material during any phase of procurement without the written concurrence of the contracting office's servicing Security Management Office.</p>
    </conbody>
 </concept>

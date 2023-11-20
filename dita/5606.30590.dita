@@ -7,24 +7,14 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">5606.305-90</ph> Public Disclosure of J&amp;A Documents for Noncompetitive Contracts.</title>
    <conbody>
-      <p id="OcEkRh" outputclass="Normal">
-         <i>(Added June 2010)</i>
+      <p>
+         <i>(Revised <ph rev="Revised June 2023">June 2023</ph>)</i>
       </p>
-      <p id="CmpoxP">In accordance with FAR <xref format="html"
-               href="https://www.acquisition.gov/content/part-6-competition-requirements"
-               scope="external">
-            <u>6.305</u>
-         </xref>, contracting officers are required to post J&amp;As for noncompetitive contracts to theContract Opportunities in<xref format="html"
-               href="https://beta.sam.gov/opp/workspace"
-               scope="external">
-            <u/>
-            <u>beta.SAM</u>
-         </xref>.</p>
-      <p id="MnbgvA">(c)Contracting officers must ensure that an adequate Operational Security (OPSEC) review was conducted prior to posting.</p>
-      <p id="eQkJeZ">(d)Follow the procedures in the DCG for posting J&amp;As to <xref format="html"
-               href="https://beta.sam.gov/opp/workspace"
-               scope="external">
-            <u>beta.SAM</u>
-         </xref>.</p>
+      <p>In accordance with FAR <xref href="https://www.acquisition.gov/far/part-6#FAR_6_305"
+               format="html"
+               scope="external">6.305</xref>, contracting officers are required to post J&amp;As for noncompetitive contracts to the Contract Opportunities in<xref href="https://sam.gov/content/home" format="html" scope="external"> SAM</xref>.gov.</p>
+      <p>(c) Contracting officers must ensure that an adequate Operational Security (OPSEC) review was conducted prior to posting. <ph rev="Revised June 2023">A copy of the OPSEC review results must be in the contract file.</ph>
+      </p>
+      <p>(d) Follow the procedures in the DCG for posting J&amp;As to <xref href="https://sam.gov/content/home" format="html" scope="external">SAM</xref>.gov. </p>
    </conbody>
 </concept>
