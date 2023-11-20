@@ -4,9 +4,8 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="SOFARS_5602.190"
          ditaarch:DITAArchVersion="1.3">
-   <title
-      outputclass="Heading 2 Subpart"> <ph
-      props="autonumber">5602.190</ph> - ACRONYMS</title>
+   <title outputclass="Heading 2 Subpart"> 
+      <ph props="autonumber">5602.190</ph> - ACRONYMS</title>
    <conbody>
       <p id="NBoMRD" outputclass="Normal">
          <i>(Revised June 2017)</i>
