@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map title="SOFARS" outputclass="dod">
    <title id="title__Toc75347544" outputclass="Title">SOFARS</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume I - Parts 5601 to 5652"
              href="Volume_I.dita"
              outputclass="subtopic"
              props=""
@@ -135,7 +135,7 @@
                    xtrc=""/>
       </topicref>
       <topicref href="SUBPART_5601.6.dita"
-                navtitle="Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES"
+                navtitle="Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND      RESPONSIBILITIES"
                 outputclass="SubPart"
                 props="Subpart 5601.6"
                 base="NoTitle"
@@ -280,7 +280,7 @@
                 xtrc="SOFARS_SUBPART_5602.1.html"
                 otherprops="">
          <topicref href="5602.190.dita"
-                   navtitle="5602.190 - Acronyms"
+                   navtitle="5602.190 - ACRONYMS"
                    outputclass="subtopic"
                    props="5602.190"
                    base="NoTitle"
@@ -364,7 +364,7 @@
                 audience="SOFARS_SUBPART_5603.5"
                 xtrc="SOFARS_SUBPART_5603.5.html"/>
       <topicref href="SUBPART_5603.8.dita"
-                navtitle="Subpart 5603.8 - LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS"
+                navtitle="Subpart 5603.8 - LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE      FEDERAL TRANSACTIONS"
                 outputclass="SubPart"
                 props="Subpart 5603.8"
                 base="NoTitle"
@@ -1170,7 +1170,7 @@
              xtrf="Part"
              audience="SOFARS_PART_5612">
       <topicref href="SUBPART_5612.1.dita"
-                navtitle="Subpart 5612.1 - ACQUISITION OF COMMERCIAL ITEMS GENERAL"
+                navtitle="Subpart 5612.1 - ACQUISITION OF COMMERCIAL ITEMS  GENERAL"
                 outputclass="SubPart"
                 props="Subpart 5612.1"
                 base="NoTitle"
@@ -2231,7 +2231,7 @@
              xtrf="Part"
              audience="SOFARS_PART_5625">
       <topicref href="SUBPART_5625.1.dita"
-                navtitle="Subpart 5625.1 - BUY AMERICAN ACT SUPPLIES"
+                navtitle="Subpart 5625.1 - BUY AMERICAN ACT  SUPPLIES"
                 outputclass="SubPart"
                 props="Subpart 5625.1"
                 base="NoTitle"
@@ -2615,7 +2615,7 @@
              xtrf="Part"
              audience="SOFARS_PART_5637">
       <topicref href="SUBPART_5637.1.dita"
-                navtitle="Subpart 5637.1 - SERVICE CONTRACTS GENERAL"
+                navtitle="Subpart 5637.1 - SERVICE CONTRACTS  GENERAL"
                 outputclass="SubPart"
                 props="Subpart 5637.1"
                 base="NoTitle"
@@ -3080,7 +3080,7 @@
                    audience="SOFARS_5652.2159014"
                    xtrc=""/>
          <topicref href="5652.2159015.dita"
-                   navtitle="5652.215-9015 Evaluation of Offers Full Quantity (2003) Section M"
+                   navtitle="5652.215-9015 Evaluation of Offers  Full Quantity (2003) Section M"
                    props="5652.215-9015"
                    base="NoTitle"
                    outputclass="SubPart"
@@ -3096,7 +3096,7 @@
                    audience="SOFARS_5652.2169000"
                    xtrc=""/>
          <topicref href="5652.2169001.dita"
-                   navtitle="5652.216-9001 Oral Orders Indefinite Delivery Contracts (2005) Section I"
+                   navtitle="5652.216-9001 Oral Orders  Indefinite Delivery Contracts (2005) Section I"
                    props="5652.216-9001"
                    base="NoTitle"
                    outputclass="SubPart"
@@ -3209,7 +3209,7 @@
              xtrf="Part"
              audience="SOFARS_Attachment_5601-1">
       <topicref href="Attachment-5601-1-Index.dita"
-                navtitle="Index"
+                navtitle=" Index"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
@@ -3329,7 +3329,7 @@
              xtrf="Part"
              audience="SOFARS_Attachment_5601-2">
       <topicref href="Attachment_5601-2_Index.dita"
-                navtitle="Index"
+                navtitle=" Index"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
