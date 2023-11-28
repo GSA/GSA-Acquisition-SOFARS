@@ -2079,14 +2079,7 @@
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5619.2"
                 xtrc="SOFARS_SUBPART_5619.2.html">
-         <topicref href="5619.201.dita"
-                   navtitle="5619.201 - General Policy."
-                   outputclass="subtopic"
-                   props="5619.201"
-                   base="NoTitle"
-                   xtrf="subtopic"
-                   audience="SOFARS_5619.201"
-                   xtrc=""/>
+         <topicref href="5619.201.dita" navtitle="5619.201 - General Policy." outputclass="subtopic" props="5619.201" base="NoTitle" xtrf="subtopic" audience="SOFARS_5619.201" xtrc=""/>
       </topicref>
       <topicref href="SUBPART_5619.7.dita"
                 navtitle="Subpart 5619.7 - THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
@@ -2967,238 +2960,35 @@
              base="NoTitle"
              xtrf="Part"
              audience="SOFARS_PART_5652">
-      <topicref href="SUBPART_5652.2.dita"
-                navtitle="Subpart 5652.2 - [RESERVED]"
-                outputclass="SubPart"
-                props="Subpart 5652.2"
-                audience="SOFARS_SUBPART_5652.2"
-                xtrc="SOFARS_SUBPART_5652.2.html"
-                xtrf="SubPart"
-                base="NoTitle">
-         <topicref href="5652.2049003.dita"
-                   navtitle="5652.204-9003 Disclosure of Unclassified Information (2023) Section H"
-                   outputclass="subtopic"
-                   audience="SOFARS_5652.204-9003"
-                   xtrf="subtopic"
-                   base="NoTitle"
-                   props="5652.204-9003"
-                   xtrc=""/>
-         <topicref href="5652.2049004.dita"
-                   navtitle="5652.204-9004 Foreign Persons (2006) Section K"
-                   props="5652.204-9004"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2049004"
-                   xtrc=""/>
-         <topicref href="5652.2099002.dita"
-                   navtitle="5652.209-9002 Use of Contractor Support/Advisory Personnel for Review of Proposals (2015) Section L"
-                   props="5652.209-9002"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2099002"
-                   xtrc=""/>
-         <topicref href="5652.2099003.dita"
-                   navtitle="5652.209-9003 Use of Contractor Support/Advisory Personnel (2015) Section H"
-                   props="5652.209-9003"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2099003"
-                   xtrc=""/>
-         <topicref href="5652.2149002.dita"
-                   navtitle="5652.214-9002 Notice of Prebid Conference (2003) Section L"
-                   props="5652.214-9002"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2149002"
-                   xtrc=""/>
-         <topicref href="5652.2149003.dita"
-                   navtitle="5652.214-9003 Price History (2001) Section L"
-                   props="5652.214-9003"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2149003"
-                   xtrc=""/>
-         <topicref href="5652.2159001.dita"
-                   navtitle="5652.215-9001 Notice of Preproposal Conference (2001) Section L"
-                   props="5652.215-9001"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159001"
-                   xtrc=""/>
-         <topicref href="5652.2159007.dita"
-                   navtitle="5652.215-9007 Bill of Materials (1998) Section L"
-                   props="5652.215-9007"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159007"
-                   xtrc=""/>
-         <topicref href="5652.2159008.dita"
-                   navtitle="5652.215-9008 Past Performance Data (2001) Section L"
-                   props="5652.215-9008"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159008"
-                   xtrc=""/>
-         <topicref href="5652.2159009.dita"
-                   navtitle="5652.215-9009 Personnel Changes before Award (2008) Section L"
-                   props="5652.215-9009"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159009"
-                   xtrc=""/>
-         <topicref href="5652.2159010.dita"
-                   navtitle="5652.215-9010 Cost and Pricing Data Not Required (1998) Section L"
-                   props="5652.215-9010"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159010"
-                   xtrc=""/>
-         <topicref href="5652.2159012.dita"
-                   navtitle="5652.215-9012 Basis for Award (2001) Section M"
-                   props="5652.215-9012"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159012"
-                   xtrc=""/>
-         <topicref href="5652.2159014.dita"
-                   navtitle="5652.215-9014 Basis for AwardLowest Price Technically Acceptable Proposal (2003) Section M"
-                   props="5652.215-9014"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159014"
-                   xtrc=""/>
-         <topicref href="5652.2159015.dita"
-                   navtitle="5652.215-9015 Evaluation of Offers  Full Quantity (2003) Section M"
-                   props="5652.215-9015"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2159015"
-                   xtrc=""/>
-         <topicref href="5652.2169000.dita"
-                   navtitle="5652.216-9000 Fixed Fee Information (2003) Section G"
-                   props="5652.216-9000"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169000"
-                   xtrc=""/>
-         <topicref href="5652.2169001.dita"
-                   navtitle="5652.216-9001 Oral Orders  Indefinite Delivery Contracts (2005) Section I"
-                   props="5652.216-9001"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169001"
-                   xtrc=""/>
-         <topicref href="5652.2169002.dita"
-                   navtitle="5652.216-9002 Withholding of Fixed Fee or Incentive Fee (2005) Section I"
-                   props="5652.216-9002"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169002"
-                   xtrc=""/>
-         <topicref href="5652.2169003.dita"
-                   navtitle="5652.216-9003 Procedures for Issuing Task/Delivery Orders under Multiple Award, Indefinite DeliveryIndefinite Quantity Contracts (2020) Section H"
-                   props="5652.216-9003"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169003"
-                   xtrc=""/>
-         <topicref href="5652.2169004.dita"
-                   navtitle="5652.216-9004 , Procedures for Issuing Task/Delivery Orders under Single Award, Indefinite DeliveryIndefinite Quantity Contracts (2003) Section H"
-                   props="5652.216-9004"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169004"
-                   xtrc=""/>
-         <topicref href="5652.2169005.dita"
-                   navtitle="5652.216-9005 , Government Down Time for Various Reasons (2005) Section I"
-                   props="5652.216-9005"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2169005"
-                   xtrc=""/>
-         <topicref href="5652.2289000.dita"
-                   navtitle="5652.228-9000 Required Insurance (2015) Section G"
-                   props="5652.228-9000"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2289000"
-                   xtrc=""/>
-         <topicref href="5652.2329001.dita"
-                   navtitle="5652.232-9001 Invoicing (2005) Section I (Removed June 2018)"
-                   props="5652.232-9001"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2329001"
-                   xtrc=""/>
-         <topicref href="5652.2329003.dita"
-                   navtitle="5652.232-9003 Paying Office Instructions (2011) Section G (Removed June 2018)"
-                   props="5652.232-9003"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2329003"
-                   xtrc=""/>
-         <topicref href="5652.2329006.dita"
-                   navtitle="5652.232-9006 Electronic Distribution of Vouchers/Invoices Using Alternative to WAWF (2011) Section G (Removed June 2018)"
-                   props="5652.232-9006"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2329006"
-                   xtrc=""/>
-         <topicref href="5652.2329007.dita"
-                   navtitle="5652.232-9007 Manual Distribution of Vouchers/Invoices (2011) Section G (Removed June 2018)"
-                   props="5652.232-9007"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2329007"
-                   xtrc=""/>
-         <topicref href="5652.2339000.dita"
-                   navtitle="5652.233-9000 Independent Review of Agency Protest Decision (2018) Section I"
-                   props="5652.233-9000"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2339000"
-                   xtrc=""/>
-         <topicref href="5652.2379001.dita"
-                   navtitle="5652.237-9001 Key Personnel Requirements (2003) Section I"
-                   props="5652.237-9001"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2379001"
-                   xtrc=""/>
-         <topicref href="5652.2429002.dita"
-                   navtitle="5652.242-9002 Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I"
-                   props="5652.242-9002"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="SOFARS_5652.2429002"
-                   xtrc=""/>
+      <topicref href="SUBPART_5652.2.dita" navtitle="Subpart 5652.2 - [RESERVED]" outputclass="SubPart" props="Subpart 5652.2" audience="SOFARS_SUBPART_5652.2" xtrc="SOFARS_SUBPART_5652.2.html" xtrf="SubPart" base="NoTitle">
+         <topicref href="5652.2049003.dita" navtitle="5652.204-9003 Disclosure of Unclassified Information (2023) Section H" outputclass="subtopic" audience="SOFARS_5652.204-9003" xtrf="subtopic" base="NoTitle" props="5652.204-9003" xtrc=""/>
+         <topicref href="5652.2049004.dita" navtitle="5652.204-9004 Foreign Persons (2006) Section K" props="5652.204-9004" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2049004" xtrc=""/>
+         <topicref href="5652.2099002.dita" navtitle="5652.209-9002 Use of Contractor Support/Advisory Personnel for Review of Proposals (2015) Section L" props="5652.209-9002" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2099002" xtrc=""/>
+         <topicref href="5652.2099003.dita" navtitle="5652.209-9003 Use of Contractor Support/Advisory Personnel (2015) Section H" props="5652.209-9003" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2099003" xtrc=""/>
+         <topicref href="5652.2149002.dita" navtitle="5652.214-9002 Notice of Prebid Conference (2003) Section L" props="5652.214-9002" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2149002" xtrc=""/>
+         <topicref href="5652.2149003.dita" navtitle="5652.214-9003 Price History (2001) Section L" props="5652.214-9003" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2149003" xtrc=""/>
+         <topicref href="5652.2159001.dita" navtitle="5652.215-9001 Notice of Preproposal Conference (2001) Section L" props="5652.215-9001" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159001" xtrc=""/>
+         <topicref href="5652.2159007.dita" navtitle="5652.215-9007 Bill of Materials (1998) Section L" props="5652.215-9007" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159007" xtrc=""/>
+         <topicref href="5652.2159008.dita" navtitle="5652.215-9008 Past Performance Data (2001) Section L" props="5652.215-9008" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159008" xtrc=""/>
+         <topicref href="5652.2159009.dita" navtitle="5652.215-9009 Personnel Changes before Award (2008) Section L" props="5652.215-9009" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159009" xtrc=""/>
+         <topicref href="5652.2159010.dita" navtitle="5652.215-9010 Cost and Pricing Data Not Required (1998) Section L" props="5652.215-9010" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159010" xtrc=""/>
+         <topicref href="5652.2159012.dita" navtitle="5652.215-9012 Basis for Award (2001) Section M" props="5652.215-9012" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159012" xtrc=""/>
+         <topicref href="5652.2159014.dita" navtitle="5652.215-9014 Basis for AwardLowest Price Technically Acceptable Proposal (2003) Section M" props="5652.215-9014" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159014" xtrc=""/>
+         <topicref href="5652.2159015.dita" navtitle="5652.215-9015 Evaluation of Offers  Full Quantity (2003) Section M" props="5652.215-9015" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2159015" xtrc=""/>
+         <topicref href="5652.2169000.dita" navtitle="5652.216-9000 Fixed Fee Information (2003) Section G" props="5652.216-9000" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169000" xtrc=""/>
+         <topicref href="5652.2169001.dita" navtitle="5652.216-9001 Oral Orders  Indefinite Delivery Contracts (2005) Section I" props="5652.216-9001" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169001" xtrc=""/>
+         <topicref href="5652.2169002.dita" navtitle="5652.216-9002 Withholding of Fixed Fee or Incentive Fee (2005) Section I" props="5652.216-9002" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169002" xtrc=""/>
+         <topicref href="5652.2169003.dita" navtitle="5652.216-9003 Procedures for Issuing Task/Delivery Orders under Multiple Award, Indefinite DeliveryIndefinite Quantity Contracts (2020) Section H" props="5652.216-9003" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169003" xtrc=""/>
+         <topicref href="5652.2169004.dita" navtitle="5652.216-9004 , Procedures for Issuing Task/Delivery Orders under Single Award, Indefinite DeliveryIndefinite Quantity Contracts (2003) Section H" props="5652.216-9004" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169004" xtrc=""/>
+         <topicref href="5652.2169005.dita" navtitle="5652.216-9005 , Government Down Time for Various Reasons (2005) Section I" props="5652.216-9005" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2169005" xtrc=""/>
+         <topicref href="5652.2289000.dita" navtitle="5652.228-9000 Required Insurance (2015) Section G" props="5652.228-9000" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2289000" xtrc=""/>
+         <topicref href="5652.2329001.dita" navtitle="5652.232-9001 Invoicing (2005) Section I (Removed June 2018)" props="5652.232-9001" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2329001" xtrc=""/>
+         <topicref href="5652.2329003.dita" navtitle="5652.232-9003 Paying Office Instructions (2011) Section G (Removed June 2018)" props="5652.232-9003" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2329003" xtrc=""/>
+         <topicref href="5652.2329006.dita" navtitle="5652.232-9006 Electronic Distribution of Vouchers/Invoices Using Alternative to WAWF (2011) Section G (Removed June 2018)" props="5652.232-9006" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2329006" xtrc=""/>
+         <topicref href="5652.2329007.dita" navtitle="5652.232-9007 Manual Distribution of Vouchers/Invoices (2011) Section G (Removed June 2018)" props="5652.232-9007" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2329007" xtrc=""/>
+         <topicref href="5652.2339000.dita" navtitle="5652.233-9000 Independent Review of Agency Protest Decision (2018) Section I" props="5652.233-9000" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2339000" xtrc=""/>
+         <topicref href="5652.2379001.dita" navtitle="5652.237-9001 Key Personnel Requirements (2003) Section I" props="5652.237-9001" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2379001" xtrc=""/>
+         <topicref href="5652.2429002.dita" navtitle="5652.242-9002 Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I" props="5652.242-9002" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="SOFARS_5652.2429002" xtrc=""/>
       </topicref>
    </topicref>
    <topicref href="Attachment_5601-1.dita"

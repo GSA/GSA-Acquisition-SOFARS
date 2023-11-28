@@ -13,7 +13,9 @@
                </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="5619.201.dita#SOFARS_5619.201">5619.201 - General Policy.</xref> </p>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5619.201.dita#SOFARS_5619.201">5619.201 - General Policy.</xref>
+                     </p>
                   </li>
                </ul>
             </li>
