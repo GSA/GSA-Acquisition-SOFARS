@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
-  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="SOFARS" outputclass="dod">
    <title id="title__Toc75347544" outputclass="Title">SOFARS</title>
    <topicref navtitle="Volume I - Parts 5601 to 5652"
@@ -28,7 +28,9 @@
              base="NoTitle"
              audience="SOFARS_PART_5601"
              otherprops=""
-             xtrf="Part">
+             xtrf="Part"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5601.1.dita"
                 navtitle="Subpart 5601.1 - PURPOSE, AUTHORITY ISSUANCE"
                 outputclass="SubPart"
@@ -37,7 +39,9 @@
                 audience="SOFARS_SUBPART_5601.1"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.1.html">
+                xtrc="SOFARS_SUBPART_5601.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.101.dita"
                    navtitle="5601.101 Purpose."
                    props="5601.101"
@@ -45,7 +49,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.101"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5601.104.dita"
                    navtitle="5601.104 Applicability."
                    props="5601.104"
@@ -53,7 +59,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.104"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5601.170.dita"
                    navtitle="5601.170 Peer Reviews."
                    props="5601.170"
@@ -61,7 +69,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.170"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="1"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5601.2.dita"
                 navtitle="Subpart 5601.2 - ADMINISTRATION"
@@ -71,7 +81,9 @@
                 audience="SOFARS_SUBPART_5601.2"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.2.html">
+                xtrc="SOFARS_SUBPART_5601.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.201.dita"
                    navtitle="5601.201 Maintenance of the FAR."
                    props="5601.201"
@@ -79,7 +91,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.201"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5601.2011.dita"
                       navtitle="5601.201-1 The Two Councils."
                       props="5601.201-1"
@@ -87,7 +101,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.2011"
-                      xtrc="SOFARS_5601.2011.html"/>
+                      xtrc="SOFARS_5601.2011.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5601.3.dita"
@@ -98,7 +114,9 @@
                 audience="SOFARS_SUBPART_5601.3"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.3.html">
+                xtrc="SOFARS_SUBPART_5601.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.301.dita"
                    navtitle="5601.301 Policy."
                    props="5601.301"
@@ -106,7 +124,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.301"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5601.304.dita"
                    navtitle="5601.304 Agency Control and Compliance Procedures."
                    props="5601.304"
@@ -114,7 +134,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.304"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5601.4.dita"
                 navtitle="Subpart 5601.4 - DEVIATIONS FROM THE FAR"
@@ -124,7 +146,9 @@
                 audience="SOFARS_SUBPART_5601.4"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.4.html">
+                xtrc="SOFARS_SUBPART_5601.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.403.dita"
                    navtitle="5601.403 Individual Deviations."
                    props="5601.403"
@@ -132,7 +156,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.403"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5601.6.dita"
                 navtitle="Subpart 5601.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND      RESPONSIBILITIES"
@@ -142,7 +168,9 @@
                 audience="SOFARS_SUBPART_5601.6"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.6.html">
+                xtrc="SOFARS_SUBPART_5601.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.601.dita"
                    navtitle="5601.601 General."
                    props="5601.601"
@@ -150,7 +178,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.601"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5601.602.dita"
                    navtitle="5601.602 Contracting Officers."
                    props="5601.602"
@@ -158,7 +188,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.602"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5601.6021.dita"
                       navtitle="5601.602-1 Authority."
                       props="5601.602-1"
@@ -166,7 +198,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.6021"
-                      xtrc="SOFARS_5601.6021.html"/>
+                      xtrc="SOFARS_5601.6021.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5601.6022.dita"
                       navtitle="5601.602-2 Responsibilities."
                       props="5601.602-2"
@@ -174,7 +208,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.6022"
-                      xtrc="SOFARS_5601.6022.html"/>
+                      xtrc="SOFARS_5601.6022.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5601.602290.dita"
                       navtitle="5601.602-2-90 Ordering Officers."
                       props="5601.602-2-90"
@@ -182,7 +218,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.602290"
-                      xtrc="SOFARS_5601.602290.html"/>
+                      xtrc="SOFARS_5601.602290.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5601.6023.dita"
                       navtitle="5601.602-3 Ratification of Unauthorized Commitments. See DCG for required procedures."
                       props="5601.602-3"
@@ -190,7 +228,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.6023"
-                      xtrc="SOFARS_5601.6023.html"/>
+                      xtrc="SOFARS_5601.6023.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5601.602390.dita"
                       navtitle="5601.602-3-90 Procedures. (Removed November 2018)"
                       props="5601.602-3-90"
@@ -198,7 +238,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.602390"
-                      xtrc="SOFARS_5601.602390.html"/>
+                      xtrc="SOFARS_5601.602390.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5601.603.dita"
                    navtitle="5601.603 Selection, Appointment, and Termination of Appointment."
@@ -207,7 +249,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.603"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5601.6033.dita"
                       navtitle="5601.603-3 Appointment."
                       props="5601.603-3"
@@ -215,7 +259,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.6033"
-                      xtrc="SOFARS_5601.6033.html"/>
+                      xtrc="SOFARS_5601.6033.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5601.603390.dita"
                       navtitle="5601.603-3-90 Appointment of Contingency Contracting Officers."
                       props="5601.603-3-90"
@@ -223,7 +269,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5601.603390"
-                      xtrc="SOFARS_5601.603390.html"/>
+                      xtrc="SOFARS_5601.603390.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5601.604.dita"
                    navtitle="5601.604 Contracting Officers Representative."
@@ -232,7 +280,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.604"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5601.7.dita"
                 navtitle="Subpart 5601.7 - DETERMINATIONS AND FINDINGS"
@@ -242,7 +292,9 @@
                 audience="SOFARS_SUBPART_5601.7"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.7.html">
+                xtrc="SOFARS_SUBPART_5601.7.html"
+                tables="0"
+                figures="0">
          <topicref href="5601.704.dita"
                    navtitle="5601.704 Content."
                    props="5601.704"
@@ -250,7 +302,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5601.704"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5601.dita"
                 navtitle="Subpart 5601 - ATTACHMENTS"
@@ -260,7 +314,9 @@
                 audience="SOFARS_SUBPART_5601"
                 otherprops=""
                 xtrf="SubPart"
-                xtrc="SOFARS_SUBPART_5601.html"/>
+                xtrc="SOFARS_SUBPART_5601.html"
+                tables="0"
+                figures="0"/>
    </topicref>
    <topicref href="PART_5602.dita"
              navtitle="Part 5602 - DEFINITIONS OF WORDS AND TERMS"
@@ -269,7 +325,9 @@
              base="NoTitle"
              audience="SOFARS_PART_5602"
              xtrf="Part"
-             otherprops="">
+             otherprops=""
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5602.1.dita"
                 navtitle="Subpart 5602.1 - DEFINITIONS"
                 outputclass="SubPart"
@@ -278,7 +336,9 @@
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5602.1"
                 xtrc="SOFARS_SUBPART_5602.1.html"
-                otherprops="">
+                otherprops=""
+                tables="0"
+                figures="0">
          <topicref href="5602.190.dita"
                    navtitle="5602.190 - ACRONYMS"
                    outputclass="subtopic"
@@ -286,7 +346,9 @@
                    base="NoTitle"
                    xtrf="subtopic"
                    audience="SOFARS_5602.190"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="1"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5603.dita"
@@ -295,7 +357,9 @@
              props="Part 5603"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5603">
+             audience="SOFARS_PART_5603"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5603.1.dita"
                 navtitle="Subpart 5603.1 - SAFEGUARDS"
                 outputclass="SubPart"
@@ -303,7 +367,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5603.1"
-                xtrc="SOFARS_SUBPART_5603.1.html">
+                xtrc="SOFARS_SUBPART_5603.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5603.101.dita"
                    navtitle="5603.101 Standards of Conduct."
                    props="5603.101"
@@ -311,7 +377,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5603.101"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5603.1013.dita"
                       navtitle="5603.101-3 Agency Regulations."
                       props="5603.101-3"
@@ -319,7 +387,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5603.1013"
-                      xtrc="SOFARS_5603.1013.html"/>
+                      xtrc="SOFARS_5603.1013.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5603.104.dita"
                    navtitle="5603.104 Procurement Integrity."
@@ -328,7 +398,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5603.104"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5603.1044.dita"
                       navtitle="5603.104-4 Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information."
                       props="5603.104-4"
@@ -336,7 +408,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5603.1044"
-                      xtrc="SOFARS_5603.1044.html"/>
+                      xtrc="SOFARS_5603.1044.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5603.104490.dita"
                       navtitle="5603.104-4-90 Ombudsman for Procurement Integrity"
                       props="5603.104-4-90"
@@ -344,7 +418,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5603.104490"
-                      xtrc="SOFARS_5603.104490.html"/>
+                      xtrc="SOFARS_5603.104490.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5603.1047.dita"
                       navtitle="5603.104-7 Processing Violations or Possible Violations."
                       props="5603.104-7"
@@ -352,7 +428,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5603.1047"
-                      xtrc="SOFARS_5603.1047.html"/>
+                      xtrc="SOFARS_5603.1047.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5603.5.dita"
@@ -362,7 +440,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5603.5"
-                xtrc="SOFARS_SUBPART_5603.5.html"/>
+                xtrc="SOFARS_SUBPART_5603.5.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5603.8.dita"
                 navtitle="Subpart 5603.8 - LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE      FEDERAL TRANSACTIONS"
                 outputclass="SubPart"
@@ -370,7 +450,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5603.8"
-                xtrc="SOFARS_SUBPART_5603.8.html">
+                xtrc="SOFARS_SUBPART_5603.8.html"
+                tables="0"
+                figures="0">
          <topicref href="5603.804.dita"
                    navtitle="5603.804 Policy."
                    props="5603.804"
@@ -378,7 +460,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5603.804"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5603.806.dita"
                    navtitle="5603.806 Processing Suspected Violations."
                    props="5603.806"
@@ -386,7 +470,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5603.806"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5604.dita"
@@ -395,7 +481,9 @@
              props="Part 5604"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5604">
+             audience="SOFARS_PART_5604"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5604.1.dita"
                 navtitle="Subpart 5604.1 - CONTRACT EXECUTION"
                 outputclass="SubPart"
@@ -403,7 +491,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.1"
-                xtrc="SOFARS_SUBPART_5604.1.html">
+                xtrc="SOFARS_SUBPART_5604.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.103.dita"
                    navtitle="5604.103 Contract Clause. (Removed August 2017)."
                    props="5604.103"
@@ -411,7 +501,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.103"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5604.2.dita"
                 navtitle="Subpart 5604.2 - CONTRACT DISTRIBUTION"
@@ -420,7 +512,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.2"
-                xtrc="SOFARS_SUBPART_5604.2.html">
+                xtrc="SOFARS_SUBPART_5604.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.202.dita"
                    navtitle="5604.202 Agency Distribution Requirements."
                    props="5604.202"
@@ -428,7 +522,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.202"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5604.4.dita"
                 navtitle="Subpart 5604.4 - SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY"
@@ -437,7 +533,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.4"
-                xtrc="SOFARS_SUBPART_5604.4.html">
+                xtrc="SOFARS_SUBPART_5604.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.402.dita"
                    navtitle="5604.402 General."
                    props="5604.402"
@@ -445,7 +543,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.402"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.403.dita"
                    navtitle="5604.403 Responsibilities of contracting officers."
                    props="5604.403"
@@ -453,7 +553,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.403"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.40480.dita"
                    navtitle="5604.404-80 Foreign Persons."
                    props="5604.404-80"
@@ -461,7 +563,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.40480"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5604.6.dita"
                 navtitle="Subpart 5604.6 - CONTRACT REPORTING"
@@ -470,7 +574,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.6"
-                xtrc="SOFARS_SUBPART_5604.6.html">
+                xtrc="SOFARS_SUBPART_5604.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.603.dita"
                    navtitle="5604.603 Policy."
                    props="5604.603"
@@ -478,7 +584,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.603"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.604.dita"
                    navtitle="5604.604 Responsibilities."
                    props="5604.604"
@@ -486,7 +594,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.604"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.606.dita"
                    navtitle="5604.606 Reporting Data."
                    props="5604.606"
@@ -494,7 +604,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.606"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5604.60690.dita"
                       navtitle="5604.606-90 Reporting Rerepresentation Actions."
                       props="5604.606-90"
@@ -502,7 +614,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.60690"
-                      xtrc="SOFARS_5604.60690.html"/>
+                      xtrc="SOFARS_5604.60690.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5604.60691.dita"
                       navtitle="5604.606-91 Reporting Inherently Governmental Functions Indicators."
                       props="5604.606-91"
@@ -510,7 +624,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.60691"
-                      xtrc="SOFARS_5604.60691.html"/>
+                      xtrc="SOFARS_5604.60691.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5604.60692.dita"
                       navtitle="5604.606-92 Reporting National Interest Actions (NIA) in FPDSNG"
                       props="5604.606-92"
@@ -518,7 +634,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.60692"
-                      xtrc="SOFARS_5604.60692.html"/>
+                      xtrc="SOFARS_5604.60692.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5604.6705.dita"
                       navtitle="5604.670-5 Departmental data collection point responsibilities."
                       props="5604.670-5"
@@ -526,7 +644,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.6705"
-                      xtrc="SOFARS_5604.6705.html"/>
+                      xtrc="SOFARS_5604.6705.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5604.8.dita"
@@ -536,7 +656,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.8"
-                xtrc="SOFARS_SUBPART_5604.8.html">
+                xtrc="SOFARS_SUBPART_5604.8.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.803.dita"
                    navtitle="5604.803 Contents of Contract Files."
                    props="5604.803"
@@ -544,7 +666,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.803"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.804.dita"
                    navtitle="5604.804 Closeout of Contract Files."
                    props="5604.804"
@@ -552,7 +676,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.804"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5604.8041.dita"
                       navtitle="5604.804-1 Closeout by the Office Administering the Contract."
                       props="5604.804-1"
@@ -560,7 +686,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.8041"
-                      xtrc="SOFARS_5604.8041.html"/>
+                      xtrc="SOFARS_5604.8041.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5604.8042.dita"
                       navtitle="5604.804-2 Closeout of the Contracting Office Files if another Office Administers the Contract."
                       props="5604.804-2"
@@ -568,7 +696,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5604.8042"
-                      xtrc="SOFARS_5604.8042.html"/>
+                      xtrc="SOFARS_5604.8042.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5604.70.dita"
@@ -578,7 +708,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.70"
-                xtrc="SOFARS_SUBPART_5604.70.html">
+                xtrc="SOFARS_SUBPART_5604.70.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.7003.dita"
                    navtitle="5604.7003 Basic PII number."
                    props="5604.7003"
@@ -586,7 +718,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.7003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5604.7004.dita"
                    navtitle="5604.7004 Supplementary PII Numbers."
                    props="5604.7004"
@@ -594,7 +728,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.7004"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5604.71.dita"
                 navtitle="Subpart 5604.71 - UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM"
@@ -603,7 +739,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5604.71"
-                xtrc="SOFARS_SUBPART_5604.71.html">
+                xtrc="SOFARS_SUBPART_5604.71.html"
+                tables="0"
+                figures="0">
          <topicref href="5604.7107.dita"
                    navtitle="5604.7107 Contract Accounting Classification Reference Number (ACRN)."
                    props="5604.7107"
@@ -611,7 +749,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5604.7107"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5605.dita"
@@ -620,7 +760,9 @@
              props="Part 5605"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5605">
+             audience="SOFARS_PART_5605"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5605.1.dita"
                 navtitle="Subpart 5605.1 - DISSEMINATION OF INFORMATION"
                 outputclass="SubPart"
@@ -628,7 +770,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5605.1"
-                xtrc="SOFARS_SUBPART_5605.1.html">
+                xtrc="SOFARS_SUBPART_5605.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5605.102.dita"
                    navtitle="5605.102 Availability of Solicitations."
                    props="5605.102"
@@ -636,7 +780,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5605.102"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5605.2.dita"
                 navtitle="Subpart 5605.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS"
@@ -645,7 +791,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5605.2"
-                xtrc="SOFARS_SUBPART_5605.2.html">
+                xtrc="SOFARS_SUBPART_5605.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5605.207.dita"
                    navtitle="5605.207 Preparation and Transmittal of Synopses."
                    props="5605.207"
@@ -653,7 +801,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5605.207"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5605.3.dita"
                 navtitle="Subpart 5605.3 - SYNOPSES OF CONTRACT AWARDS"
@@ -662,7 +812,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5605.3"
-                xtrc="SOFARS_SUBPART_5605.3.html">
+                xtrc="SOFARS_SUBPART_5605.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5605.302.dita"
                    navtitle="5605.302 Preparation and Transmittal of Synopses of Awards."
                    props="5605.302"
@@ -670,7 +822,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5605.302"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5605.303.dita"
                    navtitle="5605.303 Announcement of Contract Awards."
                    props="5605.303"
@@ -678,7 +832,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5605.303"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5605.4.dita"
                 navtitle="Subpart 5605.4 - RELEASE OF INFORMATION"
@@ -687,7 +843,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5605.4"
-                xtrc="SOFARS_SUBPART_5605.4.html">
+                xtrc="SOFARS_SUBPART_5605.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5605.403.dita"
                    navtitle="5605.403 Requests from Members of Congress"
                    props="5605.403"
@@ -695,7 +853,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5605.403"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5606.dita"
@@ -704,7 +864,9 @@
              props="Part 5606"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5606">
+             audience="SOFARS_PART_5606"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5606.3.dita"
                 navtitle="Subpart 5606.3 - OTHER THAN FULL AND OPEN COMPETITION"
                 outputclass="SubPart"
@@ -712,7 +874,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5606.3"
-                xtrc="SOFARS_SUBPART_5606.3.html">
+                xtrc="SOFARS_SUBPART_5606.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5606.3021.dita"
                    navtitle="5606.302-1 Only One Responsible Source"
                    props="5606.302-1"
@@ -720,7 +884,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5606.3021"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5606.303.dita"
                    navtitle="5606.303 Justifications"
                    props="5606.303"
@@ -728,7 +894,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5606.303"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5606.30390.dita"
                       navtitle="5606.303-90 Policy."
                       props="5606.303-90"
@@ -736,7 +904,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5606.30390"
-                      xtrc="SOFARS_5606.30390.html"/>
+                      xtrc="SOFARS_5606.30390.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5606.30390.1.dita"
                       navtitle="5606.303-90.1 Amended J&amp;A (Changes/Increases/Decreases)."
                       props="5606.303-90.1"
@@ -744,7 +914,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5606.30390.1"
-                      xtrc="SOFARS_5606.30390.1.html"/>
+                      xtrc="SOFARS_5606.30390.1.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5606.305.dita"
                    navtitle="5606.305 Availability of the Justification."
@@ -753,7 +925,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5606.305"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5606.30590.dita"
                       navtitle="5606.305-90 Public Disclosure of J&amp;A Documents for Noncompetitive Contracts."
                       props="5606.305-90"
@@ -761,7 +935,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5606.30590"
-                      xtrc="SOFARS_5606.30590.html"/>
+                      xtrc="SOFARS_5606.30590.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5606.30591.dita"
                       navtitle="5606.305-91 Competitive Procurements Receiving Only One Offer."
                       props="5606.305-91"
@@ -769,7 +945,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5606.30591"
-                      xtrc="SOFARS_5606.30591.html"/>
+                      xtrc="SOFARS_5606.30591.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5606.5.dita"
@@ -779,7 +957,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5606.5"
-                xtrc="SOFARS_SUBPART_5606.5.html">
+                xtrc="SOFARS_SUBPART_5606.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5606.501.dita"
                    navtitle="5606.501 Requirement."
                    props="5606.501"
@@ -787,7 +967,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5606.501"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5607.dita"
@@ -796,7 +978,9 @@
              props="Part 5607"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5607">
+             audience="SOFARS_PART_5607"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5607.1.dita"
                 navtitle="Subpart 5607.1 - ACQUISITION PLANS"
                 outputclass="SubPart"
@@ -804,7 +988,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5607.1"
-                xtrc="SOFARS_SUBPART_5607.1.html">
+                xtrc="SOFARS_SUBPART_5607.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5607.102.dita"
                    navtitle="5607.102 Policy."
                    props="5607.102"
@@ -812,7 +998,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5607.102"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5607.104.dita"
                    navtitle="5607.104 General Procedures."
                    props="5607.104"
@@ -820,7 +1008,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5607.104"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="5607.105.dita"
                 navtitle="5607.105 Contents of Written Acquisition Plans."
@@ -829,7 +1019,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_5607.105"
-                xtrc="SOFARS_5607.105.html"/>
+                xtrc="SOFARS_5607.105.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5607.5.dita"
                 navtitle="Subpart 5607.5 - Inherently Governmental Functions"
                 outputclass="SubPart"
@@ -837,7 +1029,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5607.5"
-                xtrc="SOFARS_SUBPART_5607.5.html">
+                xtrc="SOFARS_SUBPART_5607.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5607.503.dita"
                    navtitle="5607.503 Policies."
                    props="5607.503"
@@ -845,7 +1039,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5607.503"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5608.dita"
@@ -854,7 +1050,9 @@
              props="Part 5608"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5608">
+             audience="SOFARS_PART_5608"
+             tables="0"
+             figures="0">
       <topicref href="5608.003.dita"
                 navtitle="5608.003 Use of other Government supply sources."
                 props="5608.003"
@@ -862,7 +1060,9 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="SOFARS_5608.003"
-                xtrc="SOFARS_5608.003.html"/>
+                xtrc="SOFARS_5608.003.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5608.4.dita"
                 navtitle="Subpart 5608.4 - FEDERAL SUPPLY SCHEDULES"
                 outputclass="SubPart"
@@ -870,7 +1070,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5608.4"
-                xtrc="SOFARS_SUBPART_5608.4.html">
+                xtrc="SOFARS_SUBPART_5608.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5608.40490.dita"
                    navtitle="5608.404-90 Determination and certification for use of nonDoD contracts."
                    props="5608.404-90"
@@ -878,7 +1080,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5608.40490"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5608.405.dita"
                    navtitle="5608.405 Ordering Procedures for Federal Supply Schedules."
                    props="5608.405"
@@ -886,7 +1090,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5608.405"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5608.4056.dita"
                       navtitle="5608.405-6 Limited Sources."
                       props="5608.405-6"
@@ -894,7 +1100,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5608.4056"
-                      xtrc="SOFARS_5608.4056.html"/>
+                      xtrc="SOFARS_5608.4056.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5608.70.dita"
@@ -904,7 +1112,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5608.70"
-                xtrc="SOFARS_SUBPART_5608.70.html">
+                xtrc="SOFARS_SUBPART_5608.70.html"
+                tables="0"
+                figures="0">
          <topicref href="5608.7004.dita"
                    navtitle="5608.7004 Procedures."
                    props="5608.7004"
@@ -912,7 +1122,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5608.7004"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5608.70042.dita"
                       navtitle="5608.7004-2 Acceptance by Acquiring Activities."
                       props="5608.7004-2"
@@ -920,7 +1132,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5608.70042"
-                      xtrc="SOFARS_5608.70042.html"/>
+                      xtrc="SOFARS_5608.70042.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5608.8.dita"
@@ -930,7 +1144,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5608.8"
-                xtrc="SOFARS_SUBPART_5608.8.html">
+                xtrc="SOFARS_SUBPART_5608.8.html"
+                tables="0"
+                figures="0">
          <topicref href="5608.802.dita"
                    navtitle="5608.802 Policy."
                    props="5608.802"
@@ -938,7 +1154,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5608.802"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5609.dita"
@@ -947,7 +1165,9 @@
              props="Part 5609"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5609">
+             audience="SOFARS_PART_5609"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5609.1.dita"
                 navtitle="Subpart 5609.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS"
                 outputclass="SubPart"
@@ -955,7 +1175,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5609.1"
-                xtrc="SOFARS_SUBPART_5609.1.html">
+                xtrc="SOFARS_SUBPART_5609.1.html"
+                tables="0"
+                figures="0">
          <topicref navtitle="5609.105 Procedures."
                    href="5609.105.dita"
                    audience="SOFARS_5609.105"
@@ -964,7 +1186,9 @@
                    props="5609.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5609.1051.dita"
                       navtitle="5609.105-1 Obtaining Information."
                       props="5609.105-1"
@@ -972,7 +1196,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5609.1051"
-                      xtrc="SOFARS_5609.1051.html"/>
+                      xtrc="SOFARS_5609.1051.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5609.4.dita"
@@ -982,7 +1208,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5609.4"
-                xtrc="SOFARS_SUBPART_5609.4.html">
+                xtrc="SOFARS_SUBPART_5609.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5609.403.dita"
                    navtitle="5609.403 Definitions."
                    props="5609.403"
@@ -990,7 +1218,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.403"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5609.406.dita"
                    navtitle="5609.406 Debarment."
                    props="5609.406"
@@ -998,7 +1228,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.406"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5609.4063.dita"
                       navtitle="5609.406-3 Procedures."
                       props="5609.406-3"
@@ -1006,7 +1238,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5609.4063"
-                      xtrc="SOFARS_5609.4063.html"/>
+                      xtrc="SOFARS_5609.4063.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5609.407.dita"
                    navtitle="5609.407 Suspension."
@@ -1015,7 +1249,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.407"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5609.4073.dita"
                       navtitle="5609.407-3 Procedures."
                       props="5609.407-3"
@@ -1023,7 +1259,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5609.4073"
-                      xtrc="SOFARS_5609.4073.html"/>
+                      xtrc="SOFARS_5609.4073.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5609.5.dita"
@@ -1033,7 +1271,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5609.5"
-                xtrc="SOFARS_SUBPART_5609.5.html">
+                xtrc="SOFARS_SUBPART_5609.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5609.503.dita"
                    navtitle="5609.503 Waiver."
                    props="5609.503"
@@ -1041,7 +1281,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.503"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5609.507.dita"
                    navtitle="5609.507 Solicitation Provisions and Contract Clauses."
                    props="5609.507"
@@ -1049,7 +1291,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.507"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5609.5071.dita"
                       navtitle="5609.507-1 Solicitation Provisions."
                       props="5609.507-1"
@@ -1057,7 +1301,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5609.5071"
-                      xtrc="SOFARS_5609.5071.html"/>
+                      xtrc="SOFARS_5609.5071.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5609.5072.dita"
                       navtitle="5609.507-2 Contract Clause."
                       props="5609.507-2"
@@ -1065,7 +1311,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5609.5072"
-                      xtrc="SOFARS_5609.5072.html"/>
+                      xtrc="SOFARS_5609.5072.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5609.9.dita"
@@ -1075,7 +1323,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5609.9"
-                xtrc="SOFARS_SUBPART_5609.9.html">
+                xtrc="SOFARS_SUBPART_5609.9.html"
+                tables="0"
+                figures="0">
          <topicref href="5609.901.dita"
                    navtitle="5609.901 Guidance."
                    props="5609.901"
@@ -1083,7 +1333,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5609.901"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5610.dita"
@@ -1092,7 +1344,9 @@
              props="Part 5610"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5610">
+             audience="SOFARS_PART_5610"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5610.000.dita"
                 navtitle="Subpart 5610.000 - SCOPE OF PART"
                 outputclass="subtopic"
@@ -1100,7 +1354,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5610.000"
-                xtrc="SOFARS_SUBPART_5610.000.html">
+                xtrc="SOFARS_SUBPART_5610.000.html"
+                tables="0"
+                figures="0">
          <topicref href="5610.001.dita"
                    navtitle="5610.001 Policy."
                    props="5610.001"
@@ -1108,7 +1364,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5610.001"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5611.dita"
@@ -1117,7 +1375,9 @@
              props="Part 5611"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5611">
+             audience="SOFARS_PART_5611"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5611.2.dita"
                 navtitle="Subpart 5611.2 - USING AND MAINTAINING REQUIREMENTS DOCUMENTS"
                 outputclass="SubPart"
@@ -1125,7 +1385,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5611.2"
-                xtrc="SOFARS_SUBPART_5611.2.html">
+                xtrc="SOFARS_SUBPART_5611.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5611.274.dita"
                    navtitle="5611.274 Item identification and valuation."
                    props="5611.274"
@@ -1133,7 +1395,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5611.274"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5611.27490.dita"
                       navtitle="5611.274-90 Item Unique Item Identification (IUID)/Unique Item Identifier (UII) and Military Equipment Evaluation (MEV)."
                       props="5611.274-90"
@@ -1141,7 +1405,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5611.27490"
-                      xtrc="SOFARS_5611.27490.html"/>
+                      xtrc="SOFARS_5611.27490.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5611.6.dita"
@@ -1151,7 +1417,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5611.6"
-                xtrc="SOFARS_SUBPART_5611.6.html">
+                xtrc="SOFARS_SUBPART_5611.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5611.602.dita"
                    navtitle="5611.602 General."
                    props="5611.602"
@@ -1159,7 +1427,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5611.602"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5612.dita"
@@ -1168,7 +1438,9 @@
              props="Part 5612"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5612">
+             audience="SOFARS_PART_5612"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5612.1.dita"
                 navtitle="Subpart 5612.1 - ACQUISITION OF COMMERCIAL ITEMS  GENERAL"
                 outputclass="SubPart"
@@ -1176,7 +1448,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5612.1"
-                xtrc="SOFARS_SUBPART_5612.1.html">
+                xtrc="SOFARS_SUBPART_5612.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5612.101.dita"
                    navtitle="5612.101 Policy."
                    props="5612.101"
@@ -1184,7 +1458,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5612.101"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5612.102.dita"
                    navtitle="5612.102 Applicability."
                    props="5612.102"
@@ -1192,7 +1468,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5612.102"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5612.2.dita"
                 navtitle="Subpart 5612.2 - SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS"
@@ -1201,7 +1479,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5612.2"
-                xtrc="SOFARS_SUBPART_5612.2.html">
+                xtrc="SOFARS_SUBPART_5612.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5612.202.dita"
                    navtitle="5612.202 Market Research and Description of Agency Need."
                    props="5612.202"
@@ -1209,7 +1489,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5612.202"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5612.20790.dita"
                       navtitle="5612.207-90 Contract Type."
                       props="5612.207-90"
@@ -1217,7 +1499,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5612.20790"
-                      xtrc="SOFARS_5612.20790.html"/>
+                      xtrc="SOFARS_5612.20790.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5612.3.dita"
@@ -1227,7 +1511,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5612.3"
-                xtrc="SOFARS_SUBPART_5612.3.html">
+                xtrc="SOFARS_SUBPART_5612.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5612.302.dita"
                    navtitle="5612.302 Tailoring of Provisions and Clauses for Acquisition of Commercial Items. (Removed June 2021)"
                    props="5612.302"
@@ -1235,7 +1521,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5612.302"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5613.dita"
@@ -1244,7 +1532,9 @@
              props="Part 5613"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5613">
+             audience="SOFARS_PART_5613"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5613.1.dita"
                 navtitle="Subpart 5613.1 - PROCEDURES"
                 outputclass="SubPart"
@@ -1252,7 +1542,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5613.1"
-                xtrc="SOFARS_SUBPART_5613.1.html">
+                xtrc="SOFARS_SUBPART_5613.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5613.106.dita"
                    navtitle="5613.106 Soliciting Competition, Evaluation of Quotations or Offers, Award and Documentation."
                    props="5613.106"
@@ -1260,7 +1552,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.106"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5613.1061.dita"
                       navtitle="5613.106-1 Soliciting Competition."
                       props="5613.106-1"
@@ -1268,7 +1562,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5613.1061"
-                      xtrc="SOFARS_5613.1061.html"/>
+                      xtrc="SOFARS_5613.1061.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5613.2.dita"
@@ -1278,7 +1574,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5613.2"
-                xtrc="SOFARS_SUBPART_5613.2.html">
+                xtrc="SOFARS_SUBPART_5613.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5613.201.dita"
                    navtitle="5613.201 General."
                    props="5613.201"
@@ -1286,7 +1584,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.201"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5613.3.dita"
                 navtitle="Subpart 5613.3 - SIMPLIFIED ACQUISITION METHODS"
@@ -1295,7 +1595,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5613.3"
-                xtrc="SOFARS_SUBPART_5613.3.html">
+                xtrc="SOFARS_SUBPART_5613.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5613.301.dita"
                    navtitle="5613.301 Governmentwide Commercial Purchase Card."
                    props="5613.301"
@@ -1303,7 +1605,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.301"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5613.302.dita"
                    navtitle="5613.302 Purchase Orders."
                    props="5613.302"
@@ -1311,7 +1615,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.302"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5613.3021.dita"
                       navtitle="5613.302-1 General."
                       props="5613.302-1"
@@ -1319,7 +1625,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5613.3021"
-                      xtrc="SOFARS_5613.3021.html"/>
+                      xtrc="SOFARS_5613.3021.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5613.3022.dita"
                       navtitle="5613.302-2 Unpriced Purchase Orders."
                       props="5613.302-2"
@@ -1327,7 +1635,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5613.3022"
-                      xtrc="SOFARS_5613.3022.html"/>
+                      xtrc="SOFARS_5613.3022.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5613.303.dita"
                    navtitle="5613.303 Blanket Purchase Agreements."
@@ -1336,7 +1646,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.303"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5613.3035.dita"
                       navtitle="5613.303-5 Purchases under BPAs."
                       props="5613.303-5"
@@ -1344,7 +1656,9 @@
                       outputclass="subtopic"
                       xtrf="SubPart"
                       audience="SOFARS_5613.3035"
-                      xtrc="SOFARS_5613.3035.html">
+                      xtrc="SOFARS_5613.3035.html"
+                      tables="0"
+                      figures="0">
                <topicref href="5613.303590.dita"
                          navtitle="5613.303-5-90 Ordering Officer Limitations."
                          props="5613.303-5-90"
@@ -1352,7 +1666,9 @@
                          outputclass="subtopic"
                          xtrf="subtopic"
                          audience="SOFARS_5613.303590"
-                         xtrc="SOFARS_5613.303590.html"/>
+                         xtrc="SOFARS_5613.303590.html"
+                         tables="0"
+                         figures="0"/>
             </topicref>
             <topicref href="5613.3036.dita"
                       navtitle="5613.303-6 Review Procedures."
@@ -1361,7 +1677,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5613.3036"
-                      xtrc="SOFARS_5613.3036.html"/>
+                      xtrc="SOFARS_5613.3036.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5613.306.dita"
                    navtitle="5613.306 SF 44, Purchase OrderInvoiceVoucher."
@@ -1370,7 +1688,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.306"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5613.5.dita"
                 navtitle="Subpart 5613.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS"
@@ -1379,7 +1699,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5613.5"
-                xtrc="SOFARS_SUBPART_5613.5.html">
+                xtrc="SOFARS_SUBPART_5613.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5613.500.dita"
                    navtitle="5613.500 General."
                    props="5613.500"
@@ -1387,7 +1709,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.500"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5613.501.dita"
                    navtitle="5613.501 Special Documentation Requirements."
                    props="5613.501"
@@ -1395,7 +1719,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5613.501"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5614.dita"
@@ -1404,7 +1730,9 @@
              props="Part 5614"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5614">
+             audience="SOFARS_PART_5614"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5614.2.dita"
                 navtitle="Subpart 5614.2 - SOLICITATION OF BIDS"
                 outputclass="SubPart"
@@ -1412,7 +1740,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5614.2"
-                xtrc="SOFARS_SUBPART_5614.2.html">
+                xtrc="SOFARS_SUBPART_5614.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5614201.dita"
                    navtitle="5614-201 Preparation of Invitations for Bid."
                    props="5614-201"
@@ -1420,7 +1750,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5614201"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5614.2016.dita"
                       navtitle="5614.201-6 Solicitation Provisions."
                       props="5614.201-6"
@@ -1428,7 +1760,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5614.2016"
-                      xtrc="SOFARS_5614.2016.html"/>
+                      xtrc="SOFARS_5614.2016.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5614.207.dita"
                    navtitle="5614.207 PreBid Conference."
@@ -1437,7 +1771,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5614.207"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5614.4.dita"
                 navtitle="Subpart 5614.4 - OPENING OF BIDS AND AWARD OF CONTRACT"
@@ -1446,7 +1782,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5614.4"
-                xtrc="SOFARS_SUBPART_5614.4.html">
+                xtrc="SOFARS_SUBPART_5614.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5614.402.dita"
                    navtitle="5614.402 Opening of Bids."
                    props="5614.402"
@@ -1454,7 +1792,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5614.402"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5614.4022.dita"
                       navtitle="5614.402-2 Classified Bids."
                       props="5614.402-2"
@@ -1462,7 +1802,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5614.4022"
-                      xtrc="SOFARS_5614.4022.html"/>
+                      xtrc="SOFARS_5614.4022.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5614.407.dita"
                    navtitle="5614.407 Mistakes in Bid."
@@ -1471,7 +1813,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5614.407"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5614.4073.dita"
                       navtitle="5614.407-3 Other Mistakes Disclosed Before Award."
                       props="5614.407-3"
@@ -1479,7 +1823,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5614.4073"
-                      xtrc="SOFARS_5614.4073.html"/>
+                      xtrc="SOFARS_5614.4073.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5614.4074.dita"
                       navtitle="5614.407-4 Mistakes After Award. (Removed June 2021)"
                       props="5614.407-4"
@@ -1487,7 +1833,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5614.4074"
-                      xtrc="SOFARS_5614.4074.html"/>
+                      xtrc="SOFARS_5614.4074.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -1497,7 +1845,9 @@
              props="Part 5615"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5615">
+             audience="SOFARS_PART_5615"
+             tables="0"
+             figures="0">
       <topicref href="5615.001.dita"
                 navtitle="5615.001 Definitions."
                 props="5615.001"
@@ -1505,7 +1855,9 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="SOFARS_5615.001"
-                xtrc="SOFARS_5615.001.html"/>
+                xtrc="SOFARS_5615.001.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5615.1.dita"
                 navtitle="Subpart 5615.1 - SOURCE SELECTION PROCESS AND TECHNIQUES"
                 outputclass="SubPart"
@@ -1513,7 +1865,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.1"
-                xtrc="SOFARS_SUBPART_5615.1.html">
+                xtrc="SOFARS_SUBPART_5615.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.1012.dita"
                    navtitle="5615.101-2 Lowest Price Technically Acceptable Source Selection Process"
                    props="5615.101-2"
@@ -1521,7 +1875,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.1012"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5615.101270.dita"
                       navtitle="5615.101-2-70 Limitations and Prohibitions"
                       props="5615.101-2-70"
@@ -1529,7 +1885,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.101270"
-                      xtrc="SOFARS_5615.101270.html"/>
+                      xtrc="SOFARS_5615.101270.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5615.2.dita"
@@ -1539,7 +1897,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.2"
-                xtrc="SOFARS_SUBPART_5615.2.html">
+                xtrc="SOFARS_SUBPART_5615.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.209.dita"
                    navtitle="5615.209 Solicitations Provisions and Contract Clauses."
                    props="5615.209"
@@ -1547,7 +1907,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.209"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5615.3.dita"
                 navtitle="Subpart 5615.3 - SOURCE SELECTION"
@@ -1556,7 +1918,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.3"
-                xtrc="SOFARS_SUBPART_5615.3.html">
+                xtrc="SOFARS_SUBPART_5615.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.300.dita"
                    navtitle="5615.300 Scope of Subpart"
                    props="5615.300"
@@ -1564,7 +1928,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.300"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.303.dita"
                    navtitle="5615.303 Responsibilities."
                    props="5615.303"
@@ -1572,7 +1938,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.303"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref navtitle="5615.305 Proposal Evaluation."
                    href="5615.305.dita"
                    audience="SOFARS_5615.305"
@@ -1581,7 +1949,9 @@
                    props="5615.305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.306.dita"
                    navtitle="5615.306 Exchanges with Offerors After Receipt of Proposals."
                    props="5615.306"
@@ -1589,7 +1959,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.306"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref navtitle="5615.306-90 Award without Discussion."
                       href="5615.306-90.dita"
                       audience="SOFARS_5615.306-90"
@@ -1598,7 +1970,9 @@
                       props="5615.306-90"
                       outputclass="subtopic"
                       xtrf="subtopic"
-                      xtrc="SOFARS_5615.306-90.html"/>
+                      xtrc="SOFARS_5615.306-90.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5615.307.dita"
                    navtitle="5615.307 Proposal Revisions."
@@ -1607,7 +1981,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.307"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.308.dita"
                    navtitle="5615.308 Source Selection Decision."
                    props="5615.308"
@@ -1615,7 +1991,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.308"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5615.390.dita"
                       navtitle="5615.3-90 Solicitation Provisions and Contract Clauses."
                       props="5615.3-90"
@@ -1623,7 +2001,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.390"
-                      xtrc="SOFARS_5615.390.html"/>
+                      xtrc="SOFARS_5615.390.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5615.371.dita"
                    navtitle="5615.371 Only one offer."
@@ -1632,7 +2012,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.371"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5615.4.dita"
                 navtitle="Subpart 5615.4 - CONTRACT PRICING"
@@ -1641,7 +2023,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.4"
-                xtrc="SOFARS_SUBPART_5615.4.html">
+                xtrc="SOFARS_SUBPART_5615.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.404.dita"
                    navtitle="5615.404 Proposal Analysis."
                    props="5615.404"
@@ -1649,7 +2033,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.404"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5615.4041.dita"
                       navtitle="5615.404-1 Proposal Analysis Techniques."
                       props="5615.404-1"
@@ -1657,7 +2043,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.4041"
-                      xtrc="SOFARS_5615.4041.html"/>
+                      xtrc="SOFARS_5615.4041.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5615.40470.dita"
                       navtitle="5615.404-70 DD Form 1547, Record of Weighted Guidelines Method Application."
                       props="5615.404-70"
@@ -1665,7 +2053,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.40470"
-                      xtrc="SOFARS_5615.40470.html"/>
+                      xtrc="SOFARS_5615.40470.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5615.406.dita"
                    navtitle="5615.406 Documentation."
@@ -1674,7 +2064,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.406"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5615.4061.dita"
                       navtitle="5615.406-1 Prenegotiation Objectives."
                       props="5615.406-1"
@@ -1682,7 +2074,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.4061"
-                      xtrc="SOFARS_5615.4061.html"/>
+                      xtrc="SOFARS_5615.4061.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5615.406390.dita"
                       navtitle="5615.406-3-90 Documenting the Negotiation."
                       props="5615.406-3-90"
@@ -1690,7 +2084,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5615.406390"
-                      xtrc="SOFARS_5615.406390.html"/>
+                      xtrc="SOFARS_5615.406390.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5615.408.dita"
                    navtitle="5615.408 Solicitation Provisions and Contract Clauses."
@@ -1699,7 +2095,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.408"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5615.5.dita"
                 navtitle="Subpart 5615.5 - PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES"
@@ -1708,7 +2106,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.5"
-                xtrc="SOFARS_SUBPART_5615.5.html">
+                xtrc="SOFARS_SUBPART_5615.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.503.dita"
                    navtitle="5615.503 Notifications to Unsuccessful Offerors."
                    props="5615.503"
@@ -1716,7 +2116,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.503"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.505.dita"
                    navtitle="5615.505 Preaward Debriefing of Offerors."
                    props="5615.505"
@@ -1724,7 +2126,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.505"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.506.dita"
                    navtitle="5615.506 Postaward Debriefing of Offerors."
                    props="5615.506"
@@ -1732,7 +2136,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.506"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5615.6.dita"
                 navtitle="Subpart 5615.6 - UNSOLICITED PROPOSALS"
@@ -1741,7 +2147,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5615.6"
-                xtrc="SOFARS_SUBPART_5615.6.html">
+                xtrc="SOFARS_SUBPART_5615.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5615.604.dita"
                    navtitle="5615.604 Agency Points of Contact."
                    props="5615.604"
@@ -1749,7 +2157,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.604"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5615.606.dita"
                    navtitle="5615.606 Agency Procedures."
                    props="5615.606"
@@ -1757,7 +2167,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5615.606"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="5615.dita"
                 navtitle="5615 ATTACHMENTS"
@@ -1766,7 +2178,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_5615"
-                xtrc="SOFARS_5615.html"/>
+                xtrc="SOFARS_5615.html"
+                tables="0"
+                figures="0"/>
    </topicref>
    <topicref href="PART_5616.dita"
              navtitle="Part 5616 - CONTRACT TYPES"
@@ -1774,7 +2188,9 @@
              props="Part 5616"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5616">
+             audience="SOFARS_PART_5616"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5616.3.dita"
                 navtitle="Subpart 5616.3 - COSTREIMBURSEMENT CONTRACTS"
                 outputclass="SubPart"
@@ -1782,7 +2198,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5616.3"
-                xtrc="SOFARS_SUBPART_5616.3.html">
+                xtrc="SOFARS_SUBPART_5616.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5616.307.dita"
                    navtitle="5616.307 Contract Clauses."
                    props="5616.307"
@@ -1790,7 +2208,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.307"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5616.4.dita"
                 navtitle="Subpart 5616.4 - INCENTIVE CONTRACTS"
@@ -1799,7 +2219,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5616.4"
-                xtrc="SOFARS_SUBPART_5616.4.html">
+                xtrc="SOFARS_SUBPART_5616.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5616.401.dita"
                    navtitle="5616.401 General."
                    props="5616.401"
@@ -1807,7 +2229,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.401"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5616.406.dita"
                    navtitle="5616.406 Contract Clauses."
                    props="5616.406"
@@ -1815,7 +2239,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.406"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5616.5.dita"
                 navtitle="Subpart 5616.5 - INDEFINITE DELIVERY CONTRACTS"
@@ -1824,7 +2250,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5616.5"
-                xtrc="SOFARS_SUBPART_5616.5.html">
+                xtrc="SOFARS_SUBPART_5616.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5616.503.dita"
                    navtitle="5616.503 Requirements Contracts."
                    props="5616.503"
@@ -1832,7 +2260,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.503"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5616.504.dita"
                    navtitle="5616.504 Indefinitequantity contracts."
                    props="5616.504"
@@ -1840,7 +2270,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.504"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5616.505.dita"
                    navtitle="5616.505 Ordering."
                    props="5616.505"
@@ -1848,7 +2280,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.505"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5616.50590.dita"
                       navtitle="5616.505-90 Orders Under Multiple Award Contracts."
                       props="5616.505-90"
@@ -1856,7 +2290,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5616.50590"
-                      xtrc="SOFARS_5616.50590.html"/>
+                      xtrc="SOFARS_5616.50590.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5616.506.dita"
                    navtitle="5616.506 Solicitation Provisions and Contract Clauses."
@@ -1865,7 +2301,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.506"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5616.6.dita"
                 navtitle="Subpart 5616.6 - TIME AND MATERIALS, LABORHOUR, AND LETTER CONTRACTS"
@@ -1874,7 +2312,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5616.6"
-                xtrc="SOFARS_SUBPART_5616.6.html">
+                xtrc="SOFARS_SUBPART_5616.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5616.601.dita"
                    navtitle="5616.601 Time and Material Contracts."
                    props="5616.601"
@@ -1882,7 +2322,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.601"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5616.60190.dita"
                       navtitle="5616.601-90 Contract Clauses."
                       props="5616.601-90"
@@ -1890,7 +2332,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5616.60190"
-                      xtrc="SOFARS_5616.60190.html"/>
+                      xtrc="SOFARS_5616.60190.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5616.603.dita"
                    navtitle="5616.603 Letter Contracts."
@@ -1899,7 +2343,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5616.603"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5616.6033.dita"
                       navtitle="5616.603-3 Limitations."
                       props="5616.603-3"
@@ -1907,7 +2353,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5616.6033"
-                      xtrc="SOFARS_5616.6033.html"/>
+                      xtrc="SOFARS_5616.6033.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -1917,7 +2365,9 @@
              props="Part 5617"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5617">
+             audience="SOFARS_PART_5617"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5617.2.dita"
                 navtitle="Subpart 5617.2 - OPTIONS"
                 outputclass="SubPart"
@@ -1925,7 +2375,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5617.2"
-                xtrc="SOFARS_SUBPART_5617.2.html">
+                xtrc="SOFARS_SUBPART_5617.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5617.202.dita"
                    navtitle="5617.202 Use of Options."
                    props="5617.202"
@@ -1933,7 +2385,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.202"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5617.204.dita"
                    navtitle="5617.204 Contracts."
                    props="5617.204"
@@ -1941,7 +2395,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.204"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5617.207.dita"
                    navtitle="5617.207 Exercise of Options"
                    props="5617.207"
@@ -1949,7 +2405,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.207"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5617.20790.dita"
                       navtitle="5617.207-90 Documenting the Contracting Officer Determination."
                       props="5617.207-90"
@@ -1957,7 +2415,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5617.20790"
-                      xtrc="SOFARS_5617.20790.html"/>
+                      xtrc="SOFARS_5617.20790.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5617.5.dita"
@@ -1967,7 +2427,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5617.5"
-                xtrc="SOFARS_SUBPART_5617.5.html">
+                xtrc="SOFARS_SUBPART_5617.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5617.5021.dita"
                    navtitle="5617.502-1 General."
                    props="5617.502-1"
@@ -1975,7 +2437,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.5021"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="5617.502.dita"
                 navtitle="5617.502 Procedures."
@@ -1984,7 +2448,9 @@
                 outputclass="subtopic"
                 xtrf="No"
                 audience="SOFARS_5617.502"
-                xtrc="SOFARS_5617.502.html">
+                xtrc="SOFARS_5617.502.html"
+                tables="0"
+                figures="0">
          <topicref href="5617.50290.dita"
                    navtitle="5617.502-90 Economy Act Determinations."
                    props="5617.502-90"
@@ -1992,7 +2458,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.50290"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5617.7.dita"
                 navtitle="Subpart 5617.7 - INTERAGENCY ACQUISITIONS: ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE"
@@ -2001,7 +2469,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5617.7"
-                xtrc="SOFARS_SUBPART_5617.7.html">
+                xtrc="SOFARS_SUBPART_5617.7.html"
+                tables="0"
+                figures="0">
          <topicref href="5617.703.dita"
                    navtitle="5617.703 Policy"
                    props="5617.703"
@@ -2009,7 +2479,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.703"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5617.70391.dita"
                       navtitle="5617.703-91 Use of NonDoD Contracts and Agencies"
                       props="5617.703-91"
@@ -2017,7 +2489,9 @@
                       outputclass="subtopic"
                       xtrf="SubPart"
                       audience="SOFARS_5617.70391"
-                      xtrc="SOFARS_5617.70391.html">
+                      xtrc="SOFARS_5617.70391.html"
+                      tables="0"
+                      figures="0">
                <topicref href="5617.70391.1.dita"
                          navtitle="5617.703-91.1 Determination and Certification for use of NonDoD contracts."
                          props="5617.703-91.1"
@@ -2025,7 +2499,9 @@
                          outputclass="subtopic"
                          xtrf="subtopic"
                          audience="SOFARS_5617.70391.1"
-                         xtrc="SOFARS_5617.70391.1.html"/>
+                         xtrc="SOFARS_5617.70391.1.html"
+                         tables="0"
+                         figures="0"/>
             </topicref>
          </topicref>
       </topicref>
@@ -2036,7 +2512,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5617.74"
-                xtrc="SOFARS_SUBPART_5617.74.html">
+                xtrc="SOFARS_SUBPART_5617.74.html"
+                tables="0"
+                figures="0">
          <topicref href="5617.7404.dita"
                    navtitle="5617.7404 Limitations."
                    props="5617.7404"
@@ -2044,7 +2522,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5617.7404"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5617.74041.dita"
                       navtitle="5617.7404-1 Authorization."
                       props="5617.7404-1"
@@ -2052,7 +2532,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5617.74041"
-                      xtrc="SOFARS_5617.74041.html"/>
+                      xtrc="SOFARS_5617.74041.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5617.74043.dita"
                       navtitle="5617.7404-3 Definitization Schedule."
                       props="5617.7404-3"
@@ -2060,7 +2542,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5617.74043"
-                      xtrc="SOFARS_5617.74043.html"/>
+                      xtrc="SOFARS_5617.74043.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2070,7 +2554,9 @@
              props="Part 5619"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5619">
+             audience="SOFARS_PART_5619"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5619.2.dita"
                 navtitle="Subpart 5619.2 - POLICIES"
                 outputclass="SubPart"
@@ -2078,7 +2564,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5619.2"
-                xtrc="SOFARS_SUBPART_5619.2.html">
+                xtrc="SOFARS_SUBPART_5619.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5619.201.dita"
                    navtitle="5619.201 - General Policy."
                    outputclass="subtopic"
@@ -2086,7 +2574,9 @@
                    base="NoTitle"
                    xtrf="subtopic"
                    audience="SOFARS_5619.201"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5619.7.dita"
                 navtitle="Subpart 5619.7 - THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
@@ -2095,7 +2585,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5619.7"
-                xtrc="SOFARS_SUBPART_5619.7.html">
+                xtrc="SOFARS_SUBPART_5619.7.html"
+                tables="0"
+                figures="0">
          <topicref href="5619.705.dita"
                    navtitle="5619.705 Responsibilities of the Contracting Officer Under the Subcontract Assistance Program."
                    props="5619.705"
@@ -2103,7 +2595,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5619.705"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5619.7053.dita"
                       navtitle="5619.705-3 Preparing the Solicitation."
                       props="5619.705-3"
@@ -2111,7 +2605,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5619.7053"
-                      xtrc="SOFARS_5619.7053.html"/>
+                      xtrc="SOFARS_5619.7053.html"
+                      tables="0"
+                      figures="0"/>
             <topicref href="5619.7054.dita"
                       navtitle="5619.705-4 Reviewing the Subcontract Plan."
                       props="5619.705-4"
@@ -2119,7 +2615,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5619.7054"
-                      xtrc="SOFARS_5619.7054.html"/>
+                      xtrc="SOFARS_5619.7054.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2129,7 +2627,9 @@
              props="Part 5622"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5622">
+             audience="SOFARS_PART_5622"
+             tables="0"
+             figures="0">
       <topicref href="5622.001.dita"
                 navtitle="5622.001 DEFINITIONS"
                 props="5622.001"
@@ -2137,7 +2637,9 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="SOFARS_5622.001"
-                xtrc="SOFARS_5622.001.html"/>
+                xtrc="SOFARS_5622.001.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5622.1.dita"
                 navtitle="Subpart 5622.1 - BASIC LABOR POLICIES"
                 outputclass="SubPart"
@@ -2145,7 +2647,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5622.1"
-                xtrc="SOFARS_SUBPART_5622.1.html">
+                xtrc="SOFARS_SUBPART_5622.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5622.103.dita"
                    navtitle="5622.103 Overtime."
                    props="5622.103"
@@ -2153,7 +2657,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5622.103"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5622.1034.dita"
                       navtitle="5622.103-4 Approvals."
                       props="5622.103-4"
@@ -2161,7 +2667,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5622.1034"
-                      xtrc="SOFARS_5622.1034.html"/>
+                      xtrc="SOFARS_5622.1034.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2171,7 +2679,9 @@
              props="Part 5623"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5623">
+             audience="SOFARS_PART_5623"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5623.4.dita"
                 navtitle="Subpart 5623.4 - Use of Recovered Materials"
                 outputclass="SubPart"
@@ -2179,7 +2689,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5623.4"
-                xtrc="SOFARS_SUBPART_5623.4.html">
+                xtrc="SOFARS_SUBPART_5623.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5623.404.dita"
                    navtitle="5623.404 Agency Affirmative Procurement Programs."
                    props="5623.404"
@@ -2187,7 +2699,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5623.404"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5623.405.dita"
                    navtitle="5623.405 Procedures."
                    props="5623.405"
@@ -2195,7 +2709,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5623.405"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5624.dita"
@@ -2204,7 +2720,9 @@
              props="Part 5624"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5624">
+             audience="SOFARS_PART_5624"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5624.2.dita"
                 navtitle="Subpart 5624.2 - FREEDOM OF INFORMATION ACT"
                 outputclass="SubPart"
@@ -2212,7 +2730,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5624.2"
-                xtrc="SOFARS_SUBPART_5624.2.html">
+                xtrc="SOFARS_SUBPART_5624.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5624.203.dita"
                    navtitle="5624.203 Policy."
                    props="5624.203"
@@ -2220,7 +2740,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5624.203"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5625.dita"
@@ -2229,7 +2751,9 @@
              props="Part 5625"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5625">
+             audience="SOFARS_PART_5625"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5625.1.dita"
                 navtitle="Subpart 5625.1 - BUY AMERICAN ACT  SUPPLIES"
                 outputclass="SubPart"
@@ -2237,7 +2761,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5625.1"
-                xtrc="SOFARS_SUBPART_5625.1.html">
+                xtrc="SOFARS_SUBPART_5625.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5625.103.dita"
                    navtitle="5625.103 Exceptions."
                    props="5625.103"
@@ -2245,7 +2771,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5625.103"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5625.8.dita"
                 navtitle="Subpart 5625.8 - OTHER INTERNATIONAL AGREEMENTS AND COORDINATION (Removed August 2017)"
@@ -2254,7 +2782,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5625.8"
-                xtrc="SOFARS_SUBPART_5625.8.html"/>
+                xtrc="SOFARS_SUBPART_5625.8.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5625.9.dita"
                 navtitle="Subpart 5625.9 - CUSTOMS AND DUTIES (Removed June 2021)"
                 outputclass="SubPart"
@@ -2262,7 +2792,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5625.9"
-                xtrc="SOFARS_SUBPART_5625.9.html"/>
+                xtrc="SOFARS_SUBPART_5625.9.html"
+                tables="0"
+                figures="0"/>
    </topicref>
    <topicref href="PART_5627.dita"
              navtitle="Part 5627 - PATENTS, DATA, AND COPYRIGHTS"
@@ -2270,7 +2802,9 @@
              props="Part 5627"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5627">
+             audience="SOFARS_PART_5627"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5627.3.dita"
                 navtitle="Subpart 5627.3 - PATENT RIGHTS UNDER GOVERNMENT CONTRACTS"
                 outputclass="SubPart"
@@ -2278,7 +2812,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5627.3"
-                xtrc="SOFARS_SUBPART_5627.3.html">
+                xtrc="SOFARS_SUBPART_5627.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5627.305.dita"
                    navtitle="5627.305 Administration of Patent Rights."
                    props="5627.305"
@@ -2286,7 +2822,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5627.305"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5627.3053.dita"
                       navtitle="5627.305-3 Securing invention rights acquired by the Government."
                       props="5627.305-3"
@@ -2294,7 +2832,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5627.3053"
-                      xtrc="SOFARS_5627.3053.html"/>
+                      xtrc="SOFARS_5627.3053.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5627.70.dita"
@@ -2304,7 +2844,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5627.70"
-                xtrc="SOFARS_SUBPART_5627.70.html">
+                xtrc="SOFARS_SUBPART_5627.70.html"
+                tables="0"
+                figures="0">
          <topicref href="5627.7004.dita"
                    navtitle="5627.7004 Requirements for Filing an Administrative Claim for Patent Infringements."
                    props="5627.7004"
@@ -2312,7 +2854,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5627.7004"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5628.dita"
@@ -2321,7 +2865,9 @@
              props="Part 5628"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5628">
+             audience="SOFARS_PART_5628"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5628.1.dita"
                 navtitle="Subpart 5628.1 - BONDS"
                 outputclass="SubPart"
@@ -2329,7 +2875,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5628.1"
-                xtrc="SOFARS_SUBPART_5628.1.html">
+                xtrc="SOFARS_SUBPART_5628.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5628.103.dita"
                    navtitle="5628.103 Performance and Payment Bonds for Other than Construction Contracts."
                    props="5628.103"
@@ -2337,7 +2885,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5628.103"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5628.1031.dita"
                       navtitle="5628.103-1 General."
                       props="5628.103-1"
@@ -2345,7 +2895,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5628.1031"
-                      xtrc="SOFARS_5628.1031.html"/>
+                      xtrc="SOFARS_5628.1031.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5628.106.dita"
                    navtitle="5628.106 Administration."
@@ -2354,7 +2906,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5628.106"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5628.10690.dita"
                       navtitle="5628.106-90 Review of Bonds and Notification of Surety."
                       props="5628.106-90"
@@ -2362,7 +2916,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5628.10690"
-                      xtrc="SOFARS_5628.10690.html"/>
+                      xtrc="SOFARS_5628.10690.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5628.3.dita"
@@ -2372,7 +2928,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5628.3"
-                xtrc="SOFARS_SUBPART_5628.3.html">
+                xtrc="SOFARS_SUBPART_5628.3.html"
+                tables="0"
+                figures="0">
          <topicref href="5628.310.dita"
                    navtitle="5628.310 Contract Clauses for Work on a Government Installation."
                    props="5628.310"
@@ -2380,7 +2938,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5628.310"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5628.370.dita"
                    navtitle="5628.370 Additional Clauses."
                    props="5628.370"
@@ -2388,7 +2948,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5628.370"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5629.dita"
@@ -2397,7 +2959,9 @@
              props="Part 5629"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5629">
+             audience="SOFARS_PART_5629"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5629.4.dita"
                 navtitle="Subpart 5629.4 - CONTRACT CLAUSES"
                 outputclass="SubPart"
@@ -2405,7 +2969,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5629.4"
-                xtrc="SOFARS_SUBPART_5629.4.html">
+                xtrc="SOFARS_SUBPART_5629.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5629.401.dita"
                    navtitle="5629.401 Domestic Contracts"
                    props="5629.401"
@@ -2413,7 +2979,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5629.401"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5629.4016.dita"
                       navtitle="5629.401-6 Gross Receipts and Compensating Tax"
                       props="5629.401-6"
@@ -2421,7 +2989,9 @@
                       outputclass="subtopic"
                       xtrf="SubPart"
                       audience="SOFARS_5629.4016"
-                      xtrc="SOFARS_5629.4016.html">
+                      xtrc="SOFARS_5629.4016.html"
+                      tables="0"
+                      figures="0">
                <topicref href="5629.401690.dita"
                          navtitle="5629.401-6-90 Procedures for authorizing the use of FAR 52.22910, State of New Mexico Gross Receipts and Compensating Tax"
                          props="5629.401-6-90"
@@ -2429,7 +2999,9 @@
                          outputclass="subtopic"
                          xtrf="subtopic"
                          audience="SOFARS_5629.401690"
-                         xtrc="SOFARS_5629.401690.html"/>
+                         xtrc="SOFARS_5629.401690.html"
+                         tables="0"
+                         figures="0"/>
             </topicref>
          </topicref>
       </topicref>
@@ -2440,7 +3012,9 @@
              props="Part 5631"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5631">
+             audience="SOFARS_PART_5631"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5631.2.dita"
                 navtitle="Subpart 5631.2 - CONTRACTS WITH COMMERCIAL ORGANIZATIONS"
                 outputclass="SubPart"
@@ -2448,7 +3022,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5631.2"
-                xtrc="SOFARS_SUBPART_5631.2.html">
+                xtrc="SOFARS_SUBPART_5631.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5631.205.dita"
                    navtitle="5631.205 Selected Costs."
                    props="5631.205"
@@ -2456,7 +3032,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5631.205"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5631.20532.dita"
                       navtitle="5631.205-32 PreContract Costs."
                       props="5631.205-32"
@@ -2464,7 +3042,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5631.20532"
-                      xtrc="SOFARS_5631.20532.html"/>
+                      xtrc="SOFARS_5631.20532.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5631.20546.dita"
                    navtitle="5631.205-46 Travel Costs (Removed August 2017)."
@@ -2473,7 +3053,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5631.20546"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5632.dita"
@@ -2482,7 +3064,9 @@
              props="Part 5632"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5632">
+             audience="SOFARS_PART_5632"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5632.4.dita"
                 navtitle="Subpart 5632.4 - ADVANCE PAYMENTS FOR NONCOMMERCIAL ITEMS"
                 outputclass="SubPart"
@@ -2490,7 +3074,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5632.4"
-                xtrc="SOFARS_SUBPART_5632.4.html">
+                xtrc="SOFARS_SUBPART_5632.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5632.4091.dita"
                    navtitle="5632.409-1 Recommendation for Approval."
                    props="5632.409-1"
@@ -2498,7 +3084,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5632.4091"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5632.7.dita"
                 navtitle="Subpart 5632.7 - CONTRACT FUNDING (Removed August 2017)"
@@ -2507,7 +3095,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5632.7"
-                xtrc="SOFARS_SUBPART_5632.7.html"/>
+                xtrc="SOFARS_SUBPART_5632.7.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5632.9.dita"
                 navtitle="Subpart 5632.9 - PROMPT PAYMENT (Removed June 2018)"
                 outputclass="SubPart"
@@ -2515,7 +3105,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5632.9"
-                xtrc="SOFARS_SUBPART_5632.9.html"/>
+                xtrc="SOFARS_SUBPART_5632.9.html"
+                tables="0"
+                figures="0"/>
       <topicref href="SUBPART_5632.70.dita"
                 navtitle="Subpart 5632.70 - ELECTRONIC SUBMISSION AND PROCESSING OF PAYMENT REQUESTS AND RECEIVING REPORTS"
                 outputclass="SubPart"
@@ -2523,7 +3115,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5632.70"
-                xtrc="SOFARS_SUBPART_5632.70.html"/>
+                xtrc="SOFARS_SUBPART_5632.70.html"
+                tables="0"
+                figures="0"/>
    </topicref>
    <topicref href="PART_5633.dita"
              navtitle="Part 5633 - PROTESTS, DISPUTES AND APPEALS"
@@ -2531,7 +3125,9 @@
              props="Part 5633"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5633">
+             audience="SOFARS_PART_5633"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5633.1.dita"
                 navtitle="Subpart 5633.1 - PROTESTS"
                 outputclass="SubPart"
@@ -2539,7 +3135,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5633.1"
-                xtrc="SOFARS_SUBPART_5633.1.html">
+                xtrc="SOFARS_SUBPART_5633.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5633.102.dita"
                    navtitle="5633.102 General."
                    props="5633.102"
@@ -2547,7 +3145,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.102"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5633.103.dita"
                    navtitle="5633.103 Protests to the Agency."
                    props="5633.103"
@@ -2555,7 +3155,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.103"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5633.104.dita"
                    navtitle="5633.104 Protests to GAO."
                    props="5633.104"
@@ -2563,7 +3165,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.104"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5633.106.dita"
                    navtitle="5633.106 Solicitation Provisions and Contract Clauses."
                    props="5633.106"
@@ -2571,7 +3175,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.106"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5633.2.dita"
                 navtitle="Subpart 5633.2 - DISPUTES AND APPEALS"
@@ -2580,7 +3186,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5633.2"
-                xtrc="SOFARS_SUBPART_5633.2.html">
+                xtrc="SOFARS_SUBPART_5633.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5633.209.dita"
                    navtitle="5633.209 Suspected Fraudulent Claims."
                    props="5633.209"
@@ -2588,7 +3196,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.209"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5633.211.dita"
                    navtitle="5633.211 Contracting Officers Decision"
                    props="5633.211"
@@ -2596,7 +3206,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.211"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5633.212.dita"
                    navtitle="5633.212 Contracting Officer Duties Upon Appeal."
                    props="5633.212"
@@ -2604,7 +3216,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5633.212"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5637.dita"
@@ -2613,7 +3227,9 @@
              props="Part 5637"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5637">
+             audience="SOFARS_PART_5637"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5637.1.dita"
                 navtitle="Subpart 5637.1 - SERVICE CONTRACTS  GENERAL"
                 outputclass="SubPart"
@@ -2621,7 +3237,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5637.1"
-                xtrc="SOFARS_SUBPART_5637.1.html">
+                xtrc="SOFARS_SUBPART_5637.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5637.102.dita"
                    navtitle="5637.102 Policy."
                    props="5637.102"
@@ -2629,7 +3247,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.102"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5637.10390.dita"
                    navtitle="5637.103-90 Contracting Officer Responsibility."
                    props="5637.103-90"
@@ -2637,7 +3257,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.10390"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5637.104.dita"
                    navtitle="5637.104 Personal Service Contracts."
                    props="5637.104"
@@ -2645,7 +3267,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.104"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5637.110.dita"
                    navtitle="5637.110 Solicitation Provisions and Contract Clauses."
                    props="5637.110"
@@ -2653,7 +3277,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.110"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5637.170.dita"
                    navtitle="5637.170 Approval of contracts and task orders for services."
                    props="5637.170"
@@ -2661,7 +3287,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.170"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5637.1702.dita"
                       navtitle="5637.170-2 Approval Requirements."
                       props="5637.170-2"
@@ -2669,7 +3297,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5637.1702"
-                      xtrc="SOFARS_5637.1702.html"/>
+                      xtrc="SOFARS_5637.1702.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_5637.2.dita"
@@ -2679,7 +3309,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5637.2"
-                xtrc="SOFARS_SUBPART_5637.2.html">
+                xtrc="SOFARS_SUBPART_5637.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5637.203.dita"
                    navtitle="5637.203 Policy."
                    props="5637.203"
@@ -2687,7 +3319,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.203"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5637.204.dita"
                    navtitle="5637.204 Guidelines for Determining Availability of Personnel."
                    props="5637.204"
@@ -2695,7 +3329,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.204"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5637.5.dita"
                 navtitle="Subpart 5637.5 - MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
@@ -2704,7 +3340,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5637.5"
-                xtrc="SOFARS_SUBPART_5637.5.html">
+                xtrc="SOFARS_SUBPART_5637.5.html"
+                tables="0"
+                figures="0">
          <topicref href="5637.503.dita"
                    navtitle="5637.503 AgencyHead Responsibilities"
                    props="5637.503"
@@ -2712,7 +3350,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5637.503"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5637.59090.dita"
                       navtitle="5637.590-90 Contractor Manpower Reporting"
                       props="5637.590-90"
@@ -2720,7 +3360,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5637.59090"
-                      xtrc="SOFARS_5637.59090.html"/>
+                      xtrc="SOFARS_5637.59090.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2730,7 +3372,9 @@
              props="Part 5639"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5639">
+             audience="SOFARS_PART_5639"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5639.1.dita"
                 navtitle="Subpart 5639.1 - GENERAL"
                 outputclass="SubPart"
@@ -2738,7 +3382,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5639.1"
-                xtrc="SOFARS_SUBPART_5639.1.html">
+                xtrc="SOFARS_SUBPART_5639.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5639.105.dita"
                    navtitle="5639.105 Privacy."
                    props="5639.105"
@@ -2746,7 +3392,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5639.105"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5639.10590.dita"
                       navtitle="5639.105-90 Policy."
                       props="5639.105-90"
@@ -2754,7 +3402,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5639.10590"
-                      xtrc="SOFARS_5639.10590.html"/>
+                      xtrc="SOFARS_5639.10590.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2764,7 +3414,9 @@
              props="Part 5642"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5642">
+             audience="SOFARS_PART_5642"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5642.2.dita"
                 navtitle="Subpart 5642.2 - CONTRACT ADMINISTRATION SERVICES"
                 outputclass="SubPart"
@@ -2772,7 +3424,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5642.2"
-                xtrc="SOFARS_SUBPART_5642.2.html">
+                xtrc="SOFARS_SUBPART_5642.2.html"
+                tables="0"
+                figures="0">
          <topicref href="5642.202.dita"
                    navtitle="5642.202 Assignment of Contract Administration."
                    props="5642.202"
@@ -2780,7 +3434,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5642.202"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5642.4.dita"
                 navtitle="Subpart 5642.4 - CORRESPSONDENCE AND VISITS"
@@ -2789,7 +3445,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5642.4"
-                xtrc="SOFARS_SUBPART_5642.4.html">
+                xtrc="SOFARS_SUBPART_5642.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5642.490.dita"
                    navtitle="5642.490 Contract Clauses."
                    props="5642.490"
@@ -2797,7 +3455,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5642.490"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5642.15.dita"
                 navtitle="Subpart 5642.15 - CONTRACTOR PERFORMANCE INFORMATION"
@@ -2806,7 +3466,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5642.15"
-                xtrc="SOFARS_SUBPART_5642.15.html">
+                xtrc="SOFARS_SUBPART_5642.15.html"
+                tables="0"
+                figures="0">
          <topicref href="5642.1503.dita"
                    navtitle="5642.1503 Procedures."
                    props="5642.1503"
@@ -2814,7 +3476,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5642.1503"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5643.dita"
@@ -2823,7 +3487,9 @@
              props="Part 5643"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5643">
+             audience="SOFARS_PART_5643"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5643.1.dita"
                 navtitle="Subpart 5643.1 - GENERAL"
                 outputclass="SubPart"
@@ -2831,7 +3497,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5643.1"
-                xtrc="SOFARS_SUBPART_5643.1.html">
+                xtrc="SOFARS_SUBPART_5643.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5643.105.dita"
                    navtitle="5643.105 Availability of Funds"
                    props="5643.105"
@@ -2839,7 +3507,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5643.105"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5646.dita"
@@ -2848,7 +3518,9 @@
              props="Part 5646"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5646">
+             audience="SOFARS_PART_5646"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5646.7.dita"
                 navtitle="Subpart 5646.7 - WARRANTIES"
                 outputclass="SubPart"
@@ -2856,7 +3528,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5646.7"
-                xtrc="SOFARS_SUBPART_5646.7.html">
+                xtrc="SOFARS_SUBPART_5646.7.html"
+                tables="0"
+                figures="0">
          <topicref href="5646.706.dita"
                    navtitle="5646.706 Warranty Terms and Conditions."
                    props="5646.706"
@@ -2864,7 +3538,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5646.706"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5647.dita"
@@ -2873,7 +3549,9 @@
              props="Part 5647"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5647">
+             audience="SOFARS_PART_5647"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5647.4.dita"
                 navtitle="Subpart 5647.4 - AIR TRANSPORTATION BY U.S. FLAG CARRIERS"
                 outputclass="SubPart"
@@ -2881,7 +3559,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5647.4"
-                xtrc="SOFARS_SUBPART_5647.4.html">
+                xtrc="SOFARS_SUBPART_5647.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5647.402.dita"
                    navtitle="5647.402 Policy"
                    props="5647.402"
@@ -2889,7 +3569,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5647.402"
-                   xtrc="">
+                   xtrc=""
+                   tables="0"
+                   figures="0">
             <topicref href="5647.4029000.dita"
                       navtitle="5647.402-9000 Flight Service Contract Distribution and Reporting."
                       props="5647.402-9000"
@@ -2897,7 +3579,9 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="SOFARS_5647.4029000"
-                      xtrc="SOFARS_5647.4029000.html"/>
+                      xtrc="SOFARS_5647.4029000.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
       </topicref>
    </topicref>
@@ -2907,7 +3591,9 @@
              props="Part 5649"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5649">
+             audience="SOFARS_PART_5649"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5649.1.dita"
                 navtitle="Subpart 5649.1 - GENERAL PRINCIPLES"
                 outputclass="SubPart"
@@ -2915,7 +3601,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5649.1"
-                xtrc="SOFARS_SUBPART_5649.1.html">
+                xtrc="SOFARS_SUBPART_5649.1.html"
+                tables="0"
+                figures="0">
          <topicref href="5649.101.dita"
                    navtitle="5649.101 Authorities and Responsibilities."
                    props="5649.101"
@@ -2923,7 +3611,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5649.101"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5649.4.dita"
                 navtitle="Subpart 5649.4 - TERMINATION NOTIFICATION"
@@ -2932,7 +3622,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5649.4"
-                xtrc="SOFARS_SUBPART_5649.4.html">
+                xtrc="SOFARS_SUBPART_5649.4.html"
+                tables="0"
+                figures="0">
          <topicref href="5649.470.dita"
                    navtitle="5649.470 Required Reporting of all Notification for Termination for Cause and Termination for Default"
                    props="5649.470"
@@ -2940,7 +3632,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5649.470"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="SUBPART_5649.6.dita"
                 navtitle="Subpart 5649.6 - CONTRACT TERMINATION FORMS AND FORMATS"
@@ -2949,7 +3643,9 @@
                 base="NoTitle"
                 xtrf="SubPart"
                 audience="SOFARS_SUBPART_5649.6"
-                xtrc="SOFARS_SUBPART_5649.6.html">
+                xtrc="SOFARS_SUBPART_5649.6.html"
+                tables="0"
+                figures="0">
          <topicref href="5649.607.dita"
                    navtitle="5649.607 Delinquency Notices."
                    props="5649.607"
@@ -2957,7 +3653,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5649.607"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_5652.dita"
@@ -2966,7 +3664,9 @@
              props="Part 5652"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_PART_5652">
+             audience="SOFARS_PART_5652"
+             tables="0"
+             figures="0">
       <topicref href="SUBPART_5652.2.dita"
                 navtitle="Subpart 5652.2 - [RESERVED]"
                 outputclass="SubPart"
@@ -2974,7 +3674,9 @@
                 audience="SOFARS_SUBPART_5652.2"
                 xtrc="SOFARS_SUBPART_5652.2.html"
                 xtrf="SubPart"
-                base="NoTitle">
+                base="NoTitle"
+                tables="0"
+                figures="0">
          <topicref href="5652.2049003.dita"
                    navtitle="5652.204-9003 Disclosure of Unclassified Information (2023) Section H"
                    outputclass="subtopic"
@@ -2982,7 +3684,9 @@
                    xtrf="subtopic"
                    base="NoTitle"
                    props="5652.204-9003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2049004.dita"
                    navtitle="5652.204-9004 Foreign Persons (2006) Section K"
                    props="5652.204-9004"
@@ -2990,7 +3694,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2049004"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2099002.dita"
                    navtitle="5652.209-9002 Use of Contractor Support/Advisory Personnel for Review of Proposals (2015) Section L"
                    props="5652.209-9002"
@@ -2998,7 +3704,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2099002"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2099003.dita"
                    navtitle="5652.209-9003 Use of Contractor Support/Advisory Personnel (2015) Section H"
                    props="5652.209-9003"
@@ -3006,7 +3714,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2099003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2149002.dita"
                    navtitle="5652.214-9002 Notice of Prebid Conference (2003) Section L"
                    props="5652.214-9002"
@@ -3014,7 +3724,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2149002"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2149003.dita"
                    navtitle="5652.214-9003 Price History (2001) Section L"
                    props="5652.214-9003"
@@ -3022,7 +3734,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2149003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="1"
+                   figures="0"/>
          <topicref href="5652.2159001.dita"
                    navtitle="5652.215-9001 Notice of Preproposal Conference (2001) Section L"
                    props="5652.215-9001"
@@ -3030,7 +3744,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159001"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159007.dita"
                    navtitle="5652.215-9007 Bill of Materials (1998) Section L"
                    props="5652.215-9007"
@@ -3038,7 +3754,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159007"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159008.dita"
                    navtitle="5652.215-9008 Past Performance Data (2001) Section L"
                    props="5652.215-9008"
@@ -3046,7 +3764,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159008"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159009.dita"
                    navtitle="5652.215-9009 Personnel Changes before Award (2008) Section L"
                    props="5652.215-9009"
@@ -3054,7 +3774,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159009"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159010.dita"
                    navtitle="5652.215-9010 Cost and Pricing Data Not Required (1998) Section L"
                    props="5652.215-9010"
@@ -3062,7 +3784,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159010"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159012.dita"
                    navtitle="5652.215-9012 Basis for Award (2001) Section M"
                    props="5652.215-9012"
@@ -3070,7 +3794,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159012"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159014.dita"
                    navtitle="5652.215-9014 Basis for AwardLowest Price Technically Acceptable Proposal (2003) Section M"
                    props="5652.215-9014"
@@ -3078,7 +3804,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159014"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2159015.dita"
                    navtitle="5652.215-9015 Evaluation of Offers  Full Quantity (2003) Section M"
                    props="5652.215-9015"
@@ -3086,7 +3814,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2159015"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169000.dita"
                    navtitle="5652.216-9000 Fixed Fee Information (2003) Section G"
                    props="5652.216-9000"
@@ -3094,7 +3824,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169000"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169001.dita"
                    navtitle="5652.216-9001 Oral Orders  Indefinite Delivery Contracts (2005) Section I"
                    props="5652.216-9001"
@@ -3102,7 +3834,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169001"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169002.dita"
                    navtitle="5652.216-9002 Withholding of Fixed Fee or Incentive Fee (2005) Section I"
                    props="5652.216-9002"
@@ -3110,7 +3844,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169002"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169003.dita"
                    navtitle="5652.216-9003 Procedures for Issuing Task/Delivery Orders under Multiple Award, Indefinite DeliveryIndefinite Quantity Contracts (2020) Section H"
                    props="5652.216-9003"
@@ -3118,7 +3854,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169004.dita"
                    navtitle="5652.216-9004 , Procedures for Issuing Task/Delivery Orders under Single Award, Indefinite DeliveryIndefinite Quantity Contracts (2003) Section H"
                    props="5652.216-9004"
@@ -3126,7 +3864,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169004"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2169005.dita"
                    navtitle="5652.216-9005 , Government Down Time for Various Reasons (2005) Section I"
                    props="5652.216-9005"
@@ -3134,7 +3874,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2169005"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2289000.dita"
                    navtitle="5652.228-9000 Required Insurance (2015) Section G"
                    props="5652.228-9000"
@@ -3142,7 +3884,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2289000"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="1"
+                   figures="0"/>
          <topicref href="5652.2329001.dita"
                    navtitle="5652.232-9001 Invoicing (2005) Section I (Removed June 2018)"
                    props="5652.232-9001"
@@ -3150,7 +3894,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2329001"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2329003.dita"
                    navtitle="5652.232-9003 Paying Office Instructions (2011) Section G (Removed June 2018)"
                    props="5652.232-9003"
@@ -3158,7 +3904,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2329003"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2329006.dita"
                    navtitle="5652.232-9006 Electronic Distribution of Vouchers/Invoices Using Alternative to WAWF (2011) Section G (Removed June 2018)"
                    props="5652.232-9006"
@@ -3166,7 +3914,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2329006"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2329007.dita"
                    navtitle="5652.232-9007 Manual Distribution of Vouchers/Invoices (2011) Section G (Removed June 2018)"
                    props="5652.232-9007"
@@ -3174,7 +3924,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2329007"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2339000.dita"
                    navtitle="5652.233-9000 Independent Review of Agency Protest Decision (2018) Section I"
                    props="5652.233-9000"
@@ -3182,7 +3934,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2339000"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2379001.dita"
                    navtitle="5652.237-9001 Key Personnel Requirements (2003) Section I"
                    props="5652.237-9001"
@@ -3190,7 +3944,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2379001"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="5652.2429002.dita"
                    navtitle="5652.242-9002 Accounting for Common Access Cards (CACs) for Contractor Personnel Departing HQ USSOCOM (2014) Section I"
                    props="5652.242-9002"
@@ -3198,7 +3954,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="SOFARS_5652.2429002"
-                   xtrc=""/>
+                   xtrc=""
+                   tables="1"
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="Attachment_5601-1.dita"
@@ -3207,7 +3965,9 @@
              base="NoTitle"
              props="Attachment 5601-1"
              xtrf="Part"
-             audience="SOFARS_Attachment_5601-1">
+             audience="SOFARS_Attachment_5601-1"
+             tables="0"
+             figures="0">
       <topicref href="Attachment-5601-1-Index.dita"
                 navtitle=" Index"
                 base="NoTitle"
@@ -3215,7 +3975,9 @@
                 xtrf="SubPart"
                 audience="SOFARS_Attachment-5601-1-Index"
                 props=""
-                xtrc="SOFARS_Attachment-5601-1-Index.html"/>
+                xtrc="SOFARS_Attachment-5601-1-Index.html"
+                tables="0"
+                figures="0"/>
       <topicref href="Attachment_5601-1.1a.dita"
                 navtitle="Attachment 5601-1.1 a Table Of Contents"
                 props="Attachment 5601-1.1 a"
@@ -3223,7 +3985,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.1a"
-                xtrc="SOFARS_Attachment_5601-1.1a.html"/>
+                xtrc="SOFARS_Attachment_5601-1.1a.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.1b.dita"
                 navtitle="Attachment 5601-1.1 b Table Of Contents"
                 props="Attachment 5601-1.1 b"
@@ -3231,7 +3995,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.1b"
-                xtrc="SOFARS_Attachment_5601-1.1b.html"/>
+                xtrc="SOFARS_Attachment_5601-1.1b.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2a.dita"
                 navtitle="Attachment 5601-1.2 a Table Of Contents"
                 props="Attachment 5601-1.2 a"
@@ -3239,7 +4005,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2a"
-                xtrc="SOFARS_Attachment_5601-1.2a.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2a.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2b.dita"
                 navtitle="Attachment 5601-1.2 b Table Of Contents"
                 props="Attachment 5601-1.2 b"
@@ -3247,7 +4015,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2b"
-                xtrc="SOFARS_Attachment_5601-1.2b.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2b.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2c.dita"
                 navtitle="Attachment 5601-1.2 c Table Of Contents"
                 props="Attachment 5601-1.2 c"
@@ -3255,7 +4025,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2c"
-                xtrc="SOFARS_Attachment_5601-1.2c.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2c.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2d.dita"
                 navtitle="Attachment 5601-1.2 d Table Of Contents"
                 props="Attachment 5601-1.2 d"
@@ -3263,7 +4035,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2d"
-                xtrc="SOFARS_Attachment_5601-1.2d.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2d.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2e.dita"
                 navtitle="Attachment 5601-1.2 e Table Of Contents"
                 props="Attachment 5601-1.2 e"
@@ -3271,7 +4045,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2e"
-                xtrc="SOFARS_Attachment_5601-1.2e.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2e.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2f.dita"
                 navtitle="Attachment 5601-1.2 f Table Of Contents"
                 props="Attachment 5601-1.2 f"
@@ -3279,7 +4055,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2f"
-                xtrc="SOFARS_Attachment_5601-1.2f.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2f.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2g.dita"
                 navtitle="Attachment 5601-1.2 g Table Of Contents"
                 props="Attachment 5601-1.2 g"
@@ -3287,7 +4065,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2g"
-                xtrc="SOFARS_Attachment_5601-1.2g.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2g.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2h.dita"
                 navtitle="Attachment 5601-1.2 h Table Of Contents"
                 props="Attachment 5601-1.2 h"
@@ -3295,7 +4075,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2h"
-                xtrc="SOFARS_Attachment_5601-1.2h.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2h.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2i.dita"
                 navtitle="Attachment 5601-1.2 i Table Of Contents"
                 props="Attachment 5601-1.2 i"
@@ -3303,7 +4085,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2i"
-                xtrc="SOFARS_Attachment_5601-1.2i.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2i.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2j.dita"
                 navtitle="Attachment 5601-1.2 j Table Of Contents"
                 props="Attachment 5601-1.2 j"
@@ -3311,7 +4095,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2j"
-                xtrc="SOFARS_Attachment_5601-1.2j.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2j.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-1.2k.dita"
                 navtitle="Attachment 5601-1.2 k Table Of Contents"
                 props="Attachment 5601-1.2 k"
@@ -3319,7 +4105,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-1.2k"
-                xtrc="SOFARS_Attachment_5601-1.2k.html"/>
+                xtrc="SOFARS_Attachment_5601-1.2k.html"
+                tables="1"
+                figures="0"/>
    </topicref>
    <topicref href="Attachment_5601-2.dita"
              navtitle="Attachment 5601-2 Table Of Contents"
@@ -3327,7 +4115,9 @@
              props="Attachment 5601-2"
              base="NoTitle"
              xtrf="Part"
-             audience="SOFARS_Attachment_5601-2">
+             audience="SOFARS_Attachment_5601-2"
+             tables="0"
+             figures="0">
       <topicref href="Attachment_5601-2_Index.dita"
                 navtitle=" Index"
                 base="NoTitle"
@@ -3335,7 +4125,9 @@
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2-Index"
                 props=""
-                xtrc="SOFARS_Attachment_5601-2-Index.html"/>
+                xtrc="SOFARS_Attachment_5601-2-Index.html"
+                tables="0"
+                figures="0"/>
       <topicref href="Attachment_5601-2.1a.dita"
                 navtitle="Attachment 5601-2.1 a Table Of Contents"
                 props="Attachment 5601-2.1 a"
@@ -3343,7 +4135,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.1a"
-                xtrc="SOFARS_Attachment_5601-2.1a.html"/>
+                xtrc="SOFARS_Attachment_5601-2.1a.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2a.dita"
                 navtitle="Attachment 5601-2.2 a Table Of Contents"
                 props="Attachment 5601-2.2 a"
@@ -3351,7 +4145,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2a"
-                xtrc="SOFARS_Attachment_5601-2.2a.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2a.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2b.dita"
                 navtitle="Attachment 5601-2.2 b Table Of Contents"
                 props="Attachment 5601-2.2 b"
@@ -3359,7 +4155,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2b"
-                xtrc="SOFARS_Attachment_5601-2.2b.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2b.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2c.dita"
                 navtitle="Attachment 5601-2.2 c Table Of Contents"
                 props="Attachment 5601-2.2 c"
@@ -3367,7 +4165,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2c"
-                xtrc="SOFARS_Attachment_5601-2.2c.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2c.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2d.dita"
                 navtitle="Attachment 5601-2.2 d Table Of Contents"
                 props="Attachment 5601-2.2 d"
@@ -3375,7 +4175,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2d"
-                xtrc="SOFARS_Attachment_5601-2.2d.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2d.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2e.dita"
                 navtitle="Attachment 5601-2.2 e Table Of Contents"
                 props="Attachment 5601-2.2 e"
@@ -3383,7 +4185,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2e"
-                xtrc="SOFARS_Attachment_5601-2.2e.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2e.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2f.dita"
                 navtitle="Attachment 5601-2.2 f Table Of Contents"
                 props="Attachment 5601-2.2 f"
@@ -3391,7 +4195,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2f"
-                xtrc="SOFARS_Attachment_5601-2.2f.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2f.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2g.dita"
                 navtitle="Attachment 5601-2.2 g Table Of Contents"
                 props="Attachment 5601-2.2 g"
@@ -3399,7 +4205,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2g"
-                xtrc="SOFARS_Attachment_5601-2.2g.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2g.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2h.dita"
                 navtitle="Attachment 5601-2.2 h Table Of Contents"
                 props="Attachment 5601-2.2 h"
@@ -3407,7 +4215,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2h"
-                xtrc="SOFARS_Attachment_5601-2.2h.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2h.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2i.dita"
                 navtitle="Attachment 5601-2.2 i Table Of Contents"
                 props="Attachment 5601-2.2 i"
@@ -3415,7 +4225,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2i"
-                xtrc="SOFARS_Attachment_5601-2.2i.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2i.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2j.dita"
                 navtitle="Attachment 5601-2.2 j Table Of Contents"
                 props="Attachment 5601-2.2 j"
@@ -3423,7 +4235,9 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2j"
-                xtrc="SOFARS_Attachment_5601-2.2j.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2j.html"
+                tables="1"
+                figures="0"/>
       <topicref href="Attachment_5601-2.2k.dita"
                 navtitle="Attachment 5601-2.2 k Table Of Contents"
                 props="Attachment 5601-2.2 k"
@@ -3431,6 +4245,8 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="SOFARS_Attachment_5601-2.2k"
-                xtrc="SOFARS_Attachment_5601-2.2k.html"/>
+                xtrc="SOFARS_Attachment_5601-2.2k.html"
+                tables="1"
+                figures="0"/>
    </topicref>
 </map>
